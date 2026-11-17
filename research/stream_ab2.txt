@@ -1,0 +1,57 @@
+pack EXIT=0
+FIN connecte=True CSV=bench_1794358557.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_01-44-10
+VRAM sb_ref1 : moyenne 1764 Mo, pic 3449 Mo ; RAM privee pic 8989 Mo, fin 3215 Mo
+FINI
+-- client:
+01:46:53.529 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+01:55:37.343 SCRIPT       : [ZO] CHUNK purge initiale terminee en 523.814 s (supprimes=2292756, ignores Rpl=230478 sansPrefab=0, joueur=0) memMo=2819
+-- serveur:
+01:45:10.532 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+FIN connecte=True CSV=bench_1794359450.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_01-57-43
+VRAM sb_ref2 : moyenne 2039 Mo, pic 3967 Mo ; RAM privee pic 9643 Mo, fin 3312 Mo
+FINI
+== sb_ref1
+label fpsMoyen pireFrameMs memoireMo
+T1 89.6 32.9 3006
+T1 82.0 28.8 3014
+T1 19.7 100.4 3109
+T1 47.0 72.1 3129
+== sb_ref2
+label fpsMoyen pireFrameMs memoireMo
+T1 86.6 23.5 3027
+T1 78.3 31.5 3035
+T1 51.6 41.9 3046
+T1 49.1 110.0 3085
+X11Z9 61.2 80.9 3146
+X11Z9 53.4 45.8 3148
+X11Z9 80.8 24.7 3148
+X11Z9 78.1 23.1 3151
+B en place : calques 67M, tuiles 474
+pack EXIT=0
+FIN connecte=True CSV=bench_1794359776.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_02-13-25
+VRAM sb_str1 : moyenne 2073 Mo, pic 3772 Mo ; RAM privee pic 8074 Mo, fin 7423 Mo
+FINI
+-- client:
+02:15:54.377 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+-- serveur:
+02:14:16.864 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+FIN connecte=True CSV=bench_1794360075.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_02-18-36
+VRAM sb_str2 : moyenne 1715 Mo, pic 3256 Mo ; RAM privee pic 7556 Mo, fin 7190 Mo
+FINI
+== sb_str1
+label fpsMoyen pireFrameMs memoireMo
+T1 105.6 16.2 2831
+T1 92.2 28.7 2835
+T1 59.6 49.8 2856
+T1 23.9 112.3 2951
+X11Z9 63.9 114.8 2959
+X11Z9 57.8 28.6 2960
+X11Z9 88.2 26.7 2960
+X11Z9 95.3 24.3 2961
+== sb_str2
+label fpsMoyen pireFrameMs memoireMo
+T1 101.3 13.9 2839
+T1 87.1 25.9 2842
+T1 41.6 86.3 2910
+T1 38.3 73.7 2950
+remis : calques 274M, Stream absent: oui

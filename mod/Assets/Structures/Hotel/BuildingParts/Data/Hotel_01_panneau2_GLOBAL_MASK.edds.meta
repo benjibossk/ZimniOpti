@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4DF2C39C5F091D40}Assets/Structures/Hotel/BuildingParts/Data/Hotel_01_panneau2_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

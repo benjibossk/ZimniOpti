@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A39B08EF28D8C8B5}Assets/Structures/Hotel/BuildingParts/Data/Hotel_01_Stair_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

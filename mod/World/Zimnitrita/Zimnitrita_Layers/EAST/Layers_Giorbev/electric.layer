@@ -1,0 +1,664 @@
+$grp SplineShapeEntity {
+ {
+  coords 16006.143 138.625 8682.918
+  Points {
+   ShapePoint "{5DF141B6D63A3A76}" {
+    Position -51.433 -2.205 21.529
+   }
+   ShapePoint "{5DF141B6D5372011}" {
+    Position -1.92 -3.585 21.903
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.04 -0.364 -5.417
+      OutTangent -0.04 -0.364 -5.417
+     }
+    }
+   }
+   ShapePoint "{5DF141B6D13601FB}" {
+    Position -5.389 -3.135 -42.168
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -1.563 -0.053 0.022
+      OutTangent -1.563 -0.053 0.022
+     }
+    }
+   }
+   ShapePoint "{5DF141B73AAAD192}" {
+    Position -23.356 -3.053 -42.55
+   }
+   ShapePoint "{5DF141B738A994BA}" {
+    Position -49.786 -2.039 -43.386
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{4CA251EBE9778336}PrefabLibrary/DefaultLibrary/Generators/Walls/Concrete/WG_ConcreteWall_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     SCR_DestructibleEntity : "{2BA5C7F599779832}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_D_A.et" {
+      coords -33.755 -2.698 21.663
+      angles 0 -0.433 0
+     }
+     $grp SCR_DestructibleEntity : "{350B1D05E8446B1C}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_A.et" {
+      {
+       coords -39.675 -2.533 21.618
+       angles 0 -0.433 0
+      }
+      {
+       coords -10.036 -3.359 21.842
+       angles 0 -0.433 0
+      }
+      {
+       coords -4.389 -3.418 4.194
+       angles 0 -268.764 0
+      }
+      {
+       coords -4.516 -3.382 -1.728
+       angles 0 -268.764 0
+      }
+      {
+       coords -4.772 -3.31 -13.576
+       angles 0 -268.764 0
+      }
+      {
+       coords -4.9 -3.274 -19.498
+       angles 0 -268.764 0
+      }
+      {
+       coords -5.028 -3.237 -25.419
+       angles 0 -268.764 0
+      }
+      {
+       coords -5.242 -3.147 -40.287
+       angles 0 172.879 -0.694
+      }
+      {
+       coords -16.997 -3.086 -41.755
+       angles 0 -187.121 0
+      }
+      {
+       coords -22.873 -3.059 -42.5
+       angles 0 -181.886 0
+      }
+      {
+       coords -34.709 -2.61 -42.889
+       angles 0 -181.886 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{47F1F31525B3171C}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_D_B.et" {
+      {
+       coords -4.644 -3.346 -7.65
+       angles 0 -268.764 0
+      }
+      {
+       coords -28.789 -2.835 -42.694
+       angles 0 -181.886 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{595F29E55480E432}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_B.et" {
+      {
+       coords -51.541 -2.202 21.528
+       angles 0 -0.433 0
+      }
+      {
+       coords -45.608 -2.367 21.573
+       angles 0 -0.433 0
+      }
+      {
+       coords -27.834 -2.863 21.707
+       angles 0 -0.433 0
+      }
+      {
+       coords -21.901 -3.028 21.752
+       angles 0 -0.433 0
+      }
+      {
+       coords -15.968 -3.193 21.797
+       angles 0 -0.433 0
+      }
+      {
+       coords -4.004 -3.527 21.995
+       angles 0 -268.764 0
+      }
+      {
+       coords -4.133 -3.491 16.061
+       angles 0 -268.764 0
+      }
+      {
+       coords -4.261 -3.455 10.128
+       angles 0 -268.764 0
+      }
+      {
+       coords -5.155 -3.201 -31.341
+       angles 0 -268.764 0
+      }
+      {
+       coords -40.625 -2.386 -43.084
+       angles 0 -181.886 0
+      }
+     }
+     SCR_DestructibleEntity : "{95A1D31077D47BEA}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_Pole.et" {
+      coords -49.476 -2.05 -43.376
+      angles 0 -181.886 0
+     }
+     $grp SCR_DestructibleEntity : "{CAFF4B51059A0F81}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_3m.et" {
+      {
+       coords -5.283 -3.165 -37.275
+       angles 0 -268.764 0
+      }
+      {
+       coords -46.553 -2.161 -43.28
+       angles 0 -181.886 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 15190.579 62.125 6194.721
+  Points {
+   ShapePoint "{610882FAB31C56F0}" {
+    Position -18.579 0 21.354
+   }
+   ShapePoint "{610882FAB24CE3DB}" {
+    Position -1.49 0 21.561
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.008 0 -1.812
+      OutTangent -0.008 0 -1.812
+     }
+    }
+   }
+   ShapePoint "{610882FAB2998672}" {
+    Position -3.762 0 -18.522
+   }
+   ShapePoint "{610882FAB1D7F827}" {
+    Position -9.183 0.001 -58.387
+   }
+   ShapePoint "{610882FAAEA10EDB}" {
+    Position -11.26 0 -76.582
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -1.314 0 -0.147
+      OutTangent -1.314 0 -0.147
+     }
+    }
+   }
+   ShapePoint "{610882FAAB4C0C7C}" {
+    Position -35.387 0 -77.487
+   }
+   ShapePoint "{610882FAAA5F4B6D}" {
+    Position -67.792 0 -76.329
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 0.205 0 1.545
+      OutTangent 0.205 0 1.545
+     }
+    }
+   }
+   ShapePoint "{610882FAA85922CF}" {
+    Position -66.422 0 -61.267
+   }
+   ShapePoint "{610882FAA7A801BC}" {
+    Position -64.095 0 -30.079
+   }
+   ShapePoint "{610882FA965A920B}" {
+    Position -61.74 0 20.456
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 1.723 0 0.151
+      OutTangent 1.723 0 0.151
+     }
+    }
+   }
+   ShapePoint "{610882FA952C098F}" {
+    Position -29.295 0 20.868
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{258C73297AB1F8B6}PrefabLibrary/DefaultLibrary/Generators/Walls/Brick/WG_BrickWallOld_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_DestructibleEntity : "{01079F398B16C794}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_D.et" {
+      {
+       coords -1.325 0 21.611
+       angles 0 -266.525 0
+      }
+      {
+       coords -10.066 0 -66.133
+       angles 0 -263.484 0
+      }
+      {
+       coords -66.287 0 -58.89
+       angles 0 -85.65 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{05C21CFA1B8FC4FA}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_4m_A.et" {
+      {
+       coords -15.071 0 21.396
+       angles 0 -0.692 0
+      }
+      {
+       coords -2.04 0 9.833
+       angles 0 -266.525 0
+      }
+      {
+       coords -3.226 0 -9.7
+       angles 0 -266.525 0
+      }
+      {
+       coords -3.463 0 -13.596
+       angles 0 -266.525 0
+      }
+      {
+       coords -6.832 0 -40.868
+       angles 0 -262.358 0
+      }
+      {
+       coords -18.99 0 -76.339
+       angles 0 -184.004 0
+      }
+      {
+       coords -42.532 0 -77.176
+       angles 0 -178.08 0
+      }
+      {
+       coords -67.202 0 -68.526
+       angles 0 -83.867 0
+      }
+      {
+       coords -65.401 0 -47.251
+       angles 0 -85.65 0
+      }
+      {
+       coords -65.105 0 -43.359
+       angles 0 -85.65 0
+      }
+      {
+       coords -63.086 0 -7.93
+       angles 0 -87.285 0
+      }
+      {
+       coords -62.527 0 3.864
+       angles 0 -87.285 0
+      }
+      {
+       coords -61.968 0 15.658
+       angles 0 -87.285 0
+      }
+     }
+     SCR_DestructibleEntity : "{0BF5BAC2490F82D7}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_End.et" {
+      coords -18.579 0 21.354
+      angles 0 -0.692 0
+     }
+     $grp SCR_DestructibleEntity : "{1944EB4B819F0B55}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_8m_B.et" {
+      {
+       coords -2.512 0 2.056
+       angles 0 -266.525 0
+      }
+      {
+       coords -9.171 0.001 -58.295
+       angles 0 -263.484 0
+      }
+      {
+       coords -11.121 0 -75.788
+       angles 0 -184.004 0
+      }
+      {
+       coords -34.648 0 -77.44
+       angles 0 -178.08 0
+      }
+      {
+       coords -54.333 0 -76.78
+       angles 0 -178.08 0
+      }
+      {
+       coords -68.045 0 -76.37
+       angles 0 -83.867 0
+      }
+      {
+       coords -64.809 0 -39.466
+       angles 0 -85.65 0
+      }
+      {
+       coords -64.209 0 -31.6
+       angles 0 -87.285 0
+      }
+      {
+       coords -57.944 0 19.755
+       angles 0 -2.224 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{33D1AA7D59DCC549}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_4m_B.et" {
+      {
+       coords -2.276 0 5.937
+       angles 0 -266.525 0
+      }
+      {
+       coords -2.99 0 -5.819
+       angles 0 -266.525 0
+      }
+      {
+       coords -3.696 0 -17.493
+       angles 0 -262.358 0
+      }
+      {
+       coords -5.264 0 -29.181
+       angles 0 -262.358 0
+      }
+      {
+       coords -8.402 0 -52.57
+       angles 0 -262.358 0
+      }
+      {
+       coords -10.509 0 -70.004
+       angles 0 -263.484 0
+      }
+      {
+       coords -30.769 0 -77.164
+       angles 0 -184.004 0
+      }
+      {
+       coords -62.218 0 -76.516
+       angles 0 -178.08 0
+      }
+      {
+       coords -66.582 0 -62.767
+       angles 0 -85.65 0
+      }
+      {
+       coords -65.991 0 -55.005
+       angles 0 -85.65 0
+      }
+      {
+       coords -65.696 0 -51.128
+       angles 0 -85.65 0
+      }
+      {
+       coords -61.829 0 19.604
+       angles 0 -2.224 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{750F8E2389AB9149}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_2m.et" {
+      {
+       coords -3.264 0 21.539
+       angles 0 -0.692 0
+      }
+      {
+       coords -8.919 0 -56.424
+       angles 0 -262.358 0
+      }
+      {
+       coords -10.95 0 -73.867
+       angles 0 -263.484 0
+      }
+      {
+       coords -66.104 0 -76.386
+       angles 0 -178.08 0
+      }
+      {
+       coords -66.785 0 -64.644
+       angles 0 -83.867 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{7510DFAB3D5B847B}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_8m_A.et" {
+      {
+       coords -11.167 0 21.444
+       angles 0 -0.692 0
+      }
+      {
+       coords -1.561 0 17.723
+       angles 0 -266.525 0
+      }
+      {
+       coords -4.213 0 -21.347
+       angles 0 -262.358 0
+      }
+      {
+       coords -5.781 0 -33.034
+       angles 0 -262.358 0
+      }
+      {
+       coords -7.351 0 -44.737
+       angles 0 -262.358 0
+      }
+      {
+       coords -22.885 0 -76.612
+       angles 0 -184.004 0
+      }
+      {
+       coords -46.434 0 -77.045
+       angles 0 -178.08 0
+      }
+      {
+       coords -63.835 0 -23.72
+       angles 0 -87.285 0
+      }
+      {
+       coords -63.461 0 -15.825
+       angles 0 -87.285 0
+      }
+      {
+       coords -62.902 0 -4.031
+       angles 0 -87.285 0
+      }
+      {
+       coords -62.342 0 7.763
+       angles 0 -87.285 0
+      }
+      {
+       coords -50.061 0 20.061
+       angles 0 -2.224 0
+      }
+      {
+       coords -42.163 0 20.368
+       angles 0 -2.224 0
+      }
+     }
+     SCR_DestructibleEntity : "{DA04A1007A31B550}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWallOld_01_Start.et" {
+      coords -34.217 0 20.677
+      angles 0 -2.224 0
+     }
+    }
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{1FE3B590D2A1654D}Prefabs/Structures/Infrastructure/Power/TransformerSubstation_01/TransformerSubstation_01_white.et" {
+ {
+  coords 15137.511 0 6242.014
+  angles 0 90.49 0
+  {
+   EnvironmentProbeEntity {
+    ID "521A8208C9BEF163"
+    coords -0.129 0 0.262
+   }
+   GenericEntity {
+    ID "5AD2F01BDDE28B35"
+    coords 0 -0.02 0
+    {
+     GenericEntity {
+      ID "568AF712D1ABDA6B"
+      coords 0 0 0
+     }
+    }
+   }
+   SCR_JunctionPowerPole {
+    ID "5AD2F01B076AD846"
+    coords 0 0 0
+   }
+  }
+ }
+ {
+  coords 15137.606 0 6232.123
+  angles 0 88.684 0
+  {
+   EnvironmentProbeEntity {
+    ID "521A8208C9BEF163"
+    coords -0.129 0 0.262
+   }
+   GenericEntity {
+    ID "5AD2F01BDDE28B35"
+    coords 0 -0.02 0
+    {
+     GenericEntity {
+      ID "568AF712D1ABDA6B"
+      coords 0 0 0
+     }
+    }
+   }
+   SCR_JunctionPowerPole {
+    ID "5AD2F01B076AD846"
+    coords 0 0 0
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{6AD4788522334B53}Prefabs/Structures/Infrastructure/Power/TransformerStation_E_02/TransformerStation_E_02.et" {
+ {
+  coords 15990.245 0 8698.168
+  angles 0 -179.432 0
+  {
+   EnvironmentProbeEntity {
+    ID "5E74CC062BE7F6D4"
+    coords -2.933 0 -3.394
+   }
+   GameEntity {
+    ID "56AAAB111E863C6B"
+    coords 0 -0.05 0
+   }
+   GenericEntity {
+    ID "56AAAB111E863C99"
+    coords 0 -0.205 0
+    {
+     GenericEntity {
+      ID "5868A440C9B6E7E2"
+      coords 0 -0.028 0
+     }
+     GenericEntity {
+      ID "5868A440C9B6E700"
+      coords 0 -0.028 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "56AAAB111E863D67"
+    coords 0 -0.195 0
+    {
+     GenericEntity {
+      ID "5868A440C9B6E7E2"
+      coords 0 -0.028 0
+     }
+     GenericEntity {
+      ID "5868A440C9B6E700"
+      coords 0 -0.028 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "56AAAB111E863339"
+    coords 0 -0.06 0
+   }
+   GenericEntity {
+    ID "56AAAB111E863350"
+    coords 0 -0.06 0
+   }
+   GenericEntity {
+    ID "5AB2875E695252CB"
+    coords 0 0 -9.703
+   }
+   GenericEntity {
+    ID "56A8D0688EF4BA72"
+    coords 0 0 0
+   }
+   SCR_JunctionPowerPole {
+    ID "5AD2E659318C3A50"
+    coords 16098.475 136.838 8666.453
+    angles 0 90 0
+   }
+  }
+ }
+ {
+  coords 15132.782 0.481 6203.403
+  angles 0 94.683 0
+ }
+}
+StaticModelEntity : "{807D6B1988352DF4}PrefabLibrary/DefaultLibrary/Walls/Metal/MetalWall_01_Gate.et" {
+ coords 15165.297 0 6215.857
+ angles 0 -1.686 0
+}
+$grp SCR_PowerPole : "{917EE12404F00B3B}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/Transformer110kV_E_01_double.et" {
+ {
+  coords 15735.745 49.906 7546.315
+  angles 0 -2.594 0
+ }
+ {
+  coords 15736.394 49.906 7569.68
+ }
+ {
+  coords 15978.127 135.531 8666.41
+  {
+   SCR_DestructibleBuildingEntity {
+    ID "54F0BE9FC39501A0"
+    coords 6.502 0 -9.86
+    {
+     SCR_DestructibleBuildingEntity {
+      ID "5D8CD2963B918D0F"
+      coords 0.001 -0.015 0
+     }
+     SCR_DestructibleBuildingEntity {
+      coords 0.001 -0.752 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 15978.321 135.531 8688.172
+  {
+   SCR_DestructibleBuildingEntity {
+    ID "54F0BE9FC39501A0"
+    coords 6.502 0 -9.86
+    {
+     SCR_DestructibleBuildingEntity {
+      ID "5D8CD2963B918D0F"
+      coords 0 0 0
+     }
+     SCR_DestructibleBuildingEntity {
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{E021E2FFF02ADF0C}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_01/LampStreet_E_01_4m.et" {
+ coords 13826.11 -0.008 14647.483
+}
+$grp SCR_DestructibleBuildingEntity : "{E33A3A2CB9C9BCB1}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_base.et" {
+ {
+  coords 15158.049 0 6130.925
+ }
+ {
+  coords 15171.036 0 6131.512
+ }
+ {
+  coords 15171.245 0 6154.572
+ }
+ {
+  coords 15174.716 -0.078 6181.206
+  angles 0 -86.006 0
+ }
+ {
+  coords 15175.035 -0.078 6194.202
+  angles 0 -86.006 0
+ }
+}
+StaticModelEntity : "{F808145ADD4EF885}PrefabLibrary/DefaultLibrary/Walls/Metal/MetalGate_01_Long.et" {
+ coords 15711.288 0 7548.771
+ angles 0 -90 0
+}

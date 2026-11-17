@@ -1,0 +1,12 @@
+v3 en place
+pack EXIT=0
+VRAM v3_sol : moyenne 4591 Mo, pic 5609 Mo ; RAM privee pic 10179 Mo, fin 9310 Mo
+runtime destructibles: 0 murs, 480065 arbres ; erreurs ZO: 0
+v3_sol n=259 fps=103.5 >50ms=5 memJeu=3277
+pack EXIT=0
+VRAM v3_vol : moyenne 3288 Mo, pic 5072 Mo ; RAM privee pic 9836 Mo, fin 9130 Mo
+runtime destructibles: 0 murs, 461509 arbres ; erreurs ZO: 0
+v3_vol n=97 fps=110.1 >50ms=0 memJeu=3097
+streaming on : calques 74M, tuiles 236, index 236 tuiles
+version publiable remise
+V3_FINI

@@ -1,0 +1,13 @@
+pack EXIT=0
+VRAM as_vol : moyenne 3403 Mo, pic 5138 Mo ; RAM privee pic 9696 Mo, fin 674 Mo
+23:34:35.213 SCRIPT       : [ZO] STREAM rayon 1300 -> 800 m (140 FPS, cible 40)
+vol n=97 fps=99.2 pire=124.9 >50ms=5 memJeu=3031
+pack EXIT=0
+VRAM as_vol_sol : moyenne 4576 Mo, pic 5608 Mo ; RAM privee pic 10087 Mo, fin 5500 Mo
+23:43:33.204 SCRIPT       : [ZO] STREAM rayon 1300 -> 800 m (139 FPS, cible 40)
+23:43:58.232 SCRIPT       : [ZO] STREAM rayon 800 -> 900 m (64 FPS, cible 40)
+23:44:03.237 SCRIPT       : [ZO] STREAM rayon 900 -> 1000 m (84 FPS, cible 40)
+23:44:08.236 SCRIPT       : [ZO] STREAM rayon 1000 -> 1100 m (88 FPS, cible 40)
+23:44:13.249 SCRIPT       : [ZO] STREAM rayon 1100 -> 1200 m (68 FPS, cible 40)
+vol_sol n=259 fps=100.2 pire=200.0 >50ms=9 memJeu=3219
+AS_FINI

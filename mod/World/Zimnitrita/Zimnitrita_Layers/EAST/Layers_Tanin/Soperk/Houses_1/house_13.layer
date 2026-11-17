@@ -1,0 +1,350 @@
+PolylineShapeEntity {
+ coords 11823.83 29.814 11976.33
+ Points {
+  ShapePoint "{62A12D75E9B7045B}" {
+   Position 0 0 0
+  }
+  ShapePoint "{62A12D75E9B74E84}" {
+   Position 21.442 0.109 -6.17
+  }
+  ShapePoint "{62A12D75F550B6EF}" {
+   Position 19.896 0.089 -12.38
+  }
+  ShapePoint "{62A12D75F4BAA55E}" {
+   Position 22.325 0.134 -13.664
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  PrefabGeneratorEntity : "{2A801227AE4D709C}Prefabs/WEGenerators/Bushline/PG_Bushline_Juniperus_Small.et" {
+   Flags 0x100003 0
+   coords 0 0 0
+   m_fOffsetVariance 1
+   m_fPerlinAmplitude 5
+   {
+   }
+  }
+ }
+}
+GenericEntity : "{026714237FB820CB}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_07.et" {
+ coords 11901.997 30.094 11996.515
+}
+StaticModelEntity : "{086E85DB687EA38F}Prefabs/Props/Construction/GravelPile_01/GravelPile_01_medium.et" {
+ coords 11904.221 29.808 12003.146
+}
+GenericEntity : "{0A4B42DD94487BFE}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_low_green.et" {
+ coords 11903.85 30.094 12008.937
+ angles 0 -78.879 0
+}
+$grp StaticModelEntity : "{0D3E53CF82073840}Prefabs/Structures/BuildingParts/Doors/DoorSet_TinWall_01_Gate.et" {
+ {
+  coords 11921.068 0.025 11987.467
+  angles 0 -167.376 0
+ }
+ {
+  coords 11927.589 0 12015.057
+  angles 0 57.383 0
+ }
+}
+StaticModelEntity : "{0E8C1D00E6FA76CE}Prefabs/Compositions/Misc/SubCompositions/DirtPile_Cluttered_US_01.et" {
+ coords 11904.469 0.914 12011.479
+}
+GenericEntity : "{17ADCDC2721AC2E7}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_low_grey.et" {
+ coords 11903.377 30.072 12006.542
+ angles 0 101.284 0
+}
+GenericEntity : "{22E2462FA3AE0849}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Long_Pile.et" {
+ coords 11914.542 30.094 12016.004
+ angles 0 9.637 0
+}
+GenericEntity : "{25C8B889A777399D}Prefabs/Props/Infrastructure/ConeTraffic/ConeTraffic_01_red.et" {
+ coords 11937.637 29.659 12046.115
+}
+$grp StaticModelEntity : "{302CBF94736F3C34}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_D.et" {
+ {
+  coords 11922.856 0 12045.522
+  angles 0 103.334 0
+ }
+ {
+  coords 11906.598 -0.001 12025.487
+  angles 0 103.334 0
+ }
+ {
+  coords 11907.522 0 12029.4
+  angles 0 103.334 0
+ }
+ {
+  coords 11923.781 0 12049.418
+  angles 0 103.334 0
+ }
+ {
+  coords 11908.451 0 12033.308
+  angles 0 103.334 0
+ }
+}
+SCR_DestructibleEntity : "{350B1D05E8446B1C}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_A.et" {
+ coords 11902.047 -0.017 12009.819
+ angles 0 -259.378 0
+}
+$grp SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
+ {
+  coords 11877.271 0.153 12106.637
+  angles 0 18.225 0
+ }
+ {
+  coords 11849.445 -0.952 12086.512
+  angles 0 -71.775 0
+ }
+ {
+  coords 11868.415 -0.912 12080.195
+  angles 0 -159.547 0
+ }
+}
+$grp SCR_DestructibleEntity : "{3BF9F2973B34AFFD}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_2m.et" {
+ {
+  coords 11924.578 0 12049.418
+  angles 0 12.682 0
+ }
+ {
+  coords 11927.354 0 12015.977
+  angles 0 -166.014 0
+ }
+}
+$grp StaticModelEntity : "{41BC91E022E94877}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_A.et" {
+ {
+  coords 11918.74 0 12032.063
+  angles 0 103.334 0
+ }
+ {
+  coords 11919.659 0 12035.947
+  angles 0 103.334 0
+ }
+ {
+  coords 11916.313 0 12030.481
+  angles 0 -166.666 2.871
+ }
+ {
+  coords 11921.509 0 12043.743
+  angles 0 103.334 0
+ }
+ {
+  coords 11912.481 0.001 12031.388
+  angles 0 -166.666 0
+ }
+ {
+  coords 11920.583 0 12039.837
+  angles 0 103.334 0
+ }
+}
+SCR_DestructibleEntity : "{4B34604EA910FA4E}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_4m.et" {
+ coords 11923.047 0 12049.722
+ angles 0 -166.666 0
+}
+SCR_DestructibleBuildingEntity : "{525700C0EC3BA75B}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_short_base.et" {
+ coords 11907.07 0 11995.415
+ angles 0 10.74 0
+ {
+  StaticModelEntity : "{C7B5F0AEA246F0BE}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_LeftWall.et" {
+   components {
+    Hierarchy "{55ECD1FB83909541}" {
+     PivotID "socket_left_wall"
+    }
+   }
+  }
+  StaticModelEntity : "{DBF039BA30EC733A}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_Short_BackWall.et" {
+   components {
+    Hierarchy "{55ECD1FBF93B9785}" {
+     PivotID "socket_short_back_wall"
+    }
+   }
+  }
+  StaticModelEntity : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_RightWall.et" {
+   components {
+    Hierarchy "{55ECD1FB80FE1CAB}" {
+     PivotID "socket_right_wall"
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{530705FBB61026D2}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_03.et" {
+ {
+  coords 11909.232 29.577 12035.47
+  angles 0 83.389 0
+ }
+ {
+  coords 11911.387 29.651 12034.671
+  angles 0 26.045 0
+ }
+}
+$grp GenericEntity : "{532E2709E33FA192}Prefabs/Structures/BuildingParts/Bridges/BridgeRailingConcrete_01_pole.et" {
+ {
+  coords 11930.987 30.094 12009.771
+  angles 0 -34.15 0
+  scale 1.28
+ }
+ {
+  coords 11927.224 30.094 12015.319
+  angles 0 -34.15 0
+  scale 1.28
+ }
+}
+GenericEntity : "{5D31850B326BA246}Prefabs/Props/Industrial/AirCompressor_01/AirCompressor_01.et" {
+ coords 11904.99 30.093 11993.778
+}
+$grp GenericEntity : "{5E99DD1E8377D27F}Prefabs/Props/Garbage/Bins/TrashBin_02.et" {
+ {
+  coords 11908.261 29.655 12033.983
+  angles 0 103.334 0
+ }
+ {
+  coords 11908.34 29.608 12034.721
+  angles 0 -29.028 0
+ }
+}
+GenericEntity : "{630C2872BB87F44F}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Short_Pile.et" {
+ coords 11922.349 30.094 12015.496
+ angles 0 -171.177 0
+}
+$grp GenericEntity : "{64C9C1D1C2C1B38D}Prefabs/Props/Infrastructure/Roadblocks/RoadBlock_01.et" {
+ {
+  coords 11958.189 30.094 11978.639
+  angles 0 -81.087 0
+ }
+ {
+  coords 11957.725 30.094 11975.675
+  angles 0 -81.087 0
+ }
+}
+GenericEntity : "{7D52C517720EF2F6}Prefabs/Props/Industrial/BarrelMetal_01_grey.et" {
+ coords 11924.941 30.093 11989.384
+}
+$grp SCR_DestructibleEntity : "{8200D604BFD128A0}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_weathered_8m.et" {
+ {
+  coords 11908.113 0 12037.116
+  angles 0 103.334 0
+ }
+ {
+  coords 11906.276 0 12029.358
+  angles 0 103.334 0
+ }
+ {
+  coords 11911.793 0 12052.637
+  angles 0 103.334 0
+ }
+ {
+  coords 11926.543 -0.001 12048.951
+  angles 0 13.334 0
+ }
+ {
+  coords 11919.22 0 12050.623
+  angles 0 -166.666 0
+ }
+ {
+  coords 11930.865 0 12031.726
+  angles 0 103.334 0
+ }
+ {
+  coords 11934.545 0.001 12047.244
+  angles 0 103.334 0
+ }
+ {
+  coords 11932.703 0 12039.473
+  angles 0 103.334 0
+ }
+ {
+  coords 11929.026 0.001 12023.968
+  angles 0 103.334 0
+ }
+ {
+  coords 11909.951 0 12044.861
+  angles 0 103.334 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{8597237EA3C59701}Prefabs/Structures/Houses/Shed/Shed_03/Shed_03.et" {
+ coords 11911.786 0 12045.278
+ angles 0 104.28 0
+}
+SCR_DestructibleEntity : "{AE32E665640E5D8F}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_Pole_weathered.et" {
+ coords 11906.194 0 12021.466
+ angles 0 103.334 0
+ scale 0.808
+}
+$grp GenericEntity : "{B1ACEA3D8B451436}Prefabs/Props/Decorations/Flowerpots/FlowerpotPelargonia_01_white_v2.et" {
+ {
+  coords 11921.502 29.238 12046.311
+  angles 0 103.334 0
+ }
+ {
+  coords 11939.362 30.22 11994.653
+  angles 0 -170.177 0
+ }
+ {
+  coords 11942.317 30.22 11994.142
+  angles 0 -170.177 0
+ }
+}
+$grp GenericEntity : "{B3283803059E2750}Prefabs/Props/Crates/CrateWooden_01_plain.et" {
+ {
+  coords 11901.026 30.094 11995.739
+  angles 0 10.991 0
+ }
+ {
+  coords 11900.981 30.898 11995.743
+  angles 0 10.991 0
+ }
+ {
+  coords 11900.825 30.094 11994.141
+  angles 0 -21.22 0
+ }
+}
+StaticModelEntity : "{B44A06DD2002A115}Prefabs/Structures/BuildingParts/Doors/DoorSet_TinWall_01_Gate_Small.et" {
+ coords 11923.152 0.001 12049.779
+ angles 0 13.257 0
+}
+GenericEntity : "{B47EB5AC921214EE}Prefabs/Props/Construction/CableReel/CableReelMetal_01.et" {
+ coords 11912.172 30.094 11996.23
+}
+GenericEntity : "{B8185BFEEFD58533}Prefabs/Props/Infrastructure/ConeTraffic/ConeTraffic_01_stack.et" {
+ coords 11907.574 30.094 11996.263
+}
+$grp GenericEntity : "{C745AAC46663F0D5}Prefabs/Props/Decorations/Flowerpots/FlowerpotPelargonia_01_pink_v2.et" {
+ {
+  coords 11921.978 29.06 12048.613
+  angles 0 103.334 0
+ }
+ {
+  coords 11939.302 30.222 11998.976
+  angles 0 99.823 0
+ }
+}
+GenericEntity : "{CEA239D9E1899899}Prefabs/Props/Garbage/Tires/TirePile_01_small.et" {
+ coords 11906.462 30.094 12009.604
+}
+StaticModelEntity : "{D467E441C6EAC625}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_02_Small.et" {
+ coords 11904.647 0 12021.605
+ angles 0 13.334 0
+}
+StaticModelEntity : "{D93A7286584E122C}Prefabs/Props/Construction/GravelPile_01/GravelPile_01_base.et" {
+ coords 11929.021 29.707 12044.674
+ angles 0 -169.948 0
+}
+SCR_DestructibleBuildingEntity : "{DE43119351D125AC}Prefabs/Structures/Houses/Village/House_Village_E_1L02/House_Village_E_1L02t.et" {
+ coords 11916.735 0 12023.189
+ angles 0 12.682 0
+}
+GenericEntity : "{DF3EF41CE4D441DE}Prefabs/Props/Industrial/BarrelMetal_01_rust.et" {
+ coords 11924.302 30.094 11988.387
+}
+GenericEntity : "{E641FDA9C7D9AA72}Prefabs/Props/Construction/WoodHolder_01.et" {
+ coords 11908.971 30.094 11994.48
+ angles 0 -85.465 0
+}
+SCR_DestructibleBuildingEntity : "{F08D8E78433D713A}Prefabs/Structures/Houses/Shed/Shed_01/Shed_01.et" {
+ coords 11916.235 0 12049.827
+ angles 0 -166.666 0
+}
+StaticModelEntity : "{F1E0197D444D3A19}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Long.et" {
+ coords 11823.4 -0.051 11978.089
+ angles 0 -161.433 0
+}

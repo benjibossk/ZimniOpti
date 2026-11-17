@@ -1,0 +1,2322 @@
+$grp PolylineShapeEntity {
+ {
+  coords 10114.423 2.376 3685.887
+  Points {
+   ShapePoint "{6639375E0119DCC0}" {
+    Position 29.079 -0.93 -17.5
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E026A9B24}" {
+    Position 67.727 -1.175 -12.041
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E0209352C}" {
+    Position 87.233 -1.082 -4.733
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E03AEB623}" {
+    Position 102.697 0.462 15.644
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E032BE035}" {
+    Position 125.138 0.708 35.574
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E04DA0CAE}" {
+    Position 113.297 -0.299 32.21
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E041E627F}" {
+    Position 93.088 -1.515 37.359
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E05BCE867}" {
+    Position 87.418 -0.574 29.334
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E054A3C5E}" {
+    Position 72.989 -0.648 14.9
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E07D9F198}" {
+    Position 60.956 -2.282 11.517
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E0746B872}" {
+    Position 27.489 -1.597 4.298
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E5A4F5D28}" {
+    Position 0 -0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E5A4EB218}" {
+    Position -28.901 0.724 3.983
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E59FD78C0}" {
+    Position -76.016 -0.475 -7.134
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E582A0D5E}" {
+    Position -106.235 -0.62 -30.73
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E58927BBC}" {
+    Position -143.866 -0.838 -48.88
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E58ED0F4C}" {
+    Position -161.702 -0.944 -60.796
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E67491C4E}" {
+    Position -151.319 1.123 -70.088
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E67A75679}" {
+    Position -79.044 1.376 -66.276
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E663A5733}" {
+    Position -38.366 3.566 -53.844
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E66729D74}" {
+    Position -15 3.069 -34.547
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E66F07EB2}" {
+    Position 1.02 -0.002 -18.779
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{EBD3B60C5329E2BF}Prefabs/WEGenerators/Brushland/FG_Brushland_Sparse.et" {
+    Flags 0x100003 0
+    m_bAvoidObjects 1
+    m_bAvoidRoads 1
+    m_bAvoidRivers 1
+    m_bAvoidPowerLines 1
+    m_bAvoidTracks 1
+    m_bAvoidLakes 1
+    m_bRegenerateByObstacleChanges 1
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 10000.137 2.653 3722.334
+  Points {
+   ShapePoint "{6639375E1E4EE09A}" {
+    Position 0 -0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1E4E2A35}" {
+    Position -12.568 -0.097 -1.494
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1D69D622}" {
+    Position -31.917 -0.155 -12.352
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1DDEF71E}" {
+    Position -58.343 -0.289 -27.904
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1C50AAD2}" {
+    Position -90.518 -0.892 -46.463
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1CFBC52F}" {
+    Position -106.974 -0.434 -26.72
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1B2953EE}" {
+    Position -86.777 0.559 -16.787
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1A42A81A}" {
+    Position -73.27 1.118 -4.186
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E1ABDA0B2}" {
+    Position -59.815 2.374 19.404
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E191FAD75}" {
+    Position -48.257 2.405 26.565
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E199171A1}" {
+    Position -45.122 0.797 17.318
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E19C748C6}" {
+    Position -35.977 -0.62 13.881
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E183A28F9}" {
+    Position -23.296 -1.237 19.727
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E187D13C9}" {
+    Position -3.941 -0.97 30.29
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E18E1D9C1}" {
+    Position 10.229 -1.343 31.351
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E276E13C4}" {
+    Position 4.008 1.829 16.406
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{6639375E260EAE65}" {
+    Position 0.812 0.958 3.124
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{EBD3B60C5329E2BF}Prefabs/WEGenerators/Brushland/FG_Brushland_Sparse.et" {
+    Flags 0x100003 0
+    m_bAvoidObjects 1
+    m_bAvoidRoads 1
+    m_bAvoidRivers 1
+    m_bAvoidPowerLines 1
+    m_bAvoidTracks 1
+    m_bAvoidLakes 1
+    m_bRegenerateByObstacleChanges 1
+    {
+     $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
+      {
+       coords -72.427 0.614 -13.881
+       angles 5.96 115.404 53.093
+       scale 1.131
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9593.597 76.219 4292.386
+  Points {
+   ShapePoint "{66393753C075D795}" {
+    Position 0 0 0
+   }
+   ShapePoint "{66393753C0757A64}" {
+    Position 4.334 -0.13 -4.733
+   }
+   ShapePoint "{66393753D0C260D3}" {
+    Position 23.473 -0.065 -7.148
+   }
+   ShapePoint "{66393753DF24D3FA}" {
+    Position 40.286 -0.075 -5.487
+   }
+   ShapePoint "{66393753DB27BE98}" {
+    Position 57.588 -0.084 -4.49
+   }
+   ShapePoint "{66393753DA4C1D39}" {
+    Position 75.182 -5.557 -26.549
+   }
+   ShapePoint "{66393753DAB518F7}" {
+    Position 93.563 -11.802 -47.629
+   }
+   ShapePoint "{66393753D91FCDD8}" {
+    Position 108.8 -16.85 -63.32
+   }
+   ShapePoint "{66393753D8EEBD54}" {
+    Position 123.921 -19.649 -83.456
+   }
+   ShapePoint "{66393753E7586E6E}" {
+    Position 145.102 -19.414 -113.403
+   }
+   ShapePoint "{66393753E7B4900A}" {
+    Position 171.079 -17.38 -150.029
+   }
+   ShapePoint "{66393753E6A3DE3A}" {
+    Position 194.355 -15.743 -180.985
+   }
+   ShapePoint "{66393753E500DD9C}" {
+    Position 213.198 -14.883 -200.171
+   }
+   ShapePoint "{66393753E48C2E63}" {
+    Position 229.524 -14.541 -214.212
+   }
+   ShapePoint "{66393753E4F4214E}" {
+    Position 238.539 -14.342 -220.396
+   }
+   ShapePoint "{66393753E19065FD}" {
+    Position 240.704 -14.188 -240.117
+   }
+   ShapePoint "{66393753E0448ADF}" {
+    Position 234.224 -14.188 -252.189
+   }
+  }
+  LineColor 0 0.498 0.8314 0
+  {
+   SCR_PowerlineGeneratorEntity : "{20E4877A07D28502}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_end.et" {
+      {
+       coords 0 0 0
+       angles -3.957 99.974 -3.902
+      }
+      {
+       coords 234.224 -14.188 -252.189
+       angles 3.248 201.499 2.252
+      }
+     }
+     $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
+      {
+       coords 0 0 0
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB189A6}" {
+         StartPoint 0 7.75 0
+         EndPoint 34.721 7.834 -6.062
+        }
+       }
+      }
+      {
+       coords 34.471 -0.066 -6.062
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB238B7}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 33.452 4.695 -11.073
+        }
+       }
+      }
+      {
+       coords 67.673 -3.271 -17.135
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB2F024}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 22.853 0.667 -26.724
+        }
+       }
+      }
+      {
+       coords 90.275 -10.504 -43.858
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB2A51A}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 23.683 0.251 -25.998
+        }
+       }
+      }
+      {
+       coords 113.708 -18.154 -69.856
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB35FCC}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 20.854 6.208 -28.292
+        }
+       }
+      }
+      {
+       coords 134.312 -19.845 -98.149
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB31889}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 20.479 8.984 -28.562
+        }
+       }
+      }
+      {
+       coords 154.541 -18.761 -126.711
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB3CC80}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 20.644 9.556 -28.445
+        }
+       }
+      }
+      {
+       coords 174.935 -17.105 -155.156
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB384B5}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 21.567 9.367 -27.759
+        }
+       }
+      }
+      {
+       coords 196.252 -15.638 -182.916
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB4322E}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 25.415 8.91 -24.324
+        }
+       }
+      }
+      {
+       coords 221.417 -14.629 -207.24
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB4E572}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 19.161 8.341 -29.451
+        }
+       }
+      }
+      {
+       coords 240.328 -14.188 -236.691
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393753EBB4A12C}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -6.104 7.75 -15.498
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{62DECEC65C1043AB}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_02_pole_small_hook.et" {
+      {
+       coords 34.471 -0.066 -6.062
+       angles 0.363 104.2 3.338
+      }
+      {
+       coords 67.673 -3.271 -17.135
+       angles -0.073 123.964 -0.856
+      }
+      {
+       coords 90.275 -10.504 -43.858
+       angles -2.043 138.872 -2.134
+      }
+      {
+       coords 113.708 -18.154 -69.856
+       angles -0.14 140.982 -3.568
+      }
+      {
+       coords 134.312 -19.845 -98.149
+       angles 3.913 144.314 3.312
+      }
+      {
+       coords 154.541 -18.761 -126.711
+       angles -0.711 144.528 -2.267
+      }
+      {
+       coords 174.935 -17.105 -155.156
+       angles -3.43 143.42 1.67
+      }
+      {
+       coords 196.252 -15.638 -182.916
+       angles 1.173 138.251 -0.652
+      }
+      {
+       coords 221.417 -14.629 -207.24
+       angles -0.496 140.662 0.804
+      }
+      {
+       coords 240.328 -14.188 -236.691
+       angles -1.825 174.398 2.526
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9824.782 62.043 4034.445
+  Points {
+   ShapePoint "{66393753705B02FB}" {
+    Position 0 0 0
+   }
+   ShapePoint "{66393753705B5439}" {
+    Position 2.614 0.349 -20.798
+   }
+   ShapePoint "{663937537CAB0F52}" {
+    Position 10.68 0.824 -47.05
+   }
+   ShapePoint "{663937537B0079AB}" {
+    Position 20.106 0.888 -56.469
+   }
+   ShapePoint "{663937537A4AC427}" {
+    Position 40.618 -2.786 -85.919
+   }
+   ShapePoint "{663937537AB13240}" {
+    Position 53.749 -9.778 -110.674
+   }
+   ShapePoint "{663937537976B102}" {
+    Position 75.354 -24.932 -155.88
+   }
+   ShapePoint "{66393753785EB22F}" {
+    Position 98.242 -37.645 -196.567
+   }
+   ShapePoint "{6639375378BB2E2C}" {
+    Position 115.729 -46.671 -227.077
+   }
+   ShapePoint "{6639375307DF032F}" {
+    Position 125.999 -52.48 -250.519
+   }
+   ShapePoint "{663937530603C09E}" {
+    Position 126.01 -54.985 -267.126
+   }
+   ShapePoint "{66393753066BD70B}" {
+    Position 115.557 -56.583 -288.114
+   }
+   ShapePoint "{6639375306F4CCBE}" {
+    Position 99.37 -58.303 -316.556
+   }
+   ShapePoint "{66393753044098EE}" {
+    Position 84.227 -59.843 -342.502
+   }
+   ShapePoint "{663937530324A61F}" {
+    Position 72.257 -61.441 -373.25
+   }
+   ShapePoint "{663937530237E0B6}" {
+    Position 78.493 -61.213 -399.755
+   }
+   ShapePoint "{6639375302B67290}" {
+    Position 82.949 -60.036 -414.931
+   }
+   ShapePoint "{6639375308B0EC40}" {
+    Position 65.483 -59.829 -461.947
+   }
+  }
+  LineColor 0 0.498 0.8314 0
+  {
+   SCR_PowerlineGeneratorEntity : "{20E4877A07D28502}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_end.et" {
+      {
+       coords 0 0 0
+       angles -3.957 168.84 -3.902
+      }
+      {
+       coords 65.483 -59.829 -461.947
+       angles 3.369 200.379 -3.122
+      }
+     }
+     $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
+      {
+       coords 0 0 0
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB3DEA0}" {
+         StartPoint 0 7.75 0
+         EndPoint 7.024 9.735 -34.338
+        }
+       }
+      }
+      {
+       coords 6.774 1.836 -34.338
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB47E54}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 18.828 6.446 -29.662
+        }
+       }
+      }
+      {
+       coords 25.353 0.381 -64
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB431D0}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 19.422 3.129 -29.282
+        }
+       }
+      }
+      {
+       coords 44.524 -4.39 -93.283
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB4EA59}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 16.081 -2.084 -31.215
+        }
+       }
+      }
+      {
+       coords 60.355 -14.374 -124.497
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB4A30C}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 15.355 -2.726 -31.573
+        }
+       }
+      }
+      {
+       coords 75.461 -25 -156.07
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB5593F}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 17.41 -1.714 -30.505
+        }
+       }
+      }
+      {
+       coords 92.621 -34.615 -186.574
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB50989}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 17.574 -1.217 -30.412
+        }
+       }
+      }
+      {
+       coords 109.945 -43.731 -216.986
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB5C6D5}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 15.43 -0.446 -31.537
+        }
+       }
+      }
+      {
+       coords 125.125 -52.078 -248.523
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB5817D}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -6.687 3.776 -34.306
+        }
+       }
+      }
+      {
+       coords 118.188 -56.202 -282.829
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB63618}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -16.777 6.106 -30.579
+        }
+       }
+      }
+      {
+       coords 101.161 -57.996 -313.408
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB6EF1C}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -17.175 5.951 -30.354
+        }
+       }
+      }
+      {
+       coords 83.736 -59.944 -343.762
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB6AC6B}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -10.316 6.574 -33.367
+        }
+       }
+      }
+      {
+       coords 73.17 -61.27 -377.129
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB76ED5}" {
+         StartPoint 0.25 7.9 0
+         EndPoint 8.889 8.839 -33.917
+        }
+       }
+      }
+      {
+       coords 81.809 -60.331 -411.046
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB732FE}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -9.639 9.388 -33.574
+        }
+       }
+      }
+      {
+       coords 71.92 -58.842 -444.62
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{66393752ECB7DD9C}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -6.437 6.763 -17.327
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{62DECEC65C1043AB}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_02_pole_small_hook.et" {
+      {
+       coords 6.774 1.836 -34.338
+       angles 0.363 158.39 3.338
+      }
+      {
+       coords 25.353 0.381 -64
+       angles -0.073 147.366 -0.856
+      }
+      {
+       coords 44.524 -4.39 -93.283
+       angles -2.043 149.907 -2.134
+      }
+      {
+       coords 60.355 -14.374 -124.497
+       angles -0.14 153.768 -3.568
+      }
+      {
+       coords 75.461 -25 -156.07
+       angles 3.913 152.528 3.312
+      }
+      {
+       coords 92.621 -34.615 -186.574
+       angles -0.711 150.486 -2.267
+      }
+      {
+       coords 109.945 -43.731 -216.986
+       angles -3.43 152.32 1.67
+      }
+      {
+       coords 125.125 -52.078 -248.523
+       angles 1.173 173.056 -0.652
+      }
+      {
+       coords 118.188 -56.202 -282.829
+       angles -0.496 200.294 0.804
+      }
+      {
+       coords 101.161 -57.996 -313.408
+       angles -1.825 209.484 2.526
+      }
+      {
+       coords 83.736 -59.944 -343.762
+       angles 3.248 203.713 2.252
+      }
+      {
+       coords 73.17 -61.27 -377.129
+       angles -1.756 181.638 -2.281
+      }
+      {
+       coords 81.809 -60.331 -411.046
+       angles -2.453 181.063 -2.513
+      }
+      {
+       coords 71.92 -58.842 -444.62
+       angles -3.159 198.395 -3.093
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9884.18 2.544 3569.717
+  Points {
+   ShapePoint "{66393752FC948897}" {
+    Position 0 0 0
+   }
+   ShapePoint "{66393752FC94DD18}" {
+    Position -10.03 0.836 -9.991
+   }
+   ShapePoint "{66393752FA4B911A}" {
+    Position -18.146 1.682 -21.922
+   }
+   ShapePoint "{66393752873D9ED2}" {
+    Position -34.652 0.836 -32.041
+   }
+   ShapePoint "{66393752879DB4C2}" {
+    Position -45.83 -0.592 -36.33
+   }
+   ShapePoint "{6639375286A1C4BA}" {
+    Position -54.625 -1.443 -24.547
+   }
+   ShapePoint "{6639375285393576}" {
+    Position -73.1 -0.653 -10.12
+   }
+   ShapePoint "{663937528567A0FD}" {
+    Position -86.177 0.044 1.685
+   }
+   ShapePoint "{66393752832A8F10}" {
+    Position -96.152 2.414 13.073
+   }
+   ShapePoint "{66393752838AF514}" {
+    Position -106.986 4.181 13.435
+   }
+   ShapePoint "{663937528295AACB}" {
+    Position -125.257 6.307 1.228
+   }
+   ShapePoint "{6639375282F70150}" {
+    Position -141.654 7.702 -10.679
+   }
+   ShapePoint "{6639375281262B2E}" {
+    Position -153.739 8.777 -20.363
+   }
+   ShapePoint "{6639375280123A48}" {
+    Position -169.096 7.924 -40.622
+   }
+   ShapePoint "{663937528065E3D8}" {
+    Position -171.905 6.782 -52.352
+   }
+   ShapePoint "{6639375280E6CF52}" {
+    Position -171.369 6.407 -62.643
+   }
+  }
+  LineColor 0 0.498 0.8314 0
+  {
+   SCR_PowerlineGeneratorEntity : "{20E4877A07D28502}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_end.et" {
+      {
+       coords 0 0 0
+       angles -3.957 223.241 -3.902
+      }
+      {
+       coords -171.369 6.407 -62.643
+       angles -3.43 184.48 1.67
+      }
+     }
+     $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
+      {
+       coords 0 0 0
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{663937528986FBE8}" {
+         StartPoint 0 7.75 0
+         EndPoint -23.728 9.481 -25.497
+        }
+       }
+      }
+      {
+       coords -23.978 1.581 -25.497
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{663937528986B0DD}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -34.503 5.04 4.155
+        }
+       }
+      }
+      {
+       coords -58.73 -1.279 -21.341
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6639375289876BDD}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -26.583 9.12 22.472
+        }
+       }
+      }
+      {
+       coords -85.563 -0.058 1.131
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{663937528987284E}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -34.59 13.771 3.34
+        }
+       }
+      }
+      {
+       coords -120.403 5.812 4.47
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{663937528987E245}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -27.956 10.424 -20.723
+        }
+       }
+      }
+      {
+       coords -148.609 8.337 -16.252
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{663937528987A219}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -21.051 7.097 -27.771
+        }
+       }
+      }
+      {
+       coords -169.91 7.534 -44.024
+       Material "{DEA1487EB64DB0C9}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline.emat"
+       Cables {
+        Cable "{6639375289B85D08}" {
+         StartPoint 0.25 7.9 0
+         EndPoint -1.459 6.622 -18.619
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{62DECEC65C1043AB}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_02_pole_small_hook.et" {
+      {
+       coords -23.978 1.581 -25.497
+       angles 0.363 250 3.338
+      }
+      {
+       coords -58.73 -1.279 -21.341
+       angles -0.073 293.404 -0.856
+      }
+      {
+       coords -85.563 -0.058 1.131
+       angles -2.043 292.822 -2.134
+      }
+      {
+       coords -120.403 5.812 4.47
+       angles -0.14 254.467 -3.568
+      }
+      {
+       coords -148.609 8.337 -16.252
+       angles 3.913 225.583 3.312
+      }
+      {
+       coords -169.91 7.534 -44.024
+       angles -0.711 200.999 -2.267
+      }
+     }
+    }
+   }
+  }
+ }
+}
+$grp SplineShapeEntity {
+ {
+  coords 9911.859 2.313 3613.762
+  Points {
+   ShapePoint "{6639375ABC47A510}" {
+    Position 2.273 -0.312 6.268
+   }
+   ShapePoint "{66393759B0AFA8D5}" {
+    Position -8.364 0.949 -18.083
+   }
+   ShapePoint "{6639375AB99E4F3F}" {
+    Position -17.953 -0.235 -43.303
+   }
+   ShapePoint "{66393759438C0A9F}" {
+    Position -31.508 0.849 -53.201
+   }
+   ShapePoint "{6639375AB8AB511B}" {
+    Position -45.997 2.521 -71.946
+   }
+   ShapePoint "{6639375A43CCB82A}" {
+    Position -70.797 0.404 -84.038
+   }
+   ShapePoint "{6639375A42421E7F}" {
+    Position -82.117 1.268 -97.652
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 2.273 -0.312 6.268
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position -8.364 0.949 -18.083
+       }
+       ShapePoint "{6639375A563F4784}" {
+        Position -17.953 -0.235 -43.303
+       }
+       ShapePoint "{6639375A563F471E}" {
+        Position -31.508 0.849 -53.201
+       }
+       ShapePoint "{6639375A563F46B1}" {
+        Position -45.997 2.521 -71.946
+       }
+       ShapePoint "{66393759B0DD576F}" {
+        Position -70.797 0.404 -84.038
+       }
+       ShapePoint "{6639375943B9A6A3}" {
+        Position -82.117 1.268 -97.652
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9833.739 1.272 3533.452
+  Points {
+   ShapePoint "{6639375A7167FD5F}" {
+    Position 5.648 1.378 -5.998
+   }
+   ShapePoint "{6639375A71674830}" {
+    Position -7.394 -0.311 10.216
+   }
+   ShapePoint "{6639375A7F52DCDD}" {
+    Position -18.56 0.275 17.811
+   }
+   ShapePoint "{6639375A7E17EAF6}" {
+    Position -33.697 0.578 29.161
+   }
+   ShapePoint "{6639375A7C15C4C5}" {
+    Position -51.912 4.312 45.801
+   }
+   ShapePoint "{6639375A7C62A3B4}" {
+    Position -95.754 8.73 15.214
+   }
+   ShapePoint "{6639375A07A33A78}" {
+    Position -110.637 9.011 -1.209
+   }
+   ShapePoint "{6639375A06236BF3}" {
+    Position -113.863 7.873 -28.929
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 5.648 1.378 -5.998
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position -7.394 -0.311 10.216
+       }
+       ShapePoint "{6639375A0F4CCE0F}" {
+        Position -18.56 0.275 17.811
+       }
+       ShapePoint "{6639375A0F4CCD9C}" {
+        Position -33.697 0.578 29.161
+       }
+       ShapePoint "{6639375A0F4CCD33}" {
+        Position -51.912 4.312 45.801
+       }
+       ShapePoint "{6639375A0F4CCD6F}" {
+        Position -95.754 8.73 15.214
+       }
+       ShapePoint "{6639375A0F4CCC86}" {
+        Position -110.637 9.011 -1.209
+       }
+       ShapePoint "{6639375A0F4CCC2E}" {
+        Position -113.863 7.873 -28.929
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9762.168 7.489 3563.159
+  Points {
+   ShapePoint "{6639375A13E6FE84}" {
+    Position -2.754 0.999 5.249
+   }
+   ShapePoint "{6639375A13E647FA}" {
+    Position 5.81 -1.225 -8.732
+   }
+   ShapePoint "{6639375A11022187}" {
+    Position 27.496 -4.875 -30.75
+   }
+   ShapePoint "{6639375A10029040}" {
+    Position 44.586 -5.942 -5.627
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position -2.754 0.999 5.249
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 5.81 -1.225 -8.732
+       }
+       ShapePoint "{6639375A1CDE3F9B}" {
+        Position 27.496 -4.875 -30.75
+       }
+       ShapePoint "{6639375A1CDE3F1D}" {
+        Position 44.586 -5.942 -5.627
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9742.088 9.336 3548.474
+  Points {
+   ShapePoint "{6639375A2E4BD772}" {
+    Position 0.525 0.379 5.822
+   }
+   ShapePoint "{6639375A2E4B22C0}" {
+    Position 8.349 -1.242 -10.454
+   }
+   ShapePoint "{6639375A2D225CC0}" {
+    Position 20.208 -1.791 -26.487
+   }
+   ShapePoint "{6639375A2D97E586}" {
+    Position 23.509 0.491 -44.278
+   }
+   ShapePoint "{6639375A2DFAB69F}" {
+    Position 11.167 3.734 -55.3
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 0.525 0.379 5.822
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 8.349 -1.242 -10.454
+       }
+       ShapePoint "{66393759CB642799}" {
+        Position 20.208 -1.791 -26.487
+       }
+       ShapePoint "{66393759CB642714}" {
+        Position 23.509 0.491 -44.278
+       }
+       ShapePoint "{66393759CB642740}" {
+        Position 11.167 3.734 -55.3
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9815.88 5.037 3599.29
+  Points {
+   ShapePoint "{66393759E8F96C6E}" {
+    Position 1.87 0.212 3.337
+   }
+   ShapePoint "{66393759E8F8B716}" {
+    Position -2.522 -1.014 -10.117
+   }
+   ShapePoint "{66393759F7FB39F7}" {
+    Position -5.53 -1.839 -18.272
+   }
+   ShapePoint "{66393759F6289447}" {
+    Position -12.019 -2.606 -26.573
+   }
+   ShapePoint "{66393759F68AF4F5}" {
+    Position -15.771 -2.746 -29.121
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 1.87 0.212 3.337
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position -2.522 -1.014 -10.117
+       }
+       ShapePoint "{66393759F3EA96BD}" {
+        Position -5.53 -1.839 -18.272
+       }
+       ShapePoint "{66393759F3EA96C3}" {
+        Position -12.019 -2.606 -26.573
+       }
+       ShapePoint "{66393759F3EA967B}" {
+        Position -15.771 -2.746 -29.121
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9668 23.371 3439.065
+  Points {
+   ShapePoint "{6639375FBB371704}" {
+    Position -2.356 0.121 -1.412
+   }
+   ShapePoint "{6639375FBB36935D}" {
+    Position 2.57 -2.297 11.429
+   }
+   ShapePoint "{6639375FBA6F75FF}" {
+    Position 10.912 -6.505 25.867
+   }
+   ShapePoint "{6639375FBADE90CC}" {
+    Position 26.458 -12.048 46.132
+   }
+   ShapePoint "{6639375FB93B3D08}" {
+    Position 36.969 -14.035 56.776
+   }
+   ShapePoint "{6639375FB98344A2}" {
+    Position 51.188 -14.28 67.886
+   }
+   ShapePoint "{66393751D2839E84}" {
+    Position 60.3 -13.651 69.147
+   }
+   ShapePoint "{66393751D133124C}" {
+    Position 69.557 -12.752 71.282
+   }
+   ShapePoint "{66393751D19CB27A}" {
+    Position 79.291 -13.222 77.044
+   }
+   ShapePoint "{66393751D1F7CFE8}" {
+    Position 86.837 -14.605 82.395
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position -2.356 0.121 -1.412
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position 2.57 -2.297 11.429
+       }
+       ShapePoint "{6639375F4641A15D}" {
+        Position 10.912 -6.505 25.867
+       }
+       ShapePoint "{6639375F4641A0ED}" {
+        Position 26.458 -12.048 46.132
+       }
+       ShapePoint "{6639375F4641A007}" {
+        Position 36.969 -14.035 56.776
+       }
+       ShapePoint "{6639375F46419FBC}" {
+        Position 51.188 -14.28 67.886
+       }
+       ShapePoint "{66393751D284508C}" {
+        Position 60.3 -13.651 69.147
+       }
+       ShapePoint "{66393751D133D008}" {
+        Position 69.557 -12.752 71.282
+       }
+       ShapePoint "{66393751D19D6FCB}" {
+        Position 79.291 -13.222 77.044
+       }
+       ShapePoint "{66393751D1F783F7}" {
+        Position 86.837 -14.605 82.395
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9941.738 2.03 3617.37
+  Points {
+   ShapePoint "{6639375F1DF292AD}" {
+    Position -5.253 -0.302 -0.115
+   }
+   ShapePoint "{6639375F1DF2F2A7}" {
+    Position 23.325 0.974 5.724
+   }
+   ShapePoint "{6639375F1B259576}" {
+    Position 65.374 -0.17 27.677
+   }
+   ShapePoint "{6639375F1BB5D12A}" {
+    Position 140.844 -0.642 57.1
+   }
+   ShapePoint "{6639375F1A0BAC49}" {
+    Position 198.823 0.232 59.361
+   }
+   ShapePoint "{6639375F1A920EB4}" {
+    Position 252.734 1.248 77.199
+   }
+   ShapePoint "{6639375F19AEC086}" {
+    Position 269.305 0.589 97.468
+   }
+   ShapePoint "{6639375F189ED67B}" {
+    Position 291.876 0.84 142.449
+   }
+   ShapePoint "{6639375F18F7115A}" {
+    Position 286.762 1.005 184.623
+   }
+   ShapePoint "{6639375F23B2682D}" {
+    Position 271.382 0.338 213.771
+   }
+   ShapePoint "{6639375F23EE8BF1}" {
+    Position 233.464 2.468 238.672
+   }
+   ShapePoint "{6639375F225B3E1E}" {
+    Position 183.988 3.224 257.03
+   }
+   ShapePoint "{6639375F22882E22}" {
+    Position 138.881 4.055 256.715
+   }
+   ShapePoint "{6639375F2089ECBB}" {
+    Position 96.627 1.528 229.03
+   }
+   ShapePoint "{6639375F2F04E4F2}" {
+    Position 72.86 0.069 191.93
+   }
+   ShapePoint "{6639375F2F9BA48F}" {
+    Position 66.069 0.9 151.407
+   }
+   ShapePoint "{6639375F2FEDE720}" {
+    Position 54.649 2.866 120.653
+   }
+   ShapePoint "{6639375F2E4FF6C8}" {
+    Position 9.126 0.635 104.501
+   }
+   ShapePoint "{6639375F2DC00ABD}" {
+    Position -23.596 0.592 79.903
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    GenerateRoad 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 0 0 0
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 23.325 0.974 5.724
+       }
+       ShapePoint "{6639375F29D396CA}" {
+        Position 65.374 -0.17 27.677
+       }
+       ShapePoint "{6639375F29D3965E}" {
+        Position 140.844 -0.642 57.1
+       }
+       ShapePoint "{6639375F29D395F3}" {
+        Position 198.823 0.232 59.361
+       }
+       ShapePoint "{6639375F29D39515}" {
+        Position 252.734 1.248 77.199
+       }
+       ShapePoint "{6639375F29D39546}" {
+        Position 269.305 0.589 97.468
+       }
+       ShapePoint "{6639375F29D394E4}" {
+        Position 291.876 0.84 142.449
+       }
+       ShapePoint "{6639375F29D3941D}" {
+        Position 286.762 1.005 184.623
+       }
+       ShapePoint "{6639375F29D3944E}" {
+        Position 271.382 0.338 213.771
+       }
+       ShapePoint "{6639375F29D393F2}" {
+        Position 233.464 2.468 238.672
+       }
+       ShapePoint "{6639375F29D39322}" {
+        Position 183.988 3.224 257.03
+       }
+       ShapePoint "{6639375F29D39357}" {
+        Position 138.881 4.055 256.715
+       }
+       ShapePoint "{6639375F29D3929A}" {
+        Position 96.627 1.528 229.03
+       }
+       ShapePoint "{6639375F29D392CF}" {
+        Position 72.86 0.069 191.93
+       }
+       ShapePoint "{6639375F29D39266}" {
+        Position 66.069 0.9 151.407
+       }
+       ShapePoint "{6639375F29D391AB}" {
+        Position 54.649 2.866 120.653
+       }
+       ShapePoint "{6639375F29D391DA}" {
+        Position 9.126 0.635 104.501
+       }
+       ShapePoint "{6639375F29D3910F}" {
+        Position -23.596 0.592 79.903
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10034.696 6.033 3832.882
+  Points {
+   ShapePoint "{6639375D1EC6F28D}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6639375D1EC636AB}" {
+    Position 4.272 1.559 6.222
+   }
+   ShapePoint "{6639375D1C357845}" {
+    Position 15.229 2.572 16.705
+   }
+   ShapePoint "{6639375D1C6B4FD0}" {
+    Position 28.505 3.212 27.451
+   }
+   ShapePoint "{6639375D1CA1F6A0}" {
+    Position 37.65 2.519 33.539
+   }
+   ShapePoint "{6639375D1B39D60C}" {
+    Position 44.528 0.629 37.914
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{5B6E89F5F31C58DE}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+      coords 42.885 1.181 36.88
+      angles 0 327.83 0
+     }
+     $grp SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      {
+       coords -0.041 -0.02 -0.069
+       angles 0 300.439 0
+      }
+      {
+       coords 1.473 0.734 2.522
+       angles 0 305.532 0
+      }
+      {
+       coords 3.212 1.216 4.971
+       angles 0 311.611 0
+      }
+      {
+       coords 5.202 1.831 7.217
+       angles 0 314.643 0
+      }
+      {
+       coords 7.31 2.127 9.355
+       angles 0 315.931 0
+      }
+      {
+       coords 9.466 2.572 11.444
+       angles 0 316.942 0
+      }
+      {
+       coords 11.658 2.601 13.494
+       angles 0 317.795 0
+      }
+      {
+       coords 13.881 2.818 15.512
+       angles 0 318.769 0
+      }
+      {
+       coords 16.138 2.656 17.492
+       angles 0 319.659 0
+      }
+      {
+       coords 18.425 2.795 19.436
+       angles 0 320.507 0
+      }
+      {
+       coords 20.741 2.738 21.346
+       angles 0 321.099 0
+      }
+      {
+       coords 23.077 2.845 23.232
+       angles 0 321.685 0
+      }
+      {
+       coords 25.432 2.863 25.094
+       angles 0 322.44 0
+      }
+      {
+       coords 27.811 3.177 26.925
+       angles 0 323.69 0
+      }
+      {
+       coords 30.228 3.074 28.706
+       angles 0 325.814 0
+      }
+      {
+       coords 32.711 3.249 30.395
+       angles 0 327.479 0
+      }
+      {
+       coords 35.242 2.869 32.009
+       angles 0 327.526 0
+      }
+      {
+       coords 37.776 2.459 33.621
+       angles 0 327.266 0
+      }
+      {
+       coords 40.303 2.062 35.246
+       angles 0 327.674 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9907.555 1.399 3672.175
+  Points {
+   ShapePoint "{6639375CC7366C38}" {
+    Position 0 0.001 0
+   }
+   ShapePoint "{6639375CC735D460}" {
+    Position 0.518 -0.401 -10.181
+   }
+   ShapePoint "{6639375CC672B4D0}" {
+    Position 2.278 -0.41 -20.259
+   }
+   ShapePoint "{6639375CC6FA3CF2}" {
+    Position 5.952 -0.397 -34.156
+   }
+   ShapePoint "{6639375CC5271F81}" {
+    Position 9.859 0.324 -44.891
+   }
+   ShapePoint "{6639375CC58712B8}" {
+    Position 19.637 0.462 -48.771
+   }
+   ShapePoint "{6639375CC4395623}" {
+    Position 32.071 0.3 -52.209
+   }
+   ShapePoint "{6639375CC349776F}" {
+    Position 39.02 0.147 -50.576
+   }
+   ShapePoint "{6639375CC3A4C56E}" {
+    Position 48.037 0.528 -48.2
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{56EB3E90ED6D70D6}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_02.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_DestructibleEntity : "{A0034468130DC93D}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_4m_A.et" {
+      {
+       coords 0 0.001 0
+       angles 0 88.19 0
+      }
+      {
+       coords 0.13 -0.083 -4.109
+       angles 0 86.954 0
+      }
+      {
+       coords 0.349 -0.281 -8.214
+       angles 0 83.93 0
+      }
+      {
+       coords 0.783 -0.554 -12.302
+       angles 0 80.493 0
+      }
+      {
+       coords 1.462 -0.586 -16.357
+       angles 0 78.139 0
+      }
+      {
+       coords 2.307 -0.411 -20.38
+       angles 0 76.45 0
+      }
+      {
+       coords 3.271 -0.438 -24.377
+       angles 0 75.428 0
+      }
+      {
+       coords 4.305 -0.603 -28.355
+       angles 0 74.493 0
+      }
+      {
+       coords 5.403 -0.497 -32.317
+       angles 0 74.032 0
+      }
+      {
+       coords 6.534 -0.318 -36.269
+       angles 0 75.627 0
+      }
+      {
+       coords 7.555 -0.036 -40.252
+       angles 0 66.719 0
+      }
+      {
+       coords 9.18 0.257 -44.028
+       angles 0 39.02 0
+      }
+      {
+       coords 12.374 0.471 -46.616
+       angles 0 17.427 0
+      }
+      {
+       coords 16.296 0.544 -47.847
+       angles 0 15.9 0
+      }
+      {
+       coords 20.25 0.447 -48.974
+       angles 0 18.148 0
+      }
+      {
+       coords 24.156 0.32 -50.254
+       angles 0 16.391 0
+      }
+      {
+       coords 28.101 0.293 -51.414
+       angles 0 11.205 0
+      }
+      {
+       coords 32.133 0.3 -52.213
+       angles 0 351.167 0
+      }
+      {
+       coords 36.195 0.218 -51.582
+       angles 0 341.788 0
+      }
+      {
+       coords 40.101 0.152 -50.297
+       angles 0 345.33 0
+      }
+     }
+     SCR_DestructibleEntity : "{F260C6128FD34953}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_Pole.et" {
+      coords 44.078 0.274 -49.256
+      angles 0 345.214 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9993.41 3.509 3731.095
+  Points {
+   ShapePoint "{6639375CDFB4704E}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6639375CDFB3C9B3}" {
+    Position -8.801 -0.746 -3.952
+   }
+   ShapePoint "{6639375CDED87D0B}" {
+    Position -22.278 -1.158 -6.943
+   }
+   ShapePoint "{6639375CDD147BD5}" {
+    Position -35.161 -0.826 -10.729
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{5B6E89F5F31C58DE}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_01.et" {
+    Flags 0x100003 0
+    {
+     SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+      coords -34.305 -0.84 -10.466
+      angles 0 162.956 0
+     }
+     $grp SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      {
+       coords 0.074 0.008 0.038
+       angles 0 152.81 0
+      }
+      {
+       coords -2.595 -0.271 -1.337
+       angles 0 155.029 0
+      }
+      {
+       coords -5.315 -0.488 -2.609
+       angles 0 158.339 0
+      }
+      {
+       coords -8.102 -0.698 -3.725
+       angles 0 164.291 0
+      }
+      {
+       coords -10.991 -0.907 -4.542
+       angles 0 167.654 0
+      }
+      {
+       coords -13.924 -1.056 -5.186
+       angles 0 168.761 0
+      }
+      {
+       coords -16.868 -1.171 -5.771
+       angles 0 168.471 0
+      }
+      {
+       coords -19.81 -1.188 -6.368
+       angles 0 166.551 0
+      }
+      {
+       coords -22.731 -1.148 -7.063
+       angles 0 164.535 0
+      }
+      {
+       coords -25.625 -1.083 -7.863
+       angles 0 163.628 0
+      }
+      {
+       coords -28.505 -0.964 -8.708
+       angles 0 163.31 0
+      }
+      {
+       coords -31.381 -0.87 -9.57
+       angles 0 162.956 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9919.336 2.486 3688.943
+  Points {
+   ShapePoint "{6639375CD9C8224C}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6639375CD9C8703F}" {
+    Position 4.972 0.159 7.416
+   }
+   ShapePoint "{6639375CD8DE3FC6}" {
+    Position 12.248 0.136 14.389
+   }
+   ShapePoint "{6639375CE73C789E}" {
+    Position 17.982 0.16 19.624
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{56EB3E90ED6D70D6}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_02.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_DestructibleEntity : "{A0034468130DC93D}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_4m_A.et" {
+      {
+       coords 0 0 0
+       angles 0 301.776 0
+      }
+      {
+       coords 2.165 0.047 3.495
+       angles 0 305.1 0
+      }
+      {
+       coords 4.528 0.138 6.858
+       angles 0 312.849 0
+      }
+      {
+       coords 7.324 0.213 9.872
+       angles 0 317.307 0
+      }
+      {
+       coords 10.346 0.215 12.66
+       angles 0 317.619 0
+      }
+      {
+       coords 13.383 0.128 15.431
+       angles 0 317.512 0
+      }
+     }
+     SCR_DestructibleEntity : "{F260C6128FD34953}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_Pole.et" {
+      coords 16.414 0.16 18.208
+      angles 0 317.918 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9959.493 9.548 3791.694
+  Points {
+   ShapePoint "{6639375318627B88}" {
+    Position 0 0.001 0
+   }
+   ShapePoint "{663937531861C1E2}" {
+    Position 4.596 -1.746 -6.411
+   }
+   ShapePoint "{663937532768702E}" {
+    Position 3.516 -2.973 -17.467
+   }
+   ShapePoint "{6639375327CF82D5}" {
+    Position -3.154 -4.458 -36.278
+   }
+   ShapePoint "{66393753265A1340}" {
+    Position -5.843 -4.389 -40.526
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{56EB3E90ED6D70D6}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_02.et" {
+    Flags 0x100003 0
+    {
+     $grp SCR_DestructibleEntity : "{035E7D477B6F1F64}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_8m_C.et" {
+      {
+       coords 4.645 -1.794 -6.682
+       angles 0 93.481 0
+      }
+      {
+       coords 0.651 -3.771 -26.265
+       angles 0 110.55 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{A0034468130DC93D}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_4m_A.et" {
+      {
+       coords 0 0.001 0
+       angles 0 46.958 0
+      }
+      {
+       coords 2.806 -0.94 -3.005
+       angles 0 63.438 0
+      }
+      {
+       coords 4.151 -2.802 -14.787
+       angles 0 104.086 0
+      }
+      {
+       coords -2.199 -4.132 -33.868
+       angles 0 112.443 0
+      }
+     }
+     SCR_DestructibleEntity : "{E6C231BE778A880F}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_8m_B.et" {
+      coords 3.229 -3.032 -18.538
+      angles 0 108.456 0
+     }
+     SCR_DestructibleEntity : "{F260C6128FD34953}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_Pole.et" {
+      coords -3.769 -4.566 -37.668
+      angles 0 116.313 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9868.553 20.355 3459.4
+  Points {
+   ShapePoint "{663937521E0D5BC1}" {
+    Position 1.044 0.291 -2.423
+   }
+   ShapePoint "{663937521E0CB4EE}" {
+    Position 0.065 -2.006 10.114
+   }
+   ShapePoint "{663937521D34B2CC}" {
+    Position -6.428 -7.203 32.597
+   }
+   ShapePoint "{663937521D91A8BC}" {
+    Position -20.506 -12.956 49.991
+   }
+   ShapePoint "{663937521C26157B}" {
+    Position -40.917 -15.672 51.512
+   }
+   ShapePoint "{663937521CEA35B6}" {
+    Position -54.232 -17.884 60.519
+   }
+   ShapePoint "{66393752194C3903}" {
+    Position -59.277 -18.8 67.792
+   }
+   ShapePoint "{6639375219C1B430}" {
+    Position -67.111 -18.705 73.879
+   }
+   ShapePoint "{6639375218686313}" {
+    Position -71.574 -18.444 75.509
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 1.044 0.291 -2.423
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position 0.065 -2.006 10.114
+       }
+       ShapePoint "{6639375220C9C737}" {
+        Position -6.428 -7.203 32.597
+       }
+       ShapePoint "{6639375220C9C744}" {
+        Position -20.506 -12.956 49.991
+       }
+       ShapePoint "{6639375220C9C6F7}" {
+        Position -40.917 -15.672 51.512
+       }
+       ShapePoint "{6639375220C9C62D}" {
+        Position -54.232 -17.884 60.519
+       }
+       ShapePoint "{6639375220C9C646}" {
+        Position -59.277 -18.8 67.792
+       }
+       ShapePoint "{6639375220C9C5E5}" {
+        Position -67.111 -18.705 73.879
+       }
+       ShapePoint "{6639375220C9C512}" {
+        Position -71.574 -18.444 75.509
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9707.867 9.185 3497.248
+  Points {
+   ShapePoint "{6639375234C6DCD9}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6639375234C63DD1}" {
+    Position 6.631 0.774 -7.167
+   }
+   ShapePoint "{6639375233DDCE7E}" {
+    Position 24.717 3.751 -15.321
+   }
+   ShapePoint "{663937523237964E}" {
+    Position 54.378 6.478 -18.516
+   }
+   ShapePoint "{66393752329E2C48}" {
+    Position 86.596 3.193 -10.556
+   }
+   ShapePoint "{6639375232FB5CCC}" {
+    Position 107.731 -0.906 -0.36
+   }
+   ShapePoint "{66393752315AD8D2}" {
+    Position 120.771 -2.916 7.986
+   }
+   ShapePoint "{6639375231CF8892}" {
+    Position 129.368 -3.647 13.681
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position 6.631 0.774 -7.167
+       }
+       ShapePoint "{66393751C1B3C1BF}" {
+        Position 24.717 3.751 -15.321
+       }
+       ShapePoint "{66393751C1B3C136}" {
+        Position 54.378 6.478 -18.516
+       }
+       ShapePoint "{66393751C1B3C16C}" {
+        Position 86.596 3.193 -10.556
+       }
+       ShapePoint "{66393751C1B3C085}" {
+        Position 107.731 -0.906 -0.36
+       }
+       ShapePoint "{66393751C1B3C03A}" {
+        Position 120.771 -2.916 7.986
+       }
+       ShapePoint "{66393751C1B3C045}" {
+        Position 129.368 -3.647 13.681
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9812.453 2.189 3521.697
+  Points {
+   ShapePoint "{663937523D28F2E8}" {
+    Position 0 0 0
+   }
+   ShapePoint "{663937523D284371}" {
+    Position -7.244 0.951 -5.44
+   }
+   ShapePoint "{663937523C56ADDD}" {
+    Position -16.624 2.027 -8.771
+   }
+   ShapePoint "{663937523CAD6B5C}" {
+    Position -28.918 4.201 -12.125
+   }
+   ShapePoint "{663937523B38D716}" {
+    Position -38.602 5.279 -10.668
+   }
+   ShapePoint "{663937523BC161DE}" {
+    Position -46.815 5.569 -5.708
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position -7.244 0.951 -5.44
+       }
+       ShapePoint "{66393751C2DB9D7A}" {
+        Position -16.624 2.027 -8.771
+       }
+       ShapePoint "{66393751C2DB9C89}" {
+        Position -28.918 4.201 -12.125
+       }
+       ShapePoint "{66393751C2DB9C26}" {
+        Position -38.602 5.279 -10.668
+       }
+       ShapePoint "{66393751C2DB9C5C}" {
+        Position -46.815 5.569 -5.708
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9763.759 15.508 3479.411
+  Points {
+   ShapePoint "{66393751C676F725}" {
+    Position 0 0 0
+   }
+   ShapePoint "{66393751C67648DE}" {
+    Position 7.595 -1.758 6.098
+   }
+   ShapePoint "{66393751C54A04CC}" {
+    Position 13.983 -4.354 13.68
+   }
+   ShapePoint "{66393751C5A99F85}" {
+    Position 16.703 -7.091 22.99
+   }
+   ShapePoint "{66393751C4301E1A}" {
+    Position 18.154 -9.051 30.923
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position 7.595 -1.758 6.098
+       }
+       ShapePoint "{66393751C3DD0C96}" {
+        Position 13.983 -4.354 13.68
+       }
+       ShapePoint "{66393751C3DD0C21}" {
+        Position 16.703 -7.091 22.99
+       }
+       ShapePoint "{66393751C3DD0C5E}" {
+        Position 18.154 -9.051 30.923
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9753.728 12.337 3497.469
+  Points {
+   ShapePoint "{66393751DC6024A0}" {
+    Position 0 0 0
+   }
+   ShapePoint "{66393751DC6F9804}" {
+    Position -9.852 -0.352 4.091
+   }
+   ShapePoint "{66393751DB65B526}" {
+    Position -19.578 -1.782 9.19
+   }
+   ShapePoint "{66393751DBFD9DC5}" {
+    Position -29.763 -3.019 10.237
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E4FE524AD8080397}Prefabs/WEGenerators/Roads/Dirt/RG_TrailDirt_01.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "526283EEB3C31502"
+      SplinePoints {
+       ShapePoint "{5256E6ED186CB7B5}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5256E6ED186CB58D}" {
+        Position -9.852 -0.352 4.091
+       }
+       ShapePoint "{66393751DAF2720E}" {
+        Position -19.578 -1.782 9.19
+       }
+       ShapePoint "{66393751DAF27192}" {
+        Position -29.763 -3.019 10.237
+       }
+      }
+      IsClosedSpline 0
+      Width 1.75
+     }
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{7FCD4E7C25D886A8}Prefabs/Structures/Signs/Traffic/SignBusStop_01.et" {
+ {
+  coords 13681.854 39.485 1622.383
+  angles 0.941 -43.463 0.342
+ }
+ {
+  coords 14471.132 43.601 9303.5
+  angles -0.711 71.784 0.705
+ }
+ {
+  coords 7389.349 52.532 6380.893
+  angles -0.22 -8.419 0.635
+ }
+ {
+  coords 9385.95 31.827 7270.57
+  angles -0.387 117.32 -0.549
+ }
+ {
+  coords 12274.551 21.026 8525.104
+  angles 0.521 -156.599 -0.424
+ }
+ {
+  coords 9254.788 44.065 12478.958
+  angles 0.446 -75.577 1.269
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{97380F89AA02D20B}Prefabs/Structures/Infrastructure/Bus/BusShed_E_01/BusShed_E_01_blue.et" {
+ {
+  coords 13683.557 0.13 1623.857
+  angles 1.448 -43.208 -0.03
+ }
+ {
+  coords 14471.737 0 9301.333
+  angles -0.205 72.042 0.326
+ }
+ {
+  coords 7391.588 0.005 6381.123
+  angles 0.286 -8.161 0.258
+ }
+ {
+  coords 9384.83 0 7268.616
+  angles 0.124 117.567 -0.927
+ }
+ {
+  coords 12272.522 0 8526.087
+  angles 1.032 -156.351 -0.798
+ }
+ {
+  coords 9255.443 -0.001 12481.114
+  angles 0.949 -75.314 0.895
+ }
+}
+SCR_DestructibleBuildingEntity : "{A4E5FA8DCFCB5D09}PrefabLibrary/DefaultLibrary/Infrastructure/Naval/Pier_01.et" {
+ coords 9969.46 -3.675 3709.841
+ angles 0 148.982 0
+}
+$grp SCR_DestructibleBuildingEntity : "{A54F6416C3A6A4D7}Prefabs/Structures/Infrastructure/Power/TransformerSubstation_01/TransformerSubstation_01.et" {
+ {
+  coords 9825.786 0 4037.771
+  angles 0 110.217 0
+ }
+ {
+  coords 9887.685 0.219 3572.049
+  angles 0 142.28 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{B5963E922C972A4A}Prefabs/Structures/Infrastructure/Landlines/PhoneBooth_E/PhoneBooth_E_01.et" {
+ coords 9921.94 -0.001 3613.954
+ angles 0 -169.218 0
+}
+$grp SCR_DestructibleBuildingEntity : "{D0947E26A8A39ECF}Prefabs/Structures/Forest/DeerStands/DeerStand_01.et" {
+ {
+  coords 10008.001 0 3736.564
+  angles 0 -96.46 0
+ }
+ {
+  coords 10192.421 0 3705.853
+  angles 0 128.12 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{F5BECEAAA3A53E00}Prefabs/Structures/Houses/Garage/Garage_E_01/Garage_E_01.et" {
+ {
+  coords 9801.258 0.133 3522.569
+  angles 0 -36.486 0
+ }
+ {
+  coords 9797.335 0 3519.669
+  angles 0 -36.486 0
+ }
+ {
+  coords 9805.132 0.174 3525.434
+  angles 0 -36.486 0
+ }
+}

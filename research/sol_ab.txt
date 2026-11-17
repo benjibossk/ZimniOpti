@@ -1,0 +1,5 @@
+VRAM sol_1300 : moyenne 4734 Mo, pic 5674 Mo ; RAM privee pic 10548 Mo, fin 9699 Mo
+sol rayon 1300 n=260 fps=115.7 pire=200.0 >50ms=8 memJeu=3226
+VRAM sol_800 : moyenne 4735 Mo, pic 5673 Mo ; RAM privee pic 10265 Mo, fin 9396 Mo
+sol rayon 800 n=260 fps=121.3 pire=200.0 >50ms=2 memJeu=3137
+SOL_FINI

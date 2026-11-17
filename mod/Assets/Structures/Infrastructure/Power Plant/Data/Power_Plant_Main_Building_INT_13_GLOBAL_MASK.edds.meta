@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{8EE9DB6560B9E62E}Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_13_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

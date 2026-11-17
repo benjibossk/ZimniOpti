@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "C:\Users\benbo\tools\PakTools\zimni_pied_patch.py", line 4, in <module>
+    rep('ZO_ConsoleViewCap.c','''		if (FileIO.FileExists("$profile:ZimniPerf/forcecap"))
+  File "C:\Users\benbo\tools\PakTools\zimni_pied_patch.py", line 3, in rep
+    s=open(d+f,encoding='utf-8',newline='').read(); assert s.count(a)==1,(f,a); open(d+f,'w',encoding='utf-8',newline='').write(s.replace(a,b))
+                                                           ^^^^^^^^^^^^^
+AssertionError: ('ZO_ConsoleViewCap.c', '\t\tif (FileIO.FileExists("$profile:ZimniPerf/forcecap"))\n\t\t\treturn 1200;')
+pack EXIT=0
+VRAM pied_ref : moyenne 4737 Mo, pic 5671 Mo ; RAM privee pic 10158 Mo, fin 9774 Mo
+pied_ref n=260 fps=107.6 pire=104.5 >50ms=6 memJeu=3223
+pack EXIT=0
+VRAM pied_vue900 : moyenne 4662 Mo, pic 5671 Mo ; RAM privee pic 10165 Mo, fin 6861 Mo
+pied_vue900 n=260 fps=112.5 pire=86.5 >50ms=2 memJeu=3221
+pack EXIT=0
+VRAM pied_int30 : moyenne 4721 Mo, pic 5673 Mo ; RAM privee pic 10160 Mo, fin 10010 Mo
+pied_int30 n=260 fps=113.3 pire=200.0 >50ms=1 memJeu=3216
+PIED_FINI

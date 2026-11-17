@@ -1,0 +1,499 @@
+$grp PolylineShapeEntity {
+ {
+  coords 3597.982 131.7 9587.581
+  Points {
+   ShapePoint "{684944EA561BBA87}" {
+    Position 0 -0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA561BC435}" {
+    Position -14.236 3.933 16.044
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA508144AD}" {
+    Position -4.039 0.877 21.952
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA507CD3A7}" {
+    Position 23.242 -7.125 24.32
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA53D0A335}" {
+    Position 55.318 -14.389 22.304
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA53B079B0}" {
+    Position 84.455 -23.253 15.209
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5332E079}" {
+    Position 95.775 -27.825 5.397
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA52944A88}" {
+    Position 98.325 -29.705 -5.148
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5D01484E}" {
+    Position 107.386 -34.03 -14.593
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5CD507BF}" {
+    Position 105.755 -33.853 -19.041
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5C50B03C}" {
+    Position 92.748 -28.876 -16.561
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5C28A0AE}" {
+    Position 88.719 -28.554 -27.03
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5F894359}" {
+    Position 101.568 -34.888 -41.256
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5F5CEA10}" {
+    Position 99.445 -35.444 -50.873
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5F21B979}" {
+    Position 82.996 -28.925 -48.279
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5E918608}" {
+    Position 66.126 -23.19 -49.571
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5E075BD4}" {
+    Position 50.016 -18.978 -64.456
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA598B5132}" {
+    Position 35.067 -12.4 -47.439
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA593A9B75}" {
+    Position 32.456 -11.3 -37.633
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5890EF31}" {
+    Position 43.05 -14.704 -26.812
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA58718835}" {
+    Position 43.324 -14.239 -10.402
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5BE24A79}" {
+    Position 38.384 -11.656 5.312
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5B3A1B07}" {
+    Position 25.827 -7.727 8.536
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944EA5A6CEF3E}" {
+    Position 6.802 -2.115 1.275
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  {
+   ForestGeneratorEntity : "{BE2A22EBD3A58B49}Prefabs/WEGenerators/Stones/FG_BeachStones_Sparse.et" {
+    Flags 0x100003 0
+    m_iSeed 18368
+    m_aLevels {
+     ForestGeneratorBottomLevel intermediate {
+      m_bGenerate 1
+     }
+    }
+    m_aClusters {
+     ForestGeneratorCircleCluster Sorbus {
+     }
+     ForestGeneratorCircleCluster Corylus {
+     }
+     ForestGeneratorCircleCluster Betula {
+     }
+     ForestGeneratorStripCluster Rosa {
+     }
+     ForestGeneratorStripCluster Rubus_Idaeus {
+      m_bGenerate 1
+     }
+     ForestGeneratorCircleCluster Stones {
+      m_aObjects {
+       SmallForestGeneratorClusterObject Stone_01 {
+        m_Prefab "{FE383DD7E1E92563}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_02.et"
+       }
+       SmallForestGeneratorClusterObject Stone_02 {
+       }
+       SmallForestGeneratorClusterObject Stone_03 {
+        m_Prefab "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et"
+       }
+      }
+     }
+    }
+    {
+     $grp SCR_IndestructibleEnvironmentalEntity : "{2A841F5C64F4BCE2}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_BeachCluster_02/Granite_BeachCluster_02.et" {
+      {
+       coords 61.2 -21.096 -43.814
+       angles 6.357 -8.489 17.799
+       scale 0.61
+      }
+      {
+       coords 60.715 -21.297 -49.235
+       angles -2.764 -174.954 -18.835
+       scale 0.667
+      }
+      {
+       coords 54.397 -18.836 -43.766
+       angles 12.424 -30.479 13.777
+       scale 0.559
+      }
+      {
+       coords 92.375 -28.13 -3.799
+       angles 4.703 -149.416 -17.867
+       scale 0.998
+      }
+      {
+       coords 41.781 -14.716 -48.29
+       angles 2.53 -164.573 -18.571
+       scale 0.781
+      }
+      {
+       coords 52.383 -18.536 -51.102
+       angles -19.429 106.364 -2.515
+       scale 0.738
+      }
+      {
+       coords 42.152 -15.195 -54.412
+       angles 10.611 -20.713 16.256
+       scale 0.839
+      }
+      {
+       coords 47.835 -16.746 -47.061
+       angles -12.7 45.956 14.308
+       scale 1.173
+      }
+      {
+       coords 76.334 -27.691 -42.188
+       angles -9.443 167.113 -16.826
+       scale 0.677
+      }
+      {
+       coords 80.752 -29.275 -37.881
+       angles 6.255 -143.369 -17.524
+       scale 0.763
+      }
+      {
+       coords 71.152 -24.983 -33.318
+       angles -16.041 79.849 6.737
+       scale 0.936
+      }
+      {
+       coords 80.89 -28.995 -31.37
+       angles -10.202 161.645 -14.857
+       scale 0.964
+      }
+      {
+       coords 73.943 -26.593 -38.681
+       angles -14.421 70.072 10.139
+       scale 1.003
+      }
+      {
+       coords 85.653 -28.189 -33.581
+       angles -18.44 121.096 -4.475
+       scale 0.584
+      }
+      {
+       coords 59.965 -21.502 -54.77
+       angles 19.666 -85.349 -3.08
+       scale 0.95
+      }
+      {
+       coords 50.598 -17.741 -48.056
+       angles 17.806 -56.519 7.459
+       scale 0.873
+      }
+      {
+       coords 52.426 -18.33 -47.334
+       angles 14.529 -125.006 -12.509
+       scale 1.162
+      }
+      {
+       coords 51.584 -18.548 -54.994
+       angles 17.453 -48.277 9.513
+       scale 0.507
+      }
+      {
+       coords 44.232 -12.901 9.259
+       angles 16.31 -74.709 -1.835
+       scale 0.63
+      }
+      {
+       coords 36.987 -11.075 7.325
+       angles -15.659 89.434 5.31
+       scale 1.199
+      }
+      {
+       coords 41.443 -12.143 9.211
+       angles -15.749 128.551 -4.67
+       scale 0.819
+      }
+     }
+     $grp SCR_IndestructibleEnvironmentalEntity : "{46D02BBCD83033CC}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_BeachCluster_01/Granite_BeachCluster_01.et" {
+      {
+       coords 56.807 -19.826 -47.152
+       angles 6.853 -151.967 -17.907
+       scale 0.707
+      }
+      {
+       coords 71.385 -25.503 -40.48
+       angles 7.594 -7.23 16.872
+       scale 1.063
+      }
+      {
+       coords 63.768 -21.981 -38.573
+       angles -7.003 167.478 -16.625
+       scale 1.036
+      }
+      {
+       coords 54.863 -19.895 -57.016
+       angles 13.465 -126.494 -15.943
+       scale 0.957
+      }
+      {
+       coords 50.206 -17.671 -49.273
+       angles 0.769 6.679 19.571
+       scale 0.882
+      }
+      {
+       coords 60.394 -21.447 -52.508
+       angles -19.464 97.943 2.448
+       scale 0.969
+      }
+      {
+       coords 35.428 -10.485 8.902
+       angles -10.984 159.381 -12.588
+       scale 1.187
+      }
+      {
+       coords 43.174 -12.171 13.154
+       angles 3.989 9.91 15.703
+       scale 1.107
+      }
+     }
+     $grp SCR_IndestructibleEnvironmentalEntity : "{907BCF8E0D48357D}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_Stone_02/Granite_BeachStone_02.et" {
+      {
+       coords 74.306 -23.07 -10.059
+       angles -0.999 133.213 -3.127
+       scale 0.815
+      }
+     }
+     $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
+      {
+       coords 73.038 -22.604 -12.181
+       angles -37.876 -138.498 166.794
+       scale 1.106
+      }
+      {
+       coords 68.783 -23.469 -28.474
+       angles 39.299 57.103 144.233
+       scale 1.117
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 2111.505 246.993 8993.779
+  Points {
+   ShapePoint "{684944E184B4ECE3}" {
+    Position 0 -0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E184B42D41}" {
+    Position -10.025 -2.419 -29.287
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E1837F05EE}" {
+    Position 22.148 -7.464 -61.947
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E182CC1026}" {
+    Position 13.602 -12.322 -92.303
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18294355F}" {
+    Position 21.808 -16.671 -133.07
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18DFDB3DD}" {
+    Position 3.703 -18.343 -159.772
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18CB9C531}" {
+    Position 20.979 -18.729 -166.238
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18FA039FC}" {
+    Position 54.868 -19.776 -156.477
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18F1E54C3}" {
+    Position 60.782 -15.764 -116.657
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18E44799F}" {
+    Position 53.027 -11.206 -84.42
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E189587EBD}" {
+    Position 43.759 -3.186 -31.377
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E188D18E4A}" {
+    Position 40.819 4.266 15.361
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{684944E18BD8B1BF}" {
+    Position 16.548 3.2 36.268
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  {
+   ForestGeneratorEntity : "{B270CEB8DA60414D}Prefabs/WEGenerators/Brushland/FG_Brushland_Picea_Sparse.et" {
+    Flags 0x100003 0
+    m_iSeed 17846
+    {
+     $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
+      {
+       coords 13.016 -2.544 -25.716
+       angles -28.417 -144.738 128.868
+       scale 1.163
+      }
+      {
+       coords 35.303 -17.8 -136.699
+       angles -33.262 7.35 144.37
+       scale 1.131
+      }
+     }
+    }
+   }
+  }
+ }
+}

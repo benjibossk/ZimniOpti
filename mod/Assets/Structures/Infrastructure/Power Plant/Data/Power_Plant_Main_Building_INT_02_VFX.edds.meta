@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6681C7B59F57EB5E}Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_02_VFX.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

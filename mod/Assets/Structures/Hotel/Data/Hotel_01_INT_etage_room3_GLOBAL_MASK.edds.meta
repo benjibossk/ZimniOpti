@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A903A9B2841640EB}Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room3_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

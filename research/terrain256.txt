@@ -1,0 +1,19 @@
+tuiles 256 copiees
+pack EXIT=0
+VRAM ter256_sol : moyenne 4460 Mo, pic 5545 Mo ; RAM privee pic 10234 Mo, fin 9741 Mo
+1
+ter256_sol n=259 fps=97.8 >50ms=3 memJeu=3210
+pack EXIT=0
+VRAM ter256_vol : moyenne 3264 Mo, pic 5080 Mo ; RAM privee pic 9637 Mo, fin 3002 Mo
+1
+ter256_vol n=97 fps=95.1 >50ms=2 memJeu=3030
+tuiles retirees
+pack EXIT=0
+VRAM ter_ref_sol : moyenne 4512 Mo, pic 5607 Mo ; RAM privee pic 10075 Mo, fin 9359 Mo
+1
+ter_ref_sol n=260 fps=112.9 >50ms=3 memJeu=3206
+pack EXIT=0
+VRAM ter_ref_vol : moyenne 3424 Mo, pic 5074 Mo ; RAM privee pic 9592 Mo, fin 9061 Mo
+1
+ter_ref_vol n=97 fps=106.2 >50ms=0 memJeu=3042
+TER_FINI

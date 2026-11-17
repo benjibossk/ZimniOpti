@@ -1,0 +1,5 @@
+pack EXIT=0
+FIN connecte=True CSV=bench_1794845004.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_20
+17:03:24.926 SCRIPT       : [ZO] BENCH VOL : 40 m/s, 30 m de haut
+17:08:42.987 SCRIPT       : [ZO] BENCH TERMINE -> $profile:ZimniPerf/bench_1794845004.csv
+17:08:42.987 SCRIPT       : [ZO] BENCH RESULTAT : Plateforme : WINDOWS

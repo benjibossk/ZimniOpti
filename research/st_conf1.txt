@@ -1,0 +1,23 @@
+FIN connecte=True CSV=bench_1794834672.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-08-20
+VRAM st_conf1 : moyenne 1706 Mo, pic 3517 Mo ; RAM privee pic 7707 Mo, fin 7385 Mo
+FINI
+label fpsMoyen pireFrameMs memoireMo
+T1 94.1 14.2 2885
+T1 93.6 27.8 2888
+T1 64.5 31.4 2898
+T1 78.5 23.3 2899
+14:09:01 285 1067 679
+14:09:34 538 2903 2089
+14:10:07 602 3855 2928
+14:10:40 862 4197 3004
+14:11:13 2671 6814 3882
+14:11:46 3517 7707 3943
+14:12:19 3517 7385 3642
+14:09:42.911     SCRIPT    (E): Editable entity @"" is missing RplComponent! Maybe try regenerating it again.
+14:10:49.488 SCRIPT       : [ZO] STREAM actif : rayon 1300 m (tout=0), 1458 prefabs, dossier conf, serveur=0
+14:10:52.095 SCRIPT       : [ZO] STREAM pret : 9 tuiles, crees=33292 retires=0 lectureMs=34 creationMs=507 memMo=2746
+14:11:14.895 SCRIPT       : [ZO] STREAM pret : 10 tuiles, crees=160446 retires=33292 lectureMs=152 creationMs=1943 memMo=2860
+14:12:20.398 SCRIPT    (E): Cannot find editor component 'SCR_MenuLayoutEditorComponent', local instance of editor manager not found!
+14:12:20.398 SCRIPT    (E): Cannot find editor component 'SCR_MenuLayoutEditorComponent', local instance of editor manager not found!
+14:12:20.398 SCRIPT    (E): Cannot find editor component 'SCR_MenuLayoutEditorComponent', local instance of editor manager not found!
+14:12:20.399 SCRIPT    (E): Cannot find editor component 'SCR_MenuLayoutEditorComponent', local instance of editor manager not found!

@@ -1,0 +1,823 @@
+$grp PolylineShapeEntity {
+ {
+  coords 13833.192 49.562 10630.766
+  Points {
+   ShapePoint "{618952B21FE8784D}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618952B21E4368C3}" {
+    Position -40.949 0 -37.43
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618952B218380519}" {
+    Position 3.451 0 -35.995
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618952B216EB6955}" {
+    Position 2.32 0 -0.447
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 1 0 0
+  {
+   ForestGeneratorEntity : "{D4C95C81E4274092}Prefabs/WEGenerators/Forest/FG_Forest_MixedBirchPine.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13698.239 58.414 11266.298
+  Points {
+   ShapePoint "{618954BA02AC90FC}" {
+    Position 0 0.002 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BA05166D1C}" {
+    Position 28.659 -2.191 -0.278
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BA01D5EA6F}" {
+    Position 31.067 -2.105 15.822
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BA1E8F026E}" {
+    Position 18.18 -0.626 19.192
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BA1E636A15}" {
+    Position 0.376 0.205 16.997
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BA1F200BAF}" {
+    Position -0.243 0.01 4.079
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 1 0 0
+  {
+   ForestGeneratorEntity : "{D4C95C81E4274092}Prefabs/WEGenerators/Forest/FG_Forest_MixedBirchPine.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13698.889 52.735 11683.272
+  Points {
+   ShapePoint "{618954BAE39C48DA}" {
+    Position 0 -0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BAE39C7E5A}" {
+    Position 9.933 -0.435 -2.959
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BAFF045BF7}" {
+    Position 40.806 -1.983 -15.794
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BAFC7753BC}" {
+    Position 41.421 -2.445 -32.749
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BAFAB843EC}" {
+    Position -1.738 0.233 -32.794
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BAFBEEA195}" {
+    Position -1.745 0.242 -3.532
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 1 0 0
+  {
+   ForestGeneratorEntity : "{D4C95C81E4274092}Prefabs/WEGenerators/Forest/FG_Forest_MixedBirchPine.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13712.588 49.562 10871.593
+  Points {
+   ShapePoint "{618954B8EF345B72}" {
+    Position 0 0.001 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B8EF340284}" {
+    Position -2.586 0 -19.278
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B8EB0E52A7}" {
+    Position 8.978 0.001 -3.772
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 1 0 0
+  {
+   ForestGeneratorEntity : "{D4C95C81E4274092}Prefabs/WEGenerators/Forest/FG_Forest_MixedBirchPine.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13699.696 49.563 10849.24
+  Points {
+   ShapePoint "{618954B8F320F16A}" {
+    Position -4.195 0 -0.768
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B8F320BA3F}" {
+    Position 10.974 0 1.674
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{61BCCA9D7A24AE2E}" {
+    Position 8.692 0 -18.704
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{61BCCA9D718B9F3D}" {
+    Position 7.08 0 -36.1
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B8CF1C0CE8}" {
+    Position 4.463 0 -31.899
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{61BCCA9D7CA69CE1}" {
+    Position -0.106 0 -12.85
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 1 0 0
+  {
+   ForestGeneratorEntity : "{D4C95C81E4274092}Prefabs/WEGenerators/Forest/FG_Forest_MixedBirchPine.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13831.559 49.563 11026.728
+  Points {
+   ShapePoint "{618954BDE67AB2D3}" {
+    Position -0.167 0 -0.09
+   }
+   ShapePoint "{618954BDE67A70EA}" {
+    Position -59.068 0 36.934
+   }
+   ShapePoint "{618954BDCB013963}" {
+    Position -75.374 0 47.026
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   PrefabGeneratorEntity : "{3A76DA1823C68B3E}Prefabs/WEGenerators/Bushline/PG_Treeline_Birch_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+   PrefabGeneratorEntity : "{5622EEF89F020410}Prefabs/WEGenerators/Bushline/PG_Treeline_Birch_02.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13685.464 53.822 11150.462
+  Points {
+   ShapePoint "{618954BD832A3D8A}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BD8329F9A9}" {
+    Position -2.813 -0.155 -2.749
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BD9FE30A2E}" {
+    Position 27.811 -3.987 -25.375
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BD9C31EB05}" {
+    Position 31.477 -3.969 -22.698
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954BD9D7754E6}" {
+    Position 1.442 -0.078 0.109
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{400E95BC07896418}Prefabs/WEGenerators/Forest/FG_Forest_Birch2.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13731.616 53.108 11179.705
+  Points {
+   ShapePoint "{618954B23C0AA81F}" {
+    Position -8.673 1.804 8.934
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B238919921}" {
+    Position -27.147 4.927 23.064
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B23859FA72}" {
+    Position -27.799 2.941 1.824
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B236B88449}" {
+    Position -26.696 1.341 -13.029
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B23C0A628B}" {
+    Position 0.736 -0.538 -4.905
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{532AED66429654F6}Prefabs/WEGenerators/Brushland/FG_Brushland_Sorbus_Dense.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_bAvoidRoads 1
+    m_bAvoidTracks 1
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13605.545 56.626 11800.522
+  Points {
+   ShapePoint "{618954B29F666399}" {
+    Position 0 -0.002 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B29F663D71}" {
+    Position 2.423 0.115 -22.907
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B29BDB6D1D}" {
+    Position 90.209 -7.063 -23.333
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B29934E0B6}" {
+    Position 91.891 -6.985 -59.383
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B2948423D7}" {
+    Position 142.454 -5.719 -24.613
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B295CE9A12}" {
+    Position 117.746 -5.96 -17.327
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B292472E1F}" {
+    Position 97.506 -6.991 -4.026
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{618954B2908E3B9A}" {
+    Position 176.784 -5.717 19.277
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{400E95BC07896418}Prefabs/WEGenerators/Forest/FG_Forest_Birch2.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 14109.241 49.843 11079.843
+  angles 0 90.601 0
+  Points {
+   ShapePoint "{619B2AB716DEDA0D}" {
+    Position -0.88 0.007 0.884
+   }
+   ShapePoint "{619B2AB716DE854A}" {
+    Position -16.447 -0.218 -14.96
+   }
+   ShapePoint "{619CEC348FC85240}" {
+    Position -16.173 -0.218 -14.916
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{20C867FF2CC43B0D}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.734 0.009 1.033
+       angles 0 -225.505 0
+      }
+      {
+       coords -3.507 -0.031 -1.789
+       angles 0 -225.505 0
+      }
+      {
+       coords -6.28 -0.071 -4.612
+       angles 0 -225.505 0
+      }
+      {
+       coords -9.053 -0.111 -7.434
+       angles 0 -225.505 0
+      }
+      {
+       coords -11.826 -0.151 -10.257
+       angles 0 -225.505 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 14135.354 49.843 11105.679
+  angles 0 90.601 0
+  Points {
+   ShapePoint "{619B2AB716DEDA0D}" {
+    Position -0.88 0.007 0.884
+   }
+   ShapePoint "{619B2AB716DE854A}" {
+    Position -16.447 -0.218 -14.96
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{20C867FF2CC43B0D}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.733 0.009 1.033
+       angles 0 -225.504 0
+      }
+      {
+       coords -3.507 -0.031 -1.79
+       angles 0 -225.504 0
+      }
+      {
+       coords -6.28 -0.071 -4.612
+       angles 0 -225.504 0
+      }
+      {
+       coords -9.053 -0.111 -7.435
+       angles 0 -225.504 0
+      }
+      {
+       coords -11.826 -0.151 -10.257
+       angles 0 -225.504 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 14111.107 49.843 11119.351
+  Points {
+   ShapePoint "{619B2AB716DEDA0D}" {
+    Position -0.88 0.007 0.884
+   }
+   ShapePoint "{619B2AB716DE854A}" {
+    Position -16.447 -0.218 -14.96
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{20C867FF2CC43B0D}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.733 0.009 1.033
+       angles 0 -225.504 0
+      }
+      {
+       coords -3.507 -0.031 -1.79
+       angles 0 -225.504 0
+      }
+      {
+       coords -6.28 -0.071 -4.612
+       angles 0 -225.504 0
+      }
+      {
+       coords -9.053 -0.111 -7.435
+       angles 0 -225.504 0
+      }
+      {
+       coords -11.826 -0.151 -10.257
+       angles 0 -225.504 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 14136.971 49.843 11093.086
+  angles 0 0.601 0
+  Points {
+   ShapePoint "{619B2AB716DEDA0D}" {
+    Position -0.88 0.007 0.884
+   }
+   ShapePoint "{619CEC34B1B7F719}" {
+    Position -0.937 -0.218 0.31
+   }
+   ShapePoint "{619B2AB716DE854A}" {
+    Position -16.447 -0.218 -14.96
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{20C867FF2CC43B0D}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.734 0.009 1.033
+       angles 0 -225.505 0
+      }
+      {
+       coords -3.507 -0.031 -1.789
+       angles 0 -225.505 0
+      }
+      {
+       coords -6.28 -0.071 -4.612
+       angles 0 -225.505 0
+      }
+      {
+       coords -9.053 -0.111 -7.434
+       angles 0 -225.505 0
+      }
+      {
+       coords -11.826 -0.151 -10.257
+       angles 0 -225.505 0
+      }
+     }
+    }
+   }
+  }
+ }
+}
+$grp SplineShapeEntity {
+ {
+  coords 13831.279 49.562 10824.316
+  Points {
+   ShapePoint "{618954BBE030FC90}" {
+    Position 7.618 0 2.232
+   }
+   ShapePoint "{618954B9D7984FB6}" {
+    Position -5.51 0 7.473
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -6.907 0 3.147
+      OutTangent -42.597 0 58.668
+     }
+    }
+   }
+   ShapePoint "{618954BBE030B0B8}" {
+    Position -82.344 0 122.634
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -79.064 -0.001 119.777
+      OutTangent -17.053 0 1.397
+     }
+    }
+   }
+   ShapePoint "{618954BBF810F918}" {
+    Position -98.883 0 124.28
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -15.987 0 1.532
+      OutTangent -13.147 0 46.486
+     }
+    }
+   }
+   ShapePoint "{618954BBF74965C9}" {
+    Position -113.212 0 172.976
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -12.802 0.037 46.256
+      OutTangent -67.821 0.064 38.013
+     }
+    }
+   }
+   ShapePoint "{618954BBF2627246}" {
+    Position -187.979 0 214.075
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    RoadWidth 3
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 7.618 0 2.232
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position -5.51 0 7.473
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -6.907 0 3.147
+          OutTangent -42.597 0 58.668
+         }
+        }
+       }
+       ShapePoint "{64F51DB27C55E306}" {
+        Position -82.344 0 122.634
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -79.064 -0.001 119.777
+          OutTangent -17.053 0 1.397
+         }
+        }
+       }
+       ShapePoint "{64F51DB27C55E3B4}" {
+        Position -98.883 0 124.28
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -15.987 0 1.532
+          OutTangent -13.147 0 46.486
+         }
+        }
+       }
+       ShapePoint "{64F51DB27C55DCD1}" {
+        Position -113.212 0 172.976
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -12.802 0.037 46.256
+          OutTangent -67.821 0.064 38.013
+         }
+        }
+       }
+       ShapePoint "{64F51DB27C55DD71}" {
+        Position -187.978 0 214.075
+       }
+      }
+      IsClosedSpline 0
+      Width 3
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13669.861 58.879 11247.282
+  Points {
+   ShapePoint "{618954B26513EAC0}" {
+    Position -5.572 0.065 -10.144
+   }
+   ShapePoint "{619CEC25292D8CF4}" {
+    Position 11.636 0.148 -13.353
+   }
+   ShapePoint "{618954B26513AB9B}" {
+    Position 30.107 -0.347 -40.094
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 31.384 -3.092 -42.229
+      OutTangent 28.416 -2.002 -19.373
+     }
+    }
+   }
+   ShapePoint "{618954B27B94DE7F}" {
+    Position 64.771 -5.705 -62.52
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position -5.572 0.065 -10.144
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 11.636 0.148 -13.353
+       }
+       ShapePoint "{64F51DB27C55A3D2}" {
+        Position 30.107 -0.347 -40.094
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 31.384 -3.092 -42.229
+          OutTangent 28.416 -2.002 -19.373
+         }
+        }
+       }
+       ShapePoint "{64F51DB27C559C16}" {
+        Position 64.771 -5.705 -62.52
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13669.861 58.879 11247.282
+  Points {
+   ShapePoint "{618954B244744014}" {
+    Position 31.651 -0.058 -36.431
+   }
+   ShapePoint "{618954B24209C649}" {
+    Position 31.826 -4.032 -78.635
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{8E83BBD5CEC42A11}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position 31.651 -0.058 -36.431
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 31.826 -4.032 -78.635
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+}

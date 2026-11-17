@@ -1,0 +1,10 @@
+VRAM ra_1300 : moyenne 3575 Mo, pic 5138 Mo ; RAM privee pic 9696 Mo, fin 9320 Mo
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur=
+rayon 1300 n=97 fps=95.9 pire=61.9 >50ms=1 memJeu=3106
+VRAM ra_1000 : moyenne 3498 Mo, pic 5139 Mo ; RAM privee pic 9732 Mo, fin 9094 Mo
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur=
+rayon 1000 n=97 fps=100.0 pire=200.0 >50ms=4 memJeu=3060
+VRAM ra_800 : moyenne 3546 Mo, pic 5072 Mo ; RAM privee pic 9803 Mo, fin 9234 Mo
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur=
+rayon 800 n=97 fps=109.3 pire=54.0 >50ms=1 memJeu=3026
+RAYON_FINI

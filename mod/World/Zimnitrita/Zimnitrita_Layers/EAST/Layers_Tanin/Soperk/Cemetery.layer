@@ -1,0 +1,84 @@
+PolylineShapeEntity PolylineShapeEntity_3791 {
+ coords 11898.818 30.093 11803.881
+ Points {
+  ShapePoint "{5AED34069327DF19}" {
+   Position -0.361 0 28.175
+  }
+  ShapePoint "{5AED34075269FC97}" {
+   Position -10.546 0.019 -31.191
+  }
+  ShapePoint "{5AED34070358AD66}" {
+   Position 0.063 0 -31.219
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{7100CD51E9E2CC67}Prefabs/WEGenerators/Walls/Brick/WG_BrickWall_02.et" {
+   Flags 0x100003 0
+   coords 0 0 0
+   m_aWallGroups {
+    WallLengthGroup "{4F83A784C39D6AAB}" {
+     m_aWallPrefabs {
+      WallWeightPair "{4F83A7843D643BBC}" {
+       m_fWeight 0
+      }
+     }
+    }
+   }
+   {
+    SCR_DestructibleEntity : "{358B3FF55BA04C88}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_4m.et" {
+     coords -9.589 0.017 -25.611
+     angles 0 -260.265 0
+    }
+    $grp SCR_DestructibleEntity : "{4546AD2CC984193B}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_2m.et" {
+     {
+      coords -10.245 0.018 -29.435
+      angles 0 -260.265 0
+     }
+     {
+      coords -2.985 0.005 -31.289
+      angles 0 -1.323 0
+     }
+    }
+    SCR_DestructibleEntity : "{4EF4686F9F99FE80}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_Pole.et" {
+     coords -1.187 0.002 -31.248
+     angles 0 -1.323 0
+    }
+    $grp SCR_DestructibleEntity : "{D4101A467FE8E7EE}PrefabLibrary/DefaultLibrary/Walls/Brick/BrickWall_02_8m.et" {
+     {
+      coords -0.325 0 28.389
+      angles 0 -260.265 0
+     }
+     {
+      coords -1.648 0.002 20.674
+      angles 0 -260.265 0
+     }
+     {
+      coords -2.971 0.005 12.96
+      angles 0 -260.265 0
+     }
+     {
+      coords -4.295 0.007 5.246
+      angles 0 -260.265 0
+     }
+     {
+      coords -5.618 0.01 -2.468
+      angles 0 -260.265 0
+     }
+     {
+      coords -6.942 0.012 -10.182
+      angles 0 -260.265 0
+     }
+     {
+      coords -8.265 0.015 -17.896
+      angles 0 -260.265 0
+     }
+     {
+      coords -10.81 0.019 -31.47
+      angles 0 -1.323 0
+     }
+    }
+   }
+  }
+ }
+}

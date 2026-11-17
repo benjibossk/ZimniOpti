@@ -1,0 +1,77 @@
+== zimnitrita : 27444 fichiers ==
+ntile      20670    4658.3 MiB (decompresse)
+edds        3820    1463.3 MiB (decompresse)
+layer        210     351.5 MiB (decompresse)
+wav           12     230.8 MiB (decompresse)
+xob          244     190.3 MiB (decompresse)
+smap           1     100.8 MiB (decompresse)
+ttile       1076      91.0 MiB (decompresse)
+topo           3      59.5 MiB (decompresse)
+nmn            3      14.3 MiB (decompresse)
+et           588       2.0 MiB (decompresse)
+emat         767       0.8 MiB (decompresse)
+acp           10       0.1 MiB (decompresse)
+
+Textures: 3820 ; VRAM si tout resident 4.97 GiB ; formats inconnus {}
+    8192px x    1 =     85.3 MiB
+    4096px x  118 =   2502.5 MiB
+    3536px x    1 =      0.0 MiB
+    2300px x    3 =     20.2 MiB
+    2244px x    3 =     20.4 MiB
+    2048px x  102 =    533.4 MiB
+  Par dossier:
+    1731.7 MiB /World/Zimnitrita/Terrain
+     981.3 MiB /Assets/Structures/Hotel
+     750.9 MiB /Assets/Structures/Infrastructure
+     485.5 MiB /Assets/Structures/Military
+     198.3 MiB /Assets/Structures/Prison
+     165.2 MiB /Assets/Structures/Rails
+      85.3 MiB /World/Data/Zimnitrita.edds
+      82.9 MiB /Assets/Props/Civilian
+      64.1 MiB /Assets/Ships/barge
+      53.3 MiB /Assets/Props/Trains
+      51.1 MiB /Assets/Structures/Signs
+      51.0 MiB /Assets/Structures/Office
+
+Entites (instances top-niveau): 367935 ; sans coords: 22
+   157436 vegetation
+    96816 batiments
+    42913 props
+    30306 rochers
+    14841 autre:SplineShapeEntity
+    10200 murs/clotures
+     5310 autre:PolylineShapeEntity
+     3400 decals
+     3141 autre:StaticModelEntity
+     1413 autre:GenericEntity
+     1008 generateurs
+      966 lumieres
+  Prefabs les plus poses:
+    20820 (inline)
+     9186 PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_1.et
+     7504 Prefabs/Vegetation/Plant/p_echium_vulgare_0s.et
+     6011 Prefabs/Rocks/Granite/GraniteCliff_03.et
+     5683 Prefabs/Vegetation/Plant/p_urtica_dioica_0s.et
+     5408 Prefabs/Vegetation/Vegetables/CabbageCrop_01.et
+     5341 PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_3s.et
+     5114 Prefabs/Vegetation/Vegetables/TomatoCrop_01.et
+     4867 Prefabs/Vegetation/Plant/p_artemisia_vulgaris_0s.et
+     4831 PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_alnus_glutinosa_2s.et
+     4486 PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_2.et
+     4461 PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_0.et
+     4420 Prefabs/Vegetation/Plant/p_carduus_acanthoides_0s.et
+     4310 Prefabs/Rocks/Granite/GraniteCliff_02.et
+     4224 PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_1f.et
+  Densite par carre de 1 km (244 carres, moyenne 1508) - top 12 :
+  X2km Z1km :  15860  [('batiments', 10948), ('vegetation', 2702), ('props', 935)]
+  X10km Z5km :  13324  [('batiments', 5343), ('vegetation', 4410), ('props', 1030)]
+  X12km Z9km :  11268  [('batiments', 4862), ('vegetation', 2745), ('props', 1996)]
+  X12km Z10km :  10945  [('batiments', 4056), ('vegetation', 3996), ('props', 1648)]
+  X11km Z9km :   8210  [('batiments', 4432), ('props', 1197), ('vegetation', 977)]
+  X10km Z4km :   8051  [('vegetation', 2427), ('batiments', 2297), ('props', 1961)]
+  X10km Z14km :   7407  [('vegetation', 3709), ('batiments', 2330), ('props', 1082)]
+  X11km Z7km :   6707  [('vegetation', 4413), ('batiments', 1523), ('props', 520)]
+  X11km Z11km :   5402  [('vegetation', 2797), ('batiments', 1350), ('props', 802)]
+  X15km Z0km :   5401  [('vegetation', 3074), ('batiments', 1288), ('props', 733)]
+  X15km Z6km :   5350  [('vegetation', 3080), ('batiments', 1338), ('props', 770)]
+  X2km Z12km :   5304  [('vegetation', 4401), ('batiments', 362), ('rochers', 272)]

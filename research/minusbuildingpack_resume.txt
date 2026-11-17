@@ -1,0 +1,69 @@
+== minusbuildingpack : 3670 fichiers ==
+edds        1148     496.7 MiB (decompresse)
+xob          771     203.3 MiB (decompresse)
+et           822       2.1 MiB (decompresse)
+emat         917       1.0 MiB (decompresse)
+layer          8       0.1 MiB (decompresse)
+conf           1       0.0 MiB (decompresse)
+ent            3       0.0 MiB (decompresse)
+
+Textures: 1148 ; VRAM si tout resident 1.14 GiB ; formats inconnus {}
+    2048px x   27 =    139.0 MiB
+    1024px x  677 =    899.7 MiB
+     735px x    1 =      2.7 MiB
+     512px x  359 =    119.2 MiB
+     256px x   83 =      6.9 MiB
+     128px x    1 =      0.0 MiB
+  Par dossier:
+     254.8 MiB /Assets/Houses/Town
+     148.8 MiB /Assets/Structures/Industrial
+     134.7 MiB /Assets/Houses/Military
+     129.2 MiB /Assets/Structures/Commercial
+      59.8 MiB /Assets/Houses/City
+      46.7 MiB /Assets/Structures/Services
+      40.7 MiB /Assets/Structures/Agriculture
+      34.0 MiB /Assets/Structures/Cultural
+      31.1 MiB /Assets/Props/BuildingStuff
+      28.7 MiB /Assets/Infrastructure/Railways
+      24.0 MiB /Assets/Structures/School
+      23.0 MiB /Assets/Infrastructure/Bridges
+
+Entites (instances top-niveau): 333 ; sans coords: 1
+      153 batiments
+      130 autre:GenericEntity
+       21 props
+       12 autre:SplineShapeEntity
+        3 autre:Building
+        2 murs/clotures
+        2 lumieres
+        1 vegetation
+        1 autre:GenericWorldEntity
+        1 autre:GenericWorldPPEffect
+        1 autre:GenericWorldFogEntity
+        1 autre:SCR_CameraManager
+  Prefabs les plus poses:
+      128 Prefabs/Editor/Plane_01/GridPlane_100x100.et
+       19 (inline)
+        7 Prefabs/Props/Civilian/AC/Single Rooftop AC Unit.et
+        5 Prefabs/Infrastructure/Powerpoles/Powerpole With lamp.et
+        4 Prefabs/Structures/Commerical/Busstop Roofing.et
+        3 Prefabs/Structures/Houses/Village/Single Floor Buildings/House 06.et
+        3 Prefabs/Infrastructure/Bridges/Highway Bridge with Pillars.et
+        2 Prefabs/Structures/Houses/Village/Single Floor Buildings/House 08.et
+        2 Prefabs/Structures/Culture/Castle/Castle Tower 01.et
+        2 Prefabs/Structures/City/5_Floor_Appartment.et
+        2 Prefabs/Structures/Houses/Village/Single Floor Buildings/House 02.et
+        2 Prefabs/Structures/Culture/Castle/CastleGatehouse.et
+        2 Prefabs/Structures/Culture/Castle/Castle Tower 02.et
+        2 Prefabs/Structures/Houses/Village/Single Floor Buildings/House 07.et
+        2 Prefabs/Structures/Commerical/SuperMarket_WithStairs.et
+  Densite par carre de 1 km (9 carres, moyenne 37) - top 12 :
+  X0km Z-1km :    126  [('batiments', 75), ('autre:GenericEntity', 32), ('props', 8)]
+  X-1km Z-1km :    101  [('batiments', 54), ('autre:GenericEntity', 30), ('props', 13)]
+  X1km Z2km :     33  [('batiments', 22), ('autre:SplineShapeEntity', 11)]
+  X0km Z0km :     21  [('autre:GenericEntity', 20), ('autre:GenericWorldFogEntity', 1)]
+  X-1km Z0km :     20  [('autre:GenericEntity', 20)]
+  X-1km Z-2km :     14  [('autre:GenericEntity', 14)]
+  X0km Z-2km :     14  [('autre:GenericEntity', 14)]
+  X0km Z2km :      2  [('batiments', 2)]
+  X2km Z2km :      1  [('autre:SplineShapeEntity', 1)]

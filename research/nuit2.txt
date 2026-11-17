@@ -1,0 +1,5 @@
+hook 2
+=== OCCLUDERS (villes, vue Series S, resolution x2, 6 threads)
+pack EXIT=0
+      0 [main] bash 28887 dofork: child -1 - forked process 17860 died unexpectedly, retry 0, exit code 0xC000026B, errno 11
+zimni_nuit2.sh: fork: retry: Resource temporarily unavailable

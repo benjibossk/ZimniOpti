@@ -1,0 +1,1450 @@
+$grp PolylineShapeEntity {
+ {
+  coords 13831.67 96.028 861.274
+  Points {
+   ShapePoint "{64D0F5A95AD3C31D}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5A95ADC06F6}" {
+    Position -0.205 0.266 5.685
+   }
+   ShapePoint "{64D0F5A9599634FE}" {
+    Position 0.239 0.518 10.967
+   }
+   ShapePoint "{64D0F5A958035823}" {
+    Position 0.994 0.842 15.413
+   }
+   ShapePoint "{64D0F5A958A469A9}" {
+    Position 3.265 1.085 21.062
+   }
+   ShapePoint "{64D0F5A94750397A}" {
+    Position 3.373 1.25 28.893
+   }
+   ShapePoint "{64D0F5A944EF5CC6}" {
+    Position 3.673 1.497 37.363
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{4B79744D3A369B0D}PrefabLibrary/DefaultLibrary/Generators/Walls/Stone/WG_StoneWall_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_DestructibleEntity : "{20304FC74D23C37F}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_A.et" {
+      {
+       coords 0.08 0.428 9.145
+       angles 0 -81.699 0
+      }
+      {
+       coords 0.587 0.674 12.83
+       angles 0 -71.985 0
+      }
+      {
+       coords 3.305 1.214 27.42
+       angles 0 -87.881 0
+      }
+     }
+     SCR_DestructibleEntity : "{3E1FF1C56363D645}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_end.et" {
+      coords 3.445 1.321 31.192
+      angles 0 -87.881 0
+     }
+     $grp SCR_DestructibleEntity : "{781EA3F923020334}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_B.et" {
+      {
+       coords -0.215 0.253 5.392
+       angles 0 -85.342 0
+      }
+      {
+       coords 1.738 0.851 16.369
+       angles 0 -71.985 0
+      }
+      {
+       coords 3.125 1.124 23.657
+       angles 0 -87.283 0
+      }
+     }
+     SCR_DestructibleEntity : "{9A7FC9D9A8206B74}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_start.et" {
+      coords 0 0 0
+      angles 0 -92.066 0
+     }
+     $grp SCR_DestructibleEntity : "{A0B6CA385A8B1D68}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_D.et" {
+      {
+       coords -0.06 0.079 1.675
+       angles 0 -92.066 0
+      }
+      {
+       coords 2.948 1.034 19.94
+       angles 0 -87.283 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13827.438 86.772 783.578
+  Points {
+   ShapePoint "{64D0F5A94FB7DDA2}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5A94FB0136B}" {
+    Position 2.206 -6.807 -24.172
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{4B79744D3A369B0D}PrefabLibrary/DefaultLibrary/Generators/Walls/Stone/WG_StoneWall_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_DestructibleEntity : "{20304FC74D23C37F}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_A.et" {
+      {
+       coords 0.147 -0.453 -1.609
+       angles 0 84.785 0
+      }
+      {
+       coords 0.803 -2.477 -8.794
+       angles 0 84.785 0
+      }
+      {
+       coords 1.129 -3.482 -12.366
+       angles 0 84.785 0
+      }
+      {
+       coords 1.455 -4.488 -15.938
+       angles 0 84.785 0
+      }
+     }
+     SCR_DestructibleEntity : "{3E1FF1C56363D645}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_end.et" {
+      coords 1.785 -5.508 -19.558
+      angles 0 84.785 0
+     }
+     SCR_DestructibleEntity : "{781EA3F923020334}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_B.et" {
+      coords 0.473 -1.459 -5.181
+      angles 0 84.785 0
+     }
+     SCR_DestructibleEntity : "{9A7FC9D9A8206B74}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_start.et" {
+      coords 0 0 0
+      angles 0 84.785 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13995.949 99.663 926.373
+  Points {
+   ShapePoint "{64D0F5A9702760C2}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5A97027BD12}" {
+    Position -7.559 -0.427 15.148
+   }
+   ShapePoint "{64D0F5A97E402E3D}" {
+    Position -14.083 -0.801 26.253
+   }
+   ShapePoint "{64D0F5A97ECB12D8}" {
+    Position -22.275 -1.355 40.266
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{4B79744D3A369B0D}PrefabLibrary/DefaultLibrary/Generators/Walls/Stone/WG_StoneWall_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_DestructibleEntity : "{20304FC74D23C37F}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_A.et" {
+      {
+       coords -4.113 -0.232 8.243
+       angles 0 -116.519 0
+      }
+      {
+       coords -5.776 -0.326 11.575
+       angles 0 -116.519 0
+      }
+      {
+       coords -7.428 -0.419 14.913
+       angles 0 -120.407 0
+      }
+      {
+       coords -9.313 -0.527 18.124
+       angles 0 -120.407 0
+      }
+      {
+       coords -13.104 -0.744 24.585
+       angles 0 -120.321 0
+      }
+      {
+       coords -16.885 -0.996 31.05
+       angles 0 -120.321 0
+      }
+      {
+       coords -18.765 -1.121 34.264
+       angles 0 -120.321 0
+      }
+     }
+     SCR_DestructibleEntity : "{3E1FF1C56363D645}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_end.et" {
+      coords -20.67 -1.248 37.521
+      angles 0 -120.321 0
+     }
+     $grp SCR_DestructibleEntity : "{781EA3F923020334}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_4m_B.et" {
+      {
+       coords -0.749 -0.042 1.501
+       angles 0 -116.519 0
+      }
+      {
+       coords -2.431 -0.137 4.872
+       angles 0 -116.519 0
+      }
+      {
+       coords -11.198 -0.635 21.336
+       angles 0 -120.407 0
+      }
+      {
+       coords -14.984 -0.869 27.798
+       angles 0 -120.321 0
+      }
+     }
+     SCR_DestructibleEntity : "{9A7FC9D9A8206B74}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_start.et" {
+      coords 0 0 0
+      angles 0 -116.519 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 14015.882 94.833 780.375
+  Points {
+   ShapePoint "{64D0F5AB9864A6B7}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5AB9864D2FA}" {
+    Position -15.029 -1.738 -6.147
+   }
+   ShapePoint "{64D0F5AB84A287B9}" {
+    Position -35.329 -4.038 -12.712
+   }
+   ShapePoint "{64D0F5AB83C53BE8}" {
+    Position -49.684 -5.904 -17.95
+   }
+   ShapePoint "{64D0F5AB824B5BFD}" {
+    Position -64.11 -8.464 -23.296
+   }
+   ShapePoint "{64D0F5AB81702712}" {
+    Position -81.151 -11.298 -27.816
+   }
+   ShapePoint "{64D0F5AB8048C933}" {
+    Position -98.301 -13.821 -30.793
+   }
+   ShapePoint "{64D0F5AB8F498483}" {
+    Position -116.694 -16.521 -33.98
+   }
+   ShapePoint "{64D0F5AB8FE46E4D}" {
+    Position -125.237 -17.683 -35.811
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{99A65EB56A937C62}PrefabLibrary/DefaultLibrary/Generators/Walls/Pole/WG_PoleFence_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+      coords -120.767 -17.067 -34.884
+      angles 0 -191.717 0
+     }
+     SCR_DestructibleEntity : "{312BE6887A00B8A9}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_Pole.et" {
+      coords -97.306 -13.674 -30.617
+      angles 0 -189.841 0
+     }
+     $grp SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
+      {
+       coords -13.789 -1.595 -5.646
+       angles 0 -198.163 0
+      }
+      {
+       coords -19.489 -2.241 -7.516
+       angles 0 -198.163 0
+      }
+      {
+       coords -33.7 -3.852 -12.175
+       angles 0 -199.866 0
+      }
+      {
+       coords -58.245 -7.466 -21.13
+       angles 0 -200.261 0
+      }
+      {
+       coords -69.587 -9.374 -24.734
+       angles 0 -194.92 0
+      }
+      {
+       coords -80.403 -11.175 -27.624
+       angles 0 -190.04 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{5AC86665CF2B1A3C}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_B.et" {
+      {
+       coords -25.188 -2.888 -9.385
+       angles 0 -198.163 0
+      }
+      {
+       coords -52.68 -6.519 -19.076
+       angles 0 -200.261 0
+      }
+      {
+       coords -86.282 -12.044 -28.665
+       angles 0 -190.04 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{66A81F198B1F2D11}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_D.et" {
+      {
+       coords -39.333 -4.575 -14.21
+       angles 0 -199.866 0
+      }
+      {
+       coords -75.343 -10.332 -26.268
+       angles 0 -194.92 0
+      }
+      {
+       coords -92.135 -12.909 -29.701
+       angles 0 -190.04 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
+      {
+       coords 0.076 0.009 0.031
+       angles 0 -202.244 0
+      }
+      {
+       coords -5.476 -0.633 -2.24
+       angles 0 -202.244 0
+      }
+      {
+       coords -47.091 -5.568 -17.013
+       angles 0 -200.261 0
+      }
+      {
+       coords -63.831 -8.417 -23.201
+       angles 0 -194.92 0
+      }
+      {
+       coords -100.165 -14.094 -31.113
+       angles 0 -189.841 0
+      }
+      {
+       coords -106.048 -14.958 -32.133
+       angles 0 -189.841 0
+      }
+      {
+       coords -114.859 -16.252 -33.659
+       angles 0 -191.717 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      {
+       coords -11.028 -1.275 -4.51
+       angles 0 -202.244 0
+      }
+      {
+       coords -30.863 -3.531 -11.247
+       angles 0 -198.163 0
+      }
+      {
+       coords -44.287 -5.211 -16.001
+       angles 0 -199.866 0
+      }
+      {
+       coords -111.931 -15.821 -33.154
+       angles 0 -189.841 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13837.975 74.544 740.945
+  Points {
+   ShapePoint "{64D0F5ABA4590FF8}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{64D0F5ABA4595AB1}" {
+    Position -1.418 5.535 18.376
+   }
+   ShapePoint "{64D0F5ABA02A43D2}" {
+    Position -3.471 11.98 41.691
+   }
+   ShapePoint "{64D0F5ABAF2B9F78}" {
+    Position -5.262 17.357 67.352
+   }
+   ShapePoint "{64D0F5ABAE4271C6}" {
+    Position -5.84 19.858 89.253
+   }
+   ShapePoint "{64D0F5ABAD6D9247}" {
+    Position -5.915 20.628 103.784
+   }
+   ShapePoint "{64D0F5ABADF68D32}" {
+    Position -6.65 21.454 119.689
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{99A65EB56A937C62}PrefabLibrary/DefaultLibrary/Generators/Walls/Pole/WG_PoleFence_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+      coords -6.434 21.196 114.754
+      angles 0 -92.513 0
+     }
+     $grp SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
+      {
+       coords 0.006 -0.024 -0.079
+       angles 0 -94.412 0
+      }
+      {
+       coords -1.832 6.784 22.97
+       angles 0 -95.004 0
+      }
+      {
+       coords -2.339 8.392 28.763
+       angles 0 -95.004 0
+      }
+      {
+       coords -2.846 10 34.556
+       angles 0 -95.004 0
+      }
+      {
+       coords -4.182 14.106 52.07
+       angles 0 -94.04 0
+      }
+      {
+       coords -5.222 17.236 66.746
+       angles 0 -91.571 0
+      }
+      {
+       coords -5.387 17.934 72.736
+       angles 0 -91.571 0
+      }
+      {
+       coords -6.167 20.878 108.679
+       angles 0 -92.513 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{5AC86665CF2B1A3C}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_B.et" {
+      {
+       coords -1.327 5.183 17.203
+       angles 0 -95.004 0
+      }
+      {
+       coords -3.354 11.612 40.347
+       angles 0 -94.04 0
+      }
+      {
+       coords -3.768 12.859 46.208
+       angles 0 -94.04 0
+      }
+      {
+       coords -4.598 15.359 57.957
+       angles 0 -94.04 0
+      }
+      {
+       coords -5.799 19.681 87.697
+       angles 0 -90.414 0
+      }
+      {
+       coords -5.842 20.034 93.693
+       angles 0 -90.414 0
+      }
+      {
+       coords -5.904 20.564 102.687
+       angles 0 -92.513 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
+      {
+       coords -0.438 1.711 5.682
+       angles 0 -94.412 0
+      }
+      {
+       coords -0.883 3.446 11.443
+       angles 0 -94.412 0
+      }
+      {
+       coords -5.551 18.632 78.727
+       angles 0 -91.571 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      {
+       coords -5.012 16.605 63.818
+       angles 0 -94.04 0
+      }
+      {
+       coords -5.715 19.329 84.717
+       angles 0 -91.571 0
+      }
+      {
+       coords -5.885 20.387 99.69
+       angles 0 -90.414 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13835.185 97.425 894.83
+  Points {
+   ShapePoint "{64D0F5ABD4EBBFF1}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5ABD4EBF159}" {
+    Position -0.128 0.481 21.658
+   }
+   ShapePoint "{64D0F5ABD2BD1791}" {
+    Position -0.058 0.664 39.408
+   }
+   ShapePoint "{64D0F5ABD127B3C6}" {
+    Position 1.598 0.068 58.991
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{99A65EB56A937C62}PrefabLibrary/DefaultLibrary/Generators/Walls/Pole/WG_PoleFence_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
+      coords 1.183 0.217 54.027
+      angles 0 -85.231 0
+     }
+     SCR_DestructibleEntity : "{312BE6887A00B8A9}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_Pole.et" {
+      coords 0.935 0.306 51.051
+      angles 0 -85.231 0
+     }
+     $grp SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
+      {
+       coords -0.103 0.531 26.993
+       angles 0 -89.791 0
+      }
+      {
+       coords -0.081 0.596 33.025
+       angles 0 -89.791 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{5AC86665CF2B1A3C}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_B.et" {
+      {
+       coords -0.035 0.132 5.948
+       angles 0 -90.338 0
+      }
+      {
+       coords -0.125 0.467 20.986
+       angles 0 -89.791 0
+      }
+      {
+       coords -0.065 0.664 39.058
+       angles 0 -85.231 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
+      {
+       coords 0 -0.001 -0.083
+       angles 0 -90.338 0
+      }
+      {
+       coords -0.071 0.266 11.954
+       angles 0 -90.338 0
+      }
+      {
+       coords 0.434 0.485 45.041
+       angles 0 -85.231 0
+      }
+     }
+     SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      coords -0.106 0.4 17.985
+      angles 0 -90.338 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13966.575 98.278 970.112
+  Points {
+   ShapePoint "{64D0F5AB64339B8A}" {
+    Position 5.363 -0.155 2.066
+   }
+   ShapePoint "{64D0F5AB6433D527}" {
+    Position -15.108 0.241 -6.827
+   }
+   ShapePoint "{64D0F5AA97E42616}" {
+    Position -26.057 0.45 -12.069
+   }
+   ShapePoint "{64D0F5AA951E6506}" {
+    Position -33.589 0.586 -15.001
+   }
+   ShapePoint "{64D0F5AA946F6CCB}" {
+    Position -39.925 0.597 -17.023
+   }
+   ShapePoint "{64D0F5AA94E845E5}" {
+    Position -46.035 0.597 -17.893
+   }
+   ShapePoint "{64D0F5AA9490E816}" {
+    Position -48.063 0.596 -17.926
+   }
+   ShapePoint "{64D0F5AA93B5CAA2}" {
+    Position -46.839 0.599 -8.654
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B88FA1A573E74B29}PrefabLibrary/DefaultLibrary/Generators/Walls/Pipe/WG_PipeRailing_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_DestructibleEntity : "{15BE3A6617F91789}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_6m.et" {
+      {
+       coords 5.393 -0.156 2.079
+       angles 0 -203.479 0
+      }
+      {
+       coords -0.099 -0.05 -0.307
+       angles 0 -203.479 0
+      }
+      {
+       coords -5.59 0.057 -2.692
+       angles 0 -203.479 0
+      }
+      {
+       coords -13.824 0.216 -6.267
+       angles 0 -205.373 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{3E76CAB74D4C2F0C}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_3m.et" {
+      {
+       coords -30.196 0.524 -13.636
+       angles 0 -201.922 0
+      }
+      {
+       coords -44.558 0.596 -17.64
+       angles 0 -184.67 0
+      }
+      {
+       coords -47.099 0.598 -11.948
+       angles 0 -85.482 0
+      }
+     }
+     SCR_DestructibleEntity : "{AAD15873D7C6A4F5}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_Pole.et" {
+      coords -46.864 0.599 -8.974
+      angles 0 -85.482 0
+     }
+     $grp SCR_DestructibleEntity : "{C555C1712226D272}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_6m_Old.et" {
+      {
+       coords -19.233 0.32 -8.833
+       angles 0 -205.373 0
+      }
+      {
+       coords -24.642 0.423 -11.4
+       angles 0 -201.922 0
+      }
+      {
+       coords -32.967 0.575 -14.753
+       angles 0 -198.072 0
+      }
+      {
+       coords -38.659 0.593 -16.615
+       angles 0 -189.829 0
+      }
+      {
+       coords -47.571 0.596 -17.918
+       angles 0 -85.482 0
+      }
+     }
+     SCR_DestructibleEntity : "{D7770DA9643FC21C}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_3m_Old.et" {
+      coords -11.081 0.163 -5.077
+      angles 0 -203.479 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13991.136 98.568 965.273
+  Points {
+   ShapePoint "{64D0F5AA5AF26426}" {
+    Position 0 0 0
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA5AF287D8}" {
+    Position 35.861 0.563 2.459
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA584BDB1A}" {
+    Position 80.327 1.308 5.391
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA58C9BF24}" {
+    Position 84.79 1.432 -31.685
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA4705FE83}" {
+    Position 101.999 1.431 -130.19
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA4619CD7D}" {
+    Position 125.586 0.731 -144.944
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA46B00605}" {
+    Position 163.996 -0.37 -141.608
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA45CD8592}" {
+    Position 173.554 1.432 -74.765
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA4461FACC}" {
+    Position 247.941 1.199 -76.917
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA44A58C26}" {
+    Position 245.01 -20.761 -187.697
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA43166E6F}" {
+    Position 200.034 -20.722 -201.645
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA4387A413}" {
+    Position 52.438 -2.039 -187.589
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA416A0261}" {
+    Position 57.941 1.408 -121.359
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA41B10F10}" {
+    Position 44.524 1.401 -70.021
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+   ShapePoint "{64D0F5AA4026938A}" {
+    Position -0.613 0.03 -0.861
+    Data {
+     ForestGeneratorPointData "{000000002C57B0BA}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   ForestGeneratorEntity : "{409C0D82C840053D}PrefabLibrary/DefaultLibrary/Generators/Brushlands/FG_Brushland_Dense.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+     $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteStone_01.et" {
+      {
+       coords 213.791 -6.912 -145.096
+       angles 0 135.608 0
+       scale 1.195
+      }
+     }
+    }
+   }
+  }
+ }
+}
+$grp SplineShapeEntity {
+ {
+  coords 13835.427 96.647 973.852
+  Points {
+   ShapePoint "{64D0F5AFCF523DEA}" {
+    Position 0.32 -0.027 1.032
+   }
+   ShapePoint "{64D0F5AFC0848DBF}" {
+    Position -2.745 1.501 -40.287
+   }
+   ShapePoint "{64D0F5AFF4045724}" {
+    Position -3.655 0.476 -88.54
+   }
+   ShapePoint "{64D0F5AFF30561A2}" {
+    Position -7.114 -0.078 -101.266
+   }
+   ShapePoint "{64D0F5AFF10C62AF}" {
+    Position -6.047 -1.504 -129.584
+   }
+   ShapePoint "{64D0F5AFF0183380}" {
+    Position -5.592 -3.487 -157.629
+   }
+   ShapePoint "{64D0F5AFFF0B022C}" {
+    Position -3.425 -9.95 -190.819
+   }
+   ShapePoint "{64D0F5AFFE113F52}" {
+    Position -0.721 -18.269 -220.28
+   }
+   ShapePoint "{64D0F5AFFE9A7F8E}" {
+    Position -0.021 -23.452 -237.073
+   }
+   ShapePoint "{64D0F5AFFCDD53AB}" {
+    Position 9.039 -24.156 -240.066
+   }
+   ShapePoint "{64D0F5AFFBD4E2B6}" {
+    Position 31.938 -22.693 -238.297
+   }
+   ShapePoint "{64D0F5AFF8F426F8}" {
+    Position 66.172 -18.437 -230.136
+   }
+   ShapePoint "{64D0F5AFE52E859A}" {
+    Position 108.919 -11.82 -221.604
+   }
+   ShapePoint "{64D0F5AFE4853AEE}" {
+    Position 140.622 -6.452 -210.927
+   }
+   ShapePoint "{64D0F5AFE24D77C3}" {
+    Position 169.476 -3.496 -201.401
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E2D78F357200A53F}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C65569DF42CF7"
+      SplinePoints {
+       ShapePoint "{556C65561A62B78A}" {
+        Position 0.32 -0.027 1.032
+       }
+       ShapePoint "{556C65561A62EBA9}" {
+        Position -2.745 1.501 -40.287
+       }
+       ShapePoint "{64D0F5AFF4041A15}" {
+        Position -3.655 0.476 -88.54
+       }
+       ShapePoint "{64D0F5AFF3052D6A}" {
+        Position -7.114 -0.078 -101.266
+       }
+       ShapePoint "{64D0F5AFF103F59B}" {
+        Position -6.047 -1.504 -129.584
+       }
+       ShapePoint "{64D0F5AFF01FE1CF}" {
+        Position -5.592 -3.487 -157.629
+       }
+       ShapePoint "{64D0F5AFFF0ACAF6}" {
+        Position -3.425 -9.95 -190.819
+       }
+       ShapePoint "{64D0F5AFFE10E7BC}" {
+        Position -0.721 -18.269 -220.28
+       }
+       ShapePoint "{64D0F5AFFE9A27D0}" {
+        Position -0.021 -23.452 -237.073
+       }
+       ShapePoint "{64D0F5AFFCDD0FD0}" {
+        Position 9.039 -24.156 -240.066
+       }
+       ShapePoint "{64D0F5AFFBD4573D}" {
+        Position 31.938 -22.693 -238.297
+       }
+       ShapePoint "{64D0F5AFF8CB9902}" {
+        Position 66.172 -18.437 -230.135
+       }
+       ShapePoint "{64D0F5AFE52E6D90}" {
+        Position 108.919 -11.82 -221.604
+       }
+       ShapePoint "{64D0F5AFE4848B25}" {
+        Position 140.622 -6.452 -210.927
+       }
+       ShapePoint "{64D0F5AFE24CD466}" {
+        Position 169.476 -3.496 -201.401
+       }
+      }
+      IsClosedSpline 0
+      Width 4.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 14002.093 92.902 771.224
+  Points {
+   ShapePoint "{64D0F5AFE87C7C28}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5AFE87C8A91}" {
+    Position 6.163 0.445 0.663
+   }
+   ShapePoint "{64D0F5AF165EA0F9}" {
+    Position 21.422 1.275 1.914
+   }
+  }
+  {
+   SCR_RoadGeneratorEntity : "{E2D78F357200A53F}Prefabs/WEGenerators/Roads/Dirt/RG_Road_Dirt_02.et" {
+    coords 0.51 0 -0.404
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "556C65569DF42CF7"
+      SplinePoints {
+       ShapePoint "{556C65561A62B78A}" {
+        Position -0.51 0 0.404
+       }
+       ShapePoint "{556C65561A62EBA9}" {
+        Position 5.653 0.445 1.067
+       }
+       ShapePoint "{64D0F5AF1537F70E}" {
+        Position 20.912 1.275 2.318
+       }
+      }
+      IsClosedSpline 0
+      Width 4.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13828.474 74.211 738.478
+  Points {
+   ShapePoint "{64D0F5A9350455AD}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{64D0F5A93504D88D}" {
+    Position -0.395 5.648 18.202
+   }
+   ShapePoint "{64D0F5A93CA02ACA}" {
+    Position -4.078 16.139 59.638
+   }
+   ShapePoint "{64D0F5A93B8DA1B7}" {
+    Position -6.025 20.751 103.999
+   }
+   ShapePoint "{64D0F5A93AB2E097}" {
+    Position -5.802 22.309 135.532
+   }
+   ShapePoint "{64D0F5A939979C9D}" {
+    Position -1.117 22.264 225.171
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   PrefabGeneratorEntity : "{425962A5FD454B89}PrefabLibrary/DefaultLibrary/Generators/Bushlines/PG_Bushline_Betula_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    {
+    }
+   }
+  }
+ }
+ {
+  coords 13836.892 97.428 957.922
+  Points {
+   ShapePoint "{64D0F5ABCA71A9FA}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5ABCA71EE73}" {
+    Position 32.403 1.06 -4.457
+   }
+   ShapePoint "{64D0F5ABF275E66C}" {
+    Position 75.507 1.447 -8.725
+   }
+   ShapePoint "{64D0F5ABF1086621}" {
+    Position 97.985 1.486 -4.962
+   }
+   ShapePoint "{64D0F5ABFFC8C58F}" {
+    Position 137.481 0.786 12.647
+   }
+  }
+  {
+   RoadGeneratorEntity : "{50C348FDFD91BE31}Prefabs/WEGenerators/Decals/ConcretePanels/RG_ConcretePanelRow_01_A.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5502CE41AA4A5D23"
+      SplinePoints {
+       ShapePoint "{5502CE416AEF8906}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5502CE416AEF8DAC}" {
+        Position 32.403 1.06 -4.457
+       }
+       ShapePoint "{64D0F5ABF275BF96}" {
+        Position 75.507 1.447 -8.725
+       }
+       ShapePoint "{64D0F5ABF1082636}" {
+        Position 97.985 1.486 -4.962
+       }
+       ShapePoint "{64D0F5ABFFC88CE5}" {
+        Position 137.481 0.786 12.647
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13972.204 98.54 965.168
+  angles 0 -0.596 0
+  Points {
+   ShapePoint "{64D0F5ABEE5CB94E}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5ABEE5CCAF3}" {
+    Position -24.539 0.343 -11.137
+   }
+  }
+  {
+   RoadGeneratorEntity : "{50C348FDFD91BE31}Prefabs/WEGenerators/Decals/ConcretePanels/RG_ConcretePanelRow_01_A.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5502CE41AA4A5D23"
+      SplinePoints {
+       ShapePoint "{5502CE416AEF8906}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5502CE416AEF8DAC}" {
+        Position -24.539 0.343 -11.137
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13973.857 98.54 961.643
+  angles 0 -0.596 0
+  Points {
+   ShapePoint "{64D0F5ABEE5CB94E}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5ABEE5CCAF3}" {
+    Position -24.539 0.343 -11.137
+   }
+  }
+  {
+   RoadGeneratorEntity : "{50C348FDFD91BE31}Prefabs/WEGenerators/Decals/ConcretePanels/RG_ConcretePanelRow_01_A.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5502CE41AA4A5D23"
+      SplinePoints {
+       ShapePoint "{5502CE416AEF8906}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5502CE416AEF8DAC}" {
+        Position -24.539 0.343 -11.137
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 13975.538 98.54 958.17
+  angles 0 -0.596 0
+  Points {
+   ShapePoint "{64D0F5ABEE5CB94E}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64D0F5ABEE5CCAF3}" {
+    Position -24.539 0.343 -11.137
+   }
+  }
+  {
+   RoadGeneratorEntity : "{50C348FDFD91BE31}Prefabs/WEGenerators/Decals/ConcretePanels/RG_ConcretePanelRow_01_A.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5502CE41AA4A5D23"
+      SplinePoints {
+       ShapePoint "{5502CE416AEF8906}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5502CE416AEF8DAC}" {
+        Position -24.539 0.343 -11.137
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleEntity : "{15BE3A6617F91789}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_6m.et" {
+ coords 13972.666 -0.157 967.287
+ angles 0 64.787 0
+}
+$grp SCR_DestructibleEntity : "{312BE6887A00B8A9}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_Pole.et" {
+ {
+  coords 13837.211 -0.004 968.936
+  angles 0 7.505 0
+ }
+ {
+  coords 13858.441 0.038 967.462
+  angles 0 270.448 0
+ }
+}
+SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
+ coords 13837.308 -0.049 962.717
+ angles 0 -89.11 0
+}
+$grp SCR_DestructibleEntity : "{3791D734EA915A4C}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneWall_02_4m_v3.et" {
+ {
+  coords 13838.965 -0.448 736.946
+  angles -38.923 0 0
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13845.743 -0.567 736.946
+  angles -39.062 -1.585 -2.368
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13852.358 -0.813 737.302
+  angles -38.993 -1.945 -4.824
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13858.987 -0.837 737.88
+  angles -39.16 -10.741 -4.119
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13865.552 -0.867 739.437
+  angles -38.569 -3.858 -8.441
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13872.151 -0.663 740.5
+  angles -38.569 -3.858 -8.441
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13878.922 -0.897 741.59
+  angles -40.256 -11.035 -3.934
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13885.193 -0.985 743.105
+  angles -40.256 -11.035 -3.934
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13838.841 -1.276 738.235
+  angles -1.058 -2.24 0.041
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13845.604 -1.553 738.5
+  angles -1.058 -2.497 -2.447
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13852.291 -1.638 738.797
+  angles -1.089 -3.227 -2.433
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13858.874 -1.596 739.271
+  angles -1.453 -12.132 -5.246
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13865.493 -1.416 740.71
+  angles -1.288 -10.339 -5.747
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13872.064 -1.666 741.924
+  angles -1.288 -10.339 -6.182
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13878.597 -1.546 743.132
+  angles -1.288 -10.339 -5.735
+  scale 1.823
+  placement none
+ }
+ {
+  coords 13885.408 -1.158 744.391
+  angles -1.288 -10.339 -2.582
+  scale 1.823
+  placement none
+ }
+}
+SCR_DestructibleBuildingEntity : "{3B157F788ACB13FE}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneRetainingWall_01_Corner.et" {
+ coords 13864.157 95.493 957.149
+ angles 0 -82.701 0
+}
+$grp SCR_DestructibleBuildingEntity : "{4D100F180B3EFEC1}Prefabs/Structures/Industrial/Containers/Silos/Silo_01/Silo_01.et" {
+ {
+  coords 13970.62 -0.48 951.925
+  angles 0 -25.539 0
+ }
+ {
+  coords 13968.241 -0.507 950.788
+  angles 0 -25.117 0
+ }
+}
+$grp SCR_DestructibleEntity : "{50F9ED598269D5A7}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneWall_01_4m_B.et" {
+ {
+  coords 13828.873 -0.167 968.666
+  angles 0 -90 0
+ }
+ {
+  coords 13828.873 -0.27 964.822
+  angles 0 -90 0
+ }
+}
+GenericEntity : "{532E2709E33FA192}Prefabs/Structures/BuildingParts/Bridges/BridgeRailingConcrete_01_pole.et" {
+ coords 13868.043 74.019 732.68
+ angles 0.217 -3.228 -5.02
+}
+SCR_DestructibleEntity : "{5AC86665CF2B1A3C}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_B.et" {
+ coords 13864.562 -0.028 966.855
+ angles 0 -172.594 0
+}
+$grp GenericEntity : "{872D5AEDB4E19A1D}Prefabs/Structures/BuildingParts/Bridges/BridgeRailingConcrete_01_railing.et" {
+ {
+  coords 13833.524 72.608 732.708
+  angles 0 -133.35 0
+ }
+ {
+  coords 13835.153 72.608 731.116
+  angles 0 -171.548 0
+ }
+ {
+  coords 13837.671 72.608 730.742
+  angles 0 -179.536 1.073
+ }
+ {
+  coords 13840.247 72.659 730.721
+  angles 0 177.309 0.715
+ }
+ {
+  coords 13842.832 72.697 730.842
+  angles 0 177.309 1.238
+ }
+ {
+  coords 13845.34 72.751 730.96
+  angles 0 177.309 2.957
+ }
+ {
+  coords 13847.813 72.879 731.076
+  angles 0.11 175.187 2.955
+ }
+ {
+  coords 13850.293 73.007 731.285
+  angles 0.08 175.96 2.181
+ }
+ {
+  coords 13852.84 73.104 731.465
+  angles 0.08 175.96 2.181
+ }
+ {
+  coords 13855.395 73.202 731.646
+  angles 0.145 174.966 3.728
+ }
+ {
+  coords 13857.948 73.369 731.871
+  angles 0.145 174.966 3.728
+ }
+ {
+  coords 13860.51 73.537 732.097
+  angles 0.113 175.462 3.729
+ }
+ {
+  coords 13863.067 73.704 732.3
+  angles 0.113 175.462 3.729
+ }
+ {
+  coords 13865.615 73.871 732.503
+  angles 0.113 175.462 3.729
+ }
+}
+GenericEntity : "{A0BC75063533B0FF}Prefabs/Props/Agriculture/Farm/HayPile_01_green.et" {
+ coords 13831.012 96.772 966.059
+ angles 0 -6.875 -5.835
+ scale 1.54
+}
+$grp SCR_DestructibleBuildingEntity : "{AA689F5EF3D61F3B}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneRetainingWall_01_8m.et" {
+ {
+  coords 13841.889 68.701 730.776
+  angles -0.034 -2.944 -1.251
+ }
+ {
+  coords 13849.809 68.939 731.249
+  angles -0.052 -3.806 -2.108
+ }
+ {
+  coords 13857.863 69.362 731.856
+  angles -0.072 -4.698 -3.749
+ }
+ {
+  coords 13865.71 69.878 732.501
+  angles -0.072 -4.698 -3.749
+ }
+ {
+  coords 13873.572 70.395 733.148
+  angles -0.072 -4.698 -3.749
+ }
+ {
+  coords 13864.957 95.494 962.836
+  angles 0 -81.581 0
+ }
+ {
+  coords 13859.053 95.494 958.555
+  angles 0 -171.581 0
+ }
+ {
+  coords 13851.173 95.494 959.721
+  angles 0 -171.581 0
+ }
+ {
+  coords 13844.672 95.494 960.683
+  angles 0 -171.581 0
+ }
+ {
+  coords 13824.786 95.494 963.233
+  angles 0 -171.581 0
+ }
+ {
+  coords 13817.048 95.494 964.378
+  angles 0 -171.581 0
+ }
+ {
+  coords 13919.634 96.49 959.022
+  angles 0 -87.273 0
+  scale 0.655
+ }
+ {
+  coords 13919.396 96.49 954.068
+  angles 0 -87.273 0
+  scale 0.655
+ }
+}
+SCR_DestructibleEntity : "{AAD15873D7C6A4F5}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_Pole.et" {
+ coords 13975.188 0.007 961.866
+ angles 0 67.486 0
+}
+$grp SCR_DestructibleBuildingEntity : "{BEE2C603F3005CBF}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneRetainingWall_01_End.et" {
+ {
+  coords 13838.772 95.501 961.485
+  angles 0 -173.318 0
+ }
+ {
+  coords 13830.658 95.501 962.435
+  angles 0 6.682 0
+ }
+}
+GenericEntity : "{C1EFF3F0819BCD71}Prefabs/Props/Farm/Tractor_01.et" {
+ coords 13962.33 98.612 956.717
+ angles 0 -166.805 0
+}
+$grp SCR_DestructibleEntity : "{D34431BF320B1E09}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/PlasticVergePost_01.et" {
+ {
+  coords 14181.993 27.969 479.536
+  angles 0 1.005 0
+ }
+ {
+  coords 14190.692 27.969 479.808
+  angles 0 -11.975 0
+ }
+ {
+  coords 14185.203 27.969 491.46
+  angles 0 178.614 0
+ }
+ {
+  coords 14178.652 27.969 491.212
+  angles 0 178.614 0
+ }
+}
+$grp SCR_DestructibleEntity : "{D5E519FF4638AA27}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/StoneVergePost_01.et" {
+ {
+  coords 14021.062 94.344 775.452
+  angles 1.953 6.524 0.808
+ }
+ {
+  coords 14019.743 93.272 770.759
+  angles 1.906 9.68 0.914
+ }
+}
+GenericEntity : "{DC20532483E78FB5}Prefabs/Props/Farm/Remorque_01.et" {
+ coords 13959.894 98.859 951.984
+ angles 0 -145.745 0
+}
+SCR_DestructibleBuildingEntity : "{DF0DF8FDFD9FA5CE}PrefabLibrary/DefaultLibrary/Walls/Stone/StoneRetainingWall_01_90.et" {
+ coords 13834.214 -3.504 731.9
+ angles 0 -92.458 0
+}
+StaticModelEntity : "{ECAF8FE9FFC28643}Prefabs/Props/Agriculture/Farm/HaystackDryer_01.et" {
+ coords 13831.566 -0.096 968.854
+ angles 0 -31.105 0
+}

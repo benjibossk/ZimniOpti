@@ -1,0 +1,16 @@
+VRAM gr_base : moyenne 3587 Mo, pic 5271 Mo ; RAM privee pic 9614 Mo, fin 9482 Mo
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur=
+gr_base n=97 fps=95.2 pire=44.6 >50ms=0 memJeu=3059
+VRAM gr_50 : moyenne 3598 Mo, pic 5286 Mo ; RAM privee pic 9734 Mo, fin 9496 Mo
+19:19:45.581 SCRIPT       : [ZO] HERBE 116 -> 50 m
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur= herbe=50
+gr_50 n=97 fps=90.9 pire=135.2 >50ms=12 memJeu=3066
+VRAM gr_10 : moyenne 3410 Mo, pic 5200 Mo ; RAM privee pic 9697 Mo, fin 9331 Mo
+19:29:00.936 SCRIPT       : [ZO] HERBE 116 -> 10 m
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur= herbe=10
+gr_10 n=97 fps=100.1 pire=74.9 >50ms=2 memJeu=3057
+VRAM pt_250 : moyenne 2974 Mo, pic 5070 Mo ; RAM privee pic 9454 Mo, fin 9335 Mo
+19:37:12.235 SCRIPT       : [ZO] CULL mode= : 521663 objets (3452 cases, rayon 250 m) + 240107 objets interieurs (rayon 60 m) — inventaire 1469 ms
+# plateforme=WINDOWS ; points=5 ; vue=1200 ; moteur=
+pt_250 n=97 fps=98.5 pire=200.0 >50ms=7 memJeu=3125
+HERBE_FINI

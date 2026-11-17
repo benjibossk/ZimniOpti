@@ -1,0 +1,168 @@
+$grp SCR_DestructibleBuildingEntity : "{1C87C72319097FC1}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_4m.et" {
+ {
+  coords 10857.514 4.862 4416.938
+  angles 0 90 0
+ }
+ {
+  coords 10857.512 4.862 4412.94
+  angles 0 90 0
+ }
+ {
+  coords 10857.186 4.862 4449.549
+  angles 0 90 0
+ }
+ {
+  coords 10857.184 4.862 4445.55
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 4.862 4499.774
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 4.862 4495.775
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 4.862 4467.16
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 4.862 4463.162
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 3.655 4455.186
+  angles 0 90 0
+ }
+ {
+  coords 10786.479 3.655 4459.184
+  angles 0 90 0
+ }
+ {
+  coords 10857.545 3.655 4404.96
+  angles 0 90 0
+ }
+ {
+  coords 10857.545 3.655 4408.958
+  angles 0 90 0
+ }
+ {
+  coords 10857.217 3.655 4453.533
+  angles 0 90 0
+ }
+ {
+  coords 10857.217 3.655 4457.531
+  angles 0 90 0
+ }
+ {
+  coords 10857.545 2.238 4400.989
+  angles 0 90 0
+ }
+ {
+  coords 10857.545 2.238 4396.991
+  angles 0 90 0
+ }
+ {
+  coords 10859.325 2.238 4465.014
+  angles 0 120 0
+ }
+ {
+  coords 10786.39 2.238 4451.242
+  angles 0 90 0
+ }
+ {
+  coords 10786.39 2.238 4447.244
+  angles 0 90 0
+ }
+ {
+  coords 10788.504 3.371 4507.287
+  angles 0 120 0
+ }
+ {
+  coords 10790.5 3.371 4510.738
+  angles 0 120 0
+ }
+ {
+  coords 10796.004 2.096 4516.283
+  angles 0 150 0
+ }
+ {
+  coords 10799.465 2.096 4518.28
+  angles 0 150 0
+ }
+ {
+  coords 10861.319 2.238 4468.47
+  angles 0 120 0
+ }
+}
+$grp GenericEntity : "{2B1D0128ED660BE9}Prefabs/Props/Crates/BoxWooden_01.et" {
+ {
+  coords 12279.945 32 8736.706
+  angles 0 -180 180
+ }
+ {
+  coords 12279.943 32 8737.144
+  angles 0 -180 180
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{4453575E36B89EBA}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_4m_30.et" {
+ {
+  coords 10786.753 4.855 4503.731
+  angles 0 300 0
+ }
+ {
+  coords 10792.709 3.364 4514.068
+  angles 0 330 0
+ }
+ {
+  coords 10857.508 3.643 4461.492
+  angles 0 300 0
+ }
+}
+$grp GameEntity : "{7EE9CD6F531E7139}Prefabs/Structures/BuildingParts/Ladders/Ladder_ControlTower_E_01_Short.et" {
+ {
+  coords 10853.161 3.242 4486.734
+  angles 0 -45 0
+ }
+ {
+  coords 10811.745 3.242 4412.471
+  angles 0 90 0
+ }
+ {
+  coords 10811.779 3.242 4322.802
+  angles 0 90 0
+ }
+}
+GenericEntity : "{832EA6ECA170FB2A}Prefabs/Structures/Infrastructure/Naval/Sheds/BoatShed_01/HouseAddons/BoatShed_01_floor.et" {
+ coords 10876.137 0 4165.031
+ angles 0 -89.597 0
+}
+$grp SCR_DestructibleBuildingEntity : "{85CE0F68DA969A31}Prefabs/Structures/Infrastructure/Naval/SeaBollards/SeaBollard_01.et" {
+ {
+  coords 10835.372 0.877 4246
+ }
+ {
+  coords 10835.319 0.955 4350
+ }
+ {
+  coords 10835.317 0.955 4366
+ }
+ {
+  coords 10909.623 0.123 4569.282
+ }
+ {
+  coords 10909.624 0.125 4553.282
+ }
+}
+$grp GenericEntity : "{EF49B1F62D20ABD1}Prefabs/Props/Garbage/Cardboard/Cardboard_05.et" {
+ {
+  coords 12335.29 32 8607.416
+ }
+ {
+  coords 12338.235 32 8613.085
+ }
+ {
+  coords 12339.779 32 8612.087
+ }
+}

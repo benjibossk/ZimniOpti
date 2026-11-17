@@ -1,0 +1,533 @@
+$grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02.et" {
+ {
+  coords 8358.781 -1.701 10221.243
+  angles 0 -130.22 0
+ }
+ {
+  coords 8359.344 -1.943 10223.575
+  angles 0 80.482 0
+ }
+}
+$grp GenericEntity : "{7030822F7A54F479}Prefabs/Props/Crates/CrateWooden_01_base.et" {
+ {
+  coords 7836.528 43.334 10774.942
+  angles 0 -14.649 0
+ }
+ {
+  coords 7836.137 43.334 10776.438
+  angles 0 -14.649 0
+ }
+ {
+  coords 7835.241 43.334 10776.204
+  angles 0 -14.649 0
+ }
+ {
+  coords 7835.634 43.334 10774.703
+  angles 0 -14.649 0
+ }
+ {
+  coords 7835.634 44.151 10774.703
+  angles 0 -14.649 0
+ }
+ {
+  coords 7835.24 44.151 10776.209
+  angles 0 -14.649 0
+ }
+ {
+  coords 7838.632 43.275 10765.722
+  angles 0 -16.915 0
+ }
+ {
+  coords 7838.196 43.275 10767.154
+  angles 0 -16.915 0
+ }
+ {
+  coords 7837.736 43.275 10768.665
+  angles 0 -16.915 0
+ }
+ {
+  coords 7836.989 43.275 10767.649
+  angles 0 -16.915 0
+ }
+ {
+  coords 7837.467 43.275 10766.076
+  angles 0 -16.915 0
+ }
+ {
+  coords 7836.275 43.275 10766.641
+  angles 0 -16.915 0
+ }
+ {
+  coords 7835.814 43.275 10768.15
+  angles 0 -16.915 0
+ }
+ {
+  coords 7836.708 43.275 10765.213
+  angles 0 -16.915 0
+ }
+ {
+  coords 7836.272 44.093 10766.639
+  angles 0 -16.915 0
+ }
+ {
+  coords 7835.814 44.093 10768.142
+  angles 0 -16.915 0
+ }
+ {
+  coords 7836.704 44.093 10765.218
+  angles 0 -16.915 0
+ }
+ {
+  coords 7832.626 42.438 10722.252
+  angles 0 26.335 0
+  scale 1.52
+ }
+ {
+  coords 7831.186 42.438 10722.966
+  angles 0 26.335 0
+  scale 1.52
+ }
+ {
+  coords 7829.7 42.438 10723.703
+  angles 0 26.335 0
+  scale 1.52
+ }
+ {
+  coords 7799.951 43.345 10763.733
+  angles 0 -12.7 0
+ }
+ {
+  coords 7880.037 42.565 10746.755
+  angles 0 74.78 0
+  scale 1.34
+ }
+ {
+  coords 7880.398 42.565 10745.421
+  angles 0 74.78 0
+  scale 1.34
+ }
+ {
+  coords 7866.055 42.8 10780.825
+  angles 0.35 0.01 1.61
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et" {
+ {
+  coords 16074.735 266.702 9482.482
+  scale 0.37
+ }
+ {
+  coords 8360.154 2.514 10226.818
+  angles 0 107.219 0
+  scale 0.4
+ }
+}
+$grp GenericEntity : "{A419F4547954DA05}Prefabs/Props/Construction/CableReel/CableReelWooden_01.et" {
+ {
+  coords 12341.209 30.518 10123.746
+  angles -90 -180 -180
+  scale 1.261
+ }
+ {
+  coords 12343.104 30.518 10123.746
+  angles -90 -180 -180
+  scale 1.261
+ }
+ {
+  coords 12344.783 30.518 10123.746
+  angles -90 -180 -180
+  scale 1.261
+ }
+ {
+  coords 12343.82 39.359 9970.685
+  angles 90 180 -180
+  scale 1.28
+ }
+ {
+  coords 13358.271 60.744 6125.711
+  angles 90 180 -180
+  scale 1.28
+ }
+ {
+  coords 11319.55 22.141 6783.156
+  angles 90 180 -180
+  scale 1.28
+ }
+ {
+  coords 11321.71 22.192 6781.771
+  angles 90 -180 111.462
+  scale 1.28
+ }
+ {
+  coords 15628.749 66.03 1331.978
+  scale 1.71
+ }
+ {
+  coords 15629.522 66.031 1334.852
+  scale 1.71
+ }
+ {
+  coords 15630.414 66.031 1337.626
+  scale 1.71
+ }
+ {
+  coords 15631.254 66.031 1340.224
+  scale 1.71
+ }
+ {
+  coords 15632.034 66.031 1342.729
+  scale 1.71
+ }
+ {
+  coords 15594.463 64.531 1314.546
+  scale 1.37
+ }
+ {
+  coords 15592.897 64.531 1315.869
+  scale 1.37
+ }
+ {
+  coords 15591.439 64.531 1317.178
+  scale 1.37
+ }
+ {
+  coords 12239.126 20.551 7110.505
+  scale 1.37
+ }
+ {
+  coords 12237.218 20.553 7110.606
+  scale 1.37
+ }
+ {
+  coords 12387.552 6.687 2296.81
+  scale 1.37
+ }
+ {
+  coords 13940.086 34.892 2584.187
+  angles 5.356 0.042 0.45
+  scale 1.37
+ }
+ {
+  coords 12018.44 32.547 8864.548
+  scale 1.37
+ }
+ {
+  coords 14110.564 27.329 15114.008
+  angles 2.211 0.242 6.247
+  scale 1.37
+ }
+ {
+  coords 11358.075 22.228 4539.356
+  angles 2.235 -0.07 -1.791
+  scale 1.37
+ }
+ {
+  coords 12424.383 10.844 1415.263
+  scale 1.37
+ }
+ {
+  coords 12421.605 10.844 1415.154
+  scale 1.37
+ }
+ {
+  coords 12696.354 31.619 8606.21
+  angles 11.91 0.094 0.458
+  scale 1.37
+ }
+ {
+  coords 7772.53 44.31 10765.814
+  angles 0 48.609 90
+  scale 1.151
+ }
+ {
+  coords 7812.964 43.347 10771.533
+  scale 1.37
+ }
+ {
+  coords 7815.049 43.347 10772.048
+  scale 1.37
+ }
+ {
+  coords 15006.883 50.993 12000.272
+  angles 0.448 -0.004 -0.448
+  scale 1.37
+ }
+}
+$grp GenericEntity : "{B3283803059E2750}Prefabs/Props/Crates/CrateWooden_01_plain.et" {
+ {
+  coords 12332.801 29.803 10128.463
+  angles 0.324 -75.784 0.544
+ }
+ {
+  coords 12332.064 30.614 10128.659
+  angles 0.323 -75.692 0.544
+ }
+ {
+  coords 12331.32 29.812 10128.803
+  angles 0 105 0
+ }
+ {
+  coords 12033.748 43.094 9962.39
+ }
+ {
+  coords 12033.748 43.094 9960.949
+ }
+ {
+  coords 12034.618 43.094 9960.949
+ }
+ {
+  coords 12035.479 43.094 9960.949
+ }
+ {
+  coords 12035.479 43.094 9962.383
+ }
+ {
+  coords 12034.597 43.094 9962.383
+ }
+ {
+  coords 12034.597 43.917 9962.383
+ }
+ {
+  coords 12033.771 43.917 9962.38
+ }
+ {
+  coords 11998.022 43.768 9978.237
+  angles 0 -47.854 0
+ }
+ {
+  coords 11980.103 41.75 9991.409
+  angles 0 -63.246 0
+ }
+ {
+  coords 12137.175 41.562 9981.748
+  angles 0 93.728 0
+ }
+ {
+  coords 12730.889 51.813 9592.404
+  angles 0 -87.469 0
+ }
+ {
+  coords 12723.544 51.813 9576.742
+ }
+ {
+  coords 12722.694 51.813 9576.742
+ }
+ {
+  coords 12721.837 51.813 9576.742
+ }
+ {
+  coords 12721.837 51.813 9578.159
+ }
+ {
+  coords 12722.71 51.813 9578.158
+ }
+ {
+  coords 12723.595 51.813 9578.157
+ }
+ {
+  coords 12723.453 52.603 9577.449
+ }
+ {
+  coords 12722.594 52.603 9577.449
+ }
+ {
+  coords 12722.983 53.426 9577.449
+ }
+ {
+  coords 15606.362 66.044 1315.806
+  angles 0 18.983 0
+ }
+ {
+  coords 15605.496 66.044 1316.104
+  angles 0 18.983 0
+ }
+ {
+  coords 15604.613 66.044 1316.407
+  angles 0 18.983 0
+ }
+ {
+  coords 11361.388 54.531 9454.356
+  angles 0 87.954 0
+ }
+ {
+  coords 11359.843 54.531 9454.301
+  angles 0 87.954 0
+ }
+ {
+  coords 11358.362 54.531 9454.248
+  angles 0 87.954 0
+ }
+ {
+  coords 11359.12 55.345 9454.275
+  angles 0 87.954 0
+ }
+ {
+  coords 11360.606 55.353 9454.326
+  angles 0 87.954 0
+ }
+ {
+  coords 13932.331 34.629 2582.533
+  angles 4.911 -0.077 -0.899
+ }
+ {
+  coords 12023.609 32.547 8863.82
+  angles 0 -72.315 0
+ }
+ {
+  coords 12023.342 32.547 8862.981
+  angles 0 -72.315 0
+ }
+ {
+  coords 12023.075 32.547 8862.145
+  angles 0 -72.315 0
+ }
+ {
+  coords 12024.416 32.547 8861.717
+  angles 0 -72.315 0
+ }
+ {
+  coords 12024.696 32.547 8862.6
+  angles 0 -72.315 0
+ }
+ {
+  coords 12024.694 33.366 8862.6
+  angles 0 -72.315 0
+ }
+ {
+  coords 12024.41 33.366 8861.708
+  angles 0 -72.315 0
+ }
+ {
+  coords 12023.043 33.366 8862.144
+  angles 0 -72.315 0
+ }
+ {
+  coords 12023.308 33.366 8862.975
+  angles 0 -72.315 0
+ }
+ {
+  coords 13665.341 19.687 2722.624
+  angles 0 80.429 0
+ }
+ {
+  coords 13299.882 50.656 12786.066
+  angles 0 42.155 0
+ }
+ {
+  coords 13300.464 50.656 12787.273
+  angles 0 134.355 0
+ }
+ {
+  coords 7754.958 56.306 10740.685
+  angles 0 77.783 0
+ }
+ {
+  coords 7753.423 56.306 10740.353
+  angles 0 77.783 0
+ }
+ {
+  coords 7754.195 57.145 10740.518
+  angles 0 77.783 0
+ }
+ {
+  coords 7792.656 43.59 10740.769
+  angles -0.483 75.354 -0.736
+ }
+ {
+  coords 7791.218 43.602 10740.393
+  angles -0.904 75.358 -0.478
+ }
+ {
+  coords 7789.746 43.625 10740.008
+  angles -0.839 75.357 -0.482
+ }
+ {
+  coords 7790.311 43.605 10741.173
+  angles -0.839 75.357 -0.482
+ }
+ {
+  coords 7791.848 43.582 10741.574
+  angles -0.839 75.357 -0.482
+ }
+ {
+  coords 7791.999 44.392 10741.039
+  angles -0.839 75.357 -0.482
+ }
+ {
+  coords 7790.453 44.415 10740.636
+  angles -0.839 75.357 -0.482
+ }
+ {
+  coords 7778.325 43.662 10750.548
+  angles 0.056 -14.723 0.26
+ }
+ {
+  coords 7794.039 43.59 10751.22
+  angles 0 76.979 0
+ }
+ {
+  coords 7791.223 43.562 10750.513
+  angles 0 79.875 0
+ }
+ {
+  coords 7791.385 43.562 10749.605
+  angles 0 79.875 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{CECADADEE5772DB1}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/Transformer110kV_E_01.et" {
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    PivotID "socket_Transformer110kV_E_01"
+   }
+  }
+  coords 12333.589 0.123 7311.895
+  angles 0 -88.688 0
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    PivotID "socket_Transformer110kV_E_01"
+   }
+  }
+  coords 12333.717 0.123 7317.492
+  angles 0 -88.688 0
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    PivotID "socket_Transformer110kV_E_01"
+   }
+  }
+  coords 12330.376 0.123 7317.568
+  angles 0 -88.688 0
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    PivotID "socket_Transformer110kV_E_01"
+   }
+  }
+  coords 12330.246 0.123 7311.897
+  angles 0 -88.688 0
+ }
+}
+$grp GenericEntity : "{F8E69032A514E47E}Prefabs/Props/construction/set01/Barril_Plastic_01.et" {
+ {
+  coords 12022.196 42.17 9933.154
+ }
+ {
+  coords 12840.168 10.256 1909.121
+  angles -3.555 0.278 -4.476
+ }
+ {
+  coords 14404.491 13.875 15706.778
+ }
+ {
+  coords 13655.548 19.645 2723.468
+  angles 0 0 -5.356
+ }
+ {
+  coords 12699.49 32 8610.238
+ }
+}

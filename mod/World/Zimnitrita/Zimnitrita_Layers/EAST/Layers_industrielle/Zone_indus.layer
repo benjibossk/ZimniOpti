@@ -1,0 +1,6609 @@
+$grp PolylineShapeEntity {
+ {
+  coords 12583.981 40 8839.428
+  Points {
+   ShapePoint "{629E93268A253668}" {
+    Position -338.724 -8 -145.09
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{629E93268647751A}" {
+    Position -342.347 -8 -23.498
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7E273D6EA}" {
+    Position -13.916 0 7.484
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7E2BE4660}" {
+    Position 152.047 -8 0.252
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7E9F4A26C}" {
+    Position 182.894 -10.884 -252.81
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7EBCEC63A}" {
+    Position 187.965 -15.608 -502.739
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7F511050A}" {
+    Position 129.848 -9.79 -638.346
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7F08F82A8}" {
+    Position -160.689 -17.71 -1295.023
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7F34D431C}" {
+    Position -227.984 -21.135 -1492.691
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{61FD2DF7D7AB620D}" {
+    Position -231.402 -15 -1535.999
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0.498 0.831 0
+  {
+   SCR_PowerlineGeneratorEntity : "{C28064571B2BCC59}PrefabLibrary/DefaultLibrary/Generators/Powerlines/PG_PowerLine_EHV_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_fDistance 130.5
+    {
+     $grp SCR_PowerPole : "{5BC1688321A0EF60}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_double.et" {
+      {
+       coords -338.724 -8 -145.09
+       angles 0 178.293 0
+      }
+      {
+       coords -231.402 -15 -1535.999
+       angles 0 184.513 0
+      }
+     }
+     $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
+      {
+       coords -338.724 -8 -145.09
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9E9E550}" {
+         StartPoint -10.666 10.13 21.191
+         EndPoint 5.257 13.002 124.857
+        }
+        Cable "{6334F5C6A9E9CBEE}" {
+         StartPoint -7.218 10.13 21.294
+         EndPoint 5.266 16.529 125.626
+        }
+        Cable "{6334F5C6A9E9282D}" {
+         StartPoint -3.619 10.13 21.401
+         EndPoint 5.426 20.08 124.791
+        }
+        Cable "{6334F5C6A9E90CA8}" {
+         StartPoint 9.375 10.13 21.789
+         EndPoint 5.735 12.95 119.78
+        }
+        Cable "{6334F5C6A9E977CD}" {
+         StartPoint 5.776 10.13 21.682
+         EndPoint 5.894 16.461 118.955
+        }
+        Cable "{6334F5C6A9E95A04}" {
+         StartPoint 2.338 10.13 21.579
+         EndPoint 5.901 20.028 119.733
+        }
+       }
+      }
+      {
+       coords -333.534 -8 -22.667
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9EAF4CD}" {
+         StartPoint 0.712 20.028 -2.689
+         EndPoint 130.53 20.071 9.885
+        }
+        Cable "{6334F5C6A9EADD89}" {
+         StartPoint 0.704 16.461 -3.468
+         EndPoint 130.534 16.516 9.05
+        }
+        Cable "{6334F5C6A9EAC777}" {
+         StartPoint 0.546 12.95 -2.643
+         EndPoint 130.388 12.992 9.818
+        }
+        Cable "{6334F5C6A9EA2854}" {
+         StartPoint 0.236 20.08 2.368
+         EndPoint 130.053 20.04 14.942
+        }
+        Cable "{6334F5C6A9EA116B}" {
+         StartPoint 0.076 16.529 3.203
+         EndPoint 129.904 16.476 15.72
+        }
+        Cable "{6334F5C6A9EA7949}" {
+         StartPoint 0.067 13.002 2.435
+         EndPoint 129.908 12.961 14.896
+        }
+       }
+      }
+      {
+       coords -203.649 -8 -10.414
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9EB9DF0}" {
+         StartPoint 0.646 20.071 -2.368
+         EndPoint 130.231 20.084 9.932
+        }
+        Cable "{6334F5C6A9EB8571}" {
+         StartPoint 0.649 16.516 -3.203
+         EndPoint 130.288 16.532 9.088
+        }
+        Cable "{6334F5C6A9EBEDF6}" {
+         StartPoint 0.503 12.992 -2.435
+         EndPoint 130.194 13.004 9.848
+        }
+        Cable "{6334F5C6A9EBD5EB}" {
+         StartPoint 0.168 20.04 2.689
+         EndPoint 129.754 20.034 14.989
+        }
+        Cable "{6334F5C6A9EB3D7A}" {
+         StartPoint 0.02 16.476 3.467
+         EndPoint 129.659 16.466 15.758
+        }
+        Cable "{6334F5C6A9EB24AA}" {
+         StartPoint 0.023 12.961 2.643
+         EndPoint 129.715 12.954 14.925
+        }
+       }
+      }
+      {
+       coords -73.765 -8 1.838
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9EB4FB0}" {
+         StartPoint 0.347 20.084 -2.32
+         EndPoint 129.567 20.096 0.409
+        }
+        Cable "{6334F5C6A9F4B70B}" {
+         StartPoint 0.403 16.532 -3.164
+         EndPoint 129.602 16.552 -0.464
+        }
+        Cable "{6334F5C6A9F49E7B}" {
+         StartPoint 0.31 13.004 -2.404
+         EndPoint 129.705 13.019 0.271
+        }
+        Cable "{6334F5C6A9F485A0}" {
+         StartPoint -0.131 20.034 2.737
+         EndPoint 129.791 20.01 5.483
+        }
+        Cable "{6334F5C6A9F4EC38}" {
+         StartPoint -0.226 16.466 3.506
+         EndPoint 129.895 16.437 6.229
+        }
+        Cable "{6334F5C6A9F4DB3A}" {
+         StartPoint -0.17 12.954 2.673
+         EndPoint 129.929 12.932 5.366
+        }
+       }
+      }
+      {
+       coords 56.304 -8 4.424
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F47DBA}" {
+         StartPoint -0.501 20.096 -2.177
+         EndPoint 97.373 20.055 -38.878
+        }
+        Cable "{6334F5C6A9F464D5}" {
+         StartPoint -0.467 16.552 -3.05
+         EndPoint 96.574 16.493 -38.958
+        }
+        Cable "{6334F5C6A9F44C0B}" {
+         StartPoint -0.363 13.019 -2.314
+         EndPoint 97.374 12.975 -38.844
+        }
+        Cable "{6334F5C6A9F5BA29}" {
+         StartPoint -0.277 20.01 2.897
+         EndPoint 102.416 20.065 -38.263
+        }
+        Cable "{6334F5C6A9F5A1AE}" {
+         StartPoint -0.173 16.437 3.643
+         EndPoint 103.226 16.507 -38.147
+        }
+        Cable "{6334F5C6A9F5894E}" {
+         StartPoint -0.14 12.932 2.78
+         EndPoint 102.437 12.985 -38.227
+        }
+       }
+      }
+      {
+       coords 156.228 -8 -34.047
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F53223}" {
+         StartPoint -2.551 20.055 -0.407
+         EndPoint 13.041 19.282 -129.632
+        }
+        Cable "{6334F5C6A9F519BD}" {
+         StartPoint -3.35 16.493 -0.487
+         EndPoint 12.277 15.714 -129.768
+        }
+        Cable "{6334F5C6A9F50133}" {
+         StartPoint -2.55 12.975 -0.373
+         EndPoint 13.111 12.203 -129.707
+        }
+        Cable "{6334F5C6A9F5687B}" {
+         StartPoint 2.492 20.065 0.208
+         EndPoint 18.083 19.333 -129.017
+        }
+        Cable "{6334F5C6A9F556DC}" {
+         StartPoint 3.302 16.507 0.323
+         EndPoint 18.928 15.782 -128.956
+        }
+        Cable "{6334F5C6A9F6BDD9}" {
+         StartPoint 2.513 12.985 0.244
+         EndPoint 18.174 12.254 -129.09
+        }
+       }
+      }
+      {
+       coords 172.018 -8.75 -163.58
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F6E766}" {
+         StartPoint -2.749 20.032 -0.099
+         EndPoint 8.978 16.819 -129.356
+        }
+        Cable "{6334F5C6A9F6CD4D}" {
+         StartPoint -3.513 16.464 -0.234
+         EndPoint 8.2 13.254 -129.464
+        }
+        Cable "{6334F5C6A9F63B89}" {
+         StartPoint -2.679 12.953 -0.174
+         EndPoint 9.032 9.742 -129.538
+        }
+        Cable "{6334F5C6A9F62225}" {
+         StartPoint 2.293 20.083 0.517
+         EndPoint 14.056 16.863 -129.252
+        }
+        Cable "{6334F5C6A9F60AD0}" {
+         StartPoint 3.138 16.532 0.577
+         EndPoint 14.898 13.311 -129.327
+        }
+        Cable "{6334F5C6A9F671AF}" {
+         StartPoint 2.384 13.004 0.443
+         EndPoint 14.131 9.786 -129.434
+        }
+       }
+      }
+      {
+       coords 183.718 -11.961 -293.398
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F796D5}" {
+         StartPoint -2.723 20.031 0.462
+         EndPoint 0.132 15.277 -130.142
+        }
+        Cable "{6334F5C6A9F7FE77}" {
+         StartPoint -3.5 16.465 0.354
+         EndPoint -0.682 11.719 -130.222
+        }
+        Cable "{6334F5C6A9F7E54B}" {
+         StartPoint -2.668 12.953 0.28
+         EndPoint 0.113 8.199 -130.269
+        }
+        Cable "{6334F5C6A9F7D30E}" {
+         StartPoint 2.355 20.074 0.566
+         EndPoint 5.211 15.269 -130.038
+        }
+        Cable "{6334F5C6A9F739A4}" {
+         StartPoint 3.198 16.523 0.491
+         EndPoint 6.017 11.708 -130.086
+        }
+        Cable "{6334F5C6A9F7215A}" {
+         StartPoint 2.431 12.997 0.385
+         EndPoint 5.212 8.19 -130.165
+        }
+       }
+      }
+      {
+       coords 186.364 -16.745 -423.848
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F74B21}" {
+         StartPoint -2.515 20.061 0.308
+         EndPoint -21.337 23.124 -125.242
+        }
+        Cable "{6334F5C6A9F0B08E}" {
+         StartPoint -3.328 16.503 0.228
+         EndPoint -22.028 19.552 -124.927
+        }
+        Cable "{6334F5C6A9F0987A}" {
+         StartPoint -2.533 12.982 0.181
+         EndPoint -21.24 16.044 -125.245
+        }
+        Cable "{6334F5C6A9F08059}" {
+         StartPoint 2.564 20.053 0.411
+         EndPoint -16.668 23.196 -127.244
+        }
+        Cable "{6334F5C6A9F0EE7D}" {
+         StartPoint 3.37 16.492 0.363
+         EndPoint -15.87 19.648 -127.566
+        }
+        Cable "{6334F5C6A9F0D443}" {
+         StartPoint 2.565 12.974 0.284
+         EndPoint -16.553 16.117 -127.255
+        }
+       }
+      }
+      {
+       coords 167.663 -13.643 -550.11
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F07C63}" {
+         StartPoint -2.636 20.022 1.021
+         EndPoint -54.419 25.61 -118.206
+        }
+        Cable "{6334F5C6A9F069AB}" {
+         StartPoint -3.327 16.451 1.336
+         EndPoint -55.098 22.03 -117.965
+        }
+        Cable "{6334F5C6A9F0501B}" {
+         StartPoint -2.539 12.942 1.018
+         EndPoint -54.304 18.532 -118.373
+        }
+        Cable "{6334F5C6A9F1BE9D}" {
+         StartPoint 2.033 20.094 -0.981
+         EndPoint -49.774 25.741 -120.259
+        }
+        Cable "{6334F5C6A9F1A50E}" {
+         StartPoint 2.831 16.546 -1.304
+         EndPoint -48.971 22.203 -120.673
+        }
+        Cable "{6334F5C6A9F1936C}" {
+         StartPoint 2.148 13.015 -0.992
+         EndPoint -49.641 18.664 -120.435
+        }
+       }
+      }
+      {
+       coords 115.919 -8.019 -669.828
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F13BDE}" {
+         StartPoint -2.675 19.985 1.511
+         EndPoint -54.726 31.337 -118.707
+        }
+        Cable "{6334F5C6A9F121A4}" {
+         StartPoint -3.354 16.406 1.752
+         EndPoint -55.536 27.799 -118.309
+        }
+        Cable "{6334F5C6A9F10FF4}" {
+         StartPoint -2.56 12.908 1.344
+         EndPoint -54.874 24.26 -118.562
+        }
+        Cable "{6334F5C6A9F1752A}" {
+         StartPoint 1.97 20.117 -0.542
+         EndPoint -50.081 31.205 -120.761
+        }
+        Cable "{6334F5C6A9F16281}" {
+         StartPoint 2.773 16.579 -0.956
+         EndPoint -49.41 27.625 -121.017
+        }
+        Cable "{6334F5C6A9F14924}" {
+         StartPoint 2.104 13.04 -0.717
+         EndPoint -50.211 24.127 -120.623
+        }
+       }
+      }
+      {
+       coords 63.122 3.2 -789.162
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F2F1B2}" {
+         StartPoint -1.929 20.118 0.627
+         EndPoint -55.138 7.514 -118.605
+        }
+        Cable "{6334F5C6A9F2D84D}" {
+         StartPoint -2.739 16.581 1.025
+         EndPoint -55.875 3.959 -118.225
+        }
+        Cable "{6334F5C6A9F2C7C4}" {
+         StartPoint -2.077 13.041 0.772
+         EndPoint -55.141 0.435 -118.496
+        }
+        Cable "{6334F5C6A9F22E45}" {
+         StartPoint 2.716 19.986 -1.427
+         EndPoint -50.492 7.488 -120.66
+        }
+        Cable "{6334F5C6A9F21BCE}" {
+         StartPoint 3.387 16.406 -1.683
+         EndPoint -49.748 3.924 -120.935
+        }
+        Cable "{6334F5C6A9F201C2}" {
+         StartPoint 2.586 12.909 -1.29
+         EndPoint -50.477 0.408 -120.559
+        }
+       }
+      }
+      {
+       coords 10.324 -9.357 -908.496
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F3A468}" {
+         StartPoint -2.34 20.071 0.729
+         EndPoint -54.756 16.447 -118.703
+        }
+        Cable "{6334F5C6A9F39362}" {
+         StartPoint -3.077 16.516 1.109
+         EndPoint -55.561 12.909 -118.305
+        }
+        Cable "{6334F5C6A9F3F894}" {
+         StartPoint -2.343 12.992 0.838
+         EndPoint -54.894 9.37 -118.56
+        }
+        Cable "{6334F5C6A9F3E61E}" {
+         StartPoint 2.306 20.044 -1.326
+         EndPoint -50.111 16.323 -120.756
+        }
+        Cable "{6334F5C6A9F3CE07}" {
+         StartPoint 3.05 16.481 -1.601
+         EndPoint -49.435 12.744 -121.014
+        }
+        Cable "{6334F5C6A9F3347E}" {
+         StartPoint 2.321 12.965 -1.225
+         EndPoint -50.23 9.245 -120.621
+        }
+       }
+      }
+      {
+       coords -42.474 -13.025 -1027.83
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9F35FF7}" {
+         StartPoint -1.958 20.115 0.631
+         EndPoint -55.581 18.152 -118.407
+        }
+        Cable "{6334F5C6A9F346F0}" {
+         StartPoint -2.763 16.576 1.029
+         EndPoint -56.239 14.578 -118.061
+        }
+        Cable "{6334F5C6A9FCAC88}" {
+         StartPoint -2.096 13.038 0.774
+         EndPoint -55.428 11.074 -118.367
+        }
+        Cable "{6334F5C6A9FC9A99}" {
+         StartPoint 2.687 19.99 -1.422
+         EndPoint -50.937 18.248 -120.463
+        }
+        Cable "{6334F5C6A9FC81CC}" {
+         StartPoint 3.363 16.412 -1.68
+         EndPoint -50.114 14.705 -120.773
+        }
+        Cable "{6334F5C6A9FCEFEC}" {
+         StartPoint 2.567 12.913 -1.287
+         EndPoint -50.765 11.17 -120.432
+        }
+       }
+      }
+      {
+       coords -95.271 -14.879 -1147.164
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9FC10CA}" {
+         StartPoint -2.783 20.006 0.927
+         EndPoint -55.512 17.668 -118.285
+        }
+        Cable "{6334F5C6A9FC7F1D}" {
+         StartPoint -3.441 16.432 1.273
+         EndPoint -56.183 14.094 -117.96
+        }
+        Cable "{6334F5C6A9FC6567}" {
+         StartPoint -2.63 12.928 0.967
+         EndPoint -55.383 10.59 -118.288
+        }
+        Cable "{6334F5C6A9FC52C8}" {
+         StartPoint 1.861 20.103 -1.129
+         EndPoint -50.867 17.762 -120.34
+        }
+        Cable "{6334F5C6A9FDB85B}" {
+         StartPoint 2.684 16.559 -1.439
+         EndPoint -50.058 14.217 -120.672
+        }
+        Cable "{6334F5C6A9FDA51E}" {
+         StartPoint 2.033 13.025 -1.098
+         EndPoint -50.72 10.683 -120.352
+        }
+       }
+      }
+      {
+       coords -148.068 -17.22 -1266.498
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9FDC826}" {
+         StartPoint -2.715 20.01 1.049
+         EndPoint -46.661 16.276 -121.913
+        }
+        Cable "{6334F5C6A9FD3743}" {
+         StartPoint -3.386 16.435 1.374
+         EndPoint -47.492 12.733 -121.615
+        }
+        Cable "{6334F5C6A9FD1C84}" {
+         StartPoint -2.586 12.931 1.046
+         EndPoint -46.799 9.198 -121.835
+        }
+        Cable "{6334F5C6A9FD0A87}" {
+         StartPoint 1.93 20.103 -1.006
+         EndPoint -41.853 16.171 -123.549
+        }
+        Cable "{6334F5C6A9FD70D5}" {
+         StartPoint 2.739 16.558 -1.338
+         EndPoint -41.15 12.595 -123.773
+        }
+        Cable "{6334F5C6A9FD5DBD}" {
+         StartPoint 2.077 13.024 -1.018
+         EndPoint -41.972 9.093 -123.478
+        }
+       }
+      }
+      {
+       coords -192.689 -21.052 -1389.017
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9FE8002}" {
+         StartPoint -2.04 20.108 0.606
+         EndPoint -39.525 26.092 -123.649
+        }
+        Cable "{6334F5C6A9FEEEB9}" {
+         StartPoint -2.871 16.565 0.904
+         EndPoint -40.321 22.529 -123.678
+        }
+        Cable "{6334F5C6A9FED462}" {
+         StartPoint -2.178 13.03 0.684
+         EndPoint -39.512 19.014 -123.833
+        }
+        Cable "{6334F5C6A9FEC282}" {
+         StartPoint 2.769 20.003 -1.03
+         EndPoint -34.461 26.119 -124.048
+        }
+        Cable "{6334F5C6A9FE2826}" {
+         StartPoint 3.471 16.427 -1.254
+         EndPoint -33.642 22.564 -124.205
+        }
+        Cable "{6334F5C6A9FE1635}" {
+         StartPoint 2.649 12.925 -0.959
+         EndPoint -34.428 19.041 -124.234
+        }
+       }
+      }
+      {
+       coords -229.617 -15 -1513.389
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{6334F5C6A9FE58B2}" {
+         StartPoint -2.598 20.04 0.723
+         EndPoint -10.093 10.13 -0.388
+        }
+        Cable "{6334F5C6A9FE46C0}" {
+         StartPoint -3.394 16.477 0.694
+         EndPoint -6.653 10.13 -0.659
+        }
+        Cable "{6334F5C6A9FFAD16}" {
+         StartPoint -2.584 12.962 0.539
+         EndPoint -3.064 10.13 -0.942
+        }
+        Cable "{6334F5C6A9FF9BDD}" {
+         StartPoint 2.467 20.066 0.324
+         EndPoint 9.896 10.13 -1.965
+        }
+        Cable "{6334F5C6A9FF81FF}" {
+         StartPoint 3.286 16.512 0.167
+         EndPoint 6.307 10.13 -1.682
+        }
+        Cable "{6334F5C6A9FFEE9A}" {
+         StartPoint 2.5 12.989 0.138
+         EndPoint 2.877 10.13 -1.411
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{A48B523811F5FE6A}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_EHV_01_pole.et" {
+      {
+       coords -333.535 -8 -22.667
+       angles -1.305 84.611 0.584
+      }
+      {
+       coords -203.65 -8 -10.414
+       angles -1.2 84.611 -0.347
+      }
+      {
+       coords -73.765 -8 1.838
+       angles -0.364 84.611 -0.563
+      }
+      {
+       coords 56.304 -8 4.424
+       angles 1.155 92.495 -0.98
+      }
+      {
+       coords 156.228 -8 -34.047
+       angles -0.273 173.05 0.117
+      }
+      {
+       coords 172.017 -8.75 -163.58
+       angles 0.67 173.05 0.574
+      }
+      {
+       coords 183.718 -11.961 -293.398
+       angles 1.479 178.838 0.494
+      }
+      {
+       coords 186.364 -16.745 -423.848
+       angles 1.025 178.838 -0.093
+      }
+      {
+       coords 167.663 -13.643 -550.11
+       angles -0.288 203.199 0.814
+      }
+      {
+       coords 115.919 -8.019 -669.828
+       angles 0.859 203.866 1.482
+      }
+      {
+       coords 63.122 3.2 -789.162
+       angles -0.589 203.866 -1.489
+      }
+      {
+       coords 10.324 -9.357 -908.496
+       angles -0.799 203.866 -0.301
+      }
+      {
+       coords -42.473 -13.025 -1027.83
+       angles -0.611 203.866 -1.409
+      }
+      {
+       coords -95.271 -14.879 -1147.164
+       angles -0.795 203.866 1.088
+      }
+      {
+       coords -148.069 -17.22 -1266.498
+       angles -0.396 203.866 1.052
+      }
+      {
+       coords -192.689 -21.052 -1389.018
+       angles -0.236 198.801 -1.179
+      }
+      {
+       coords -229.618 -15 -1513.389
+       angles 1.478 184.513 0.303
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 12577.786 40.001 8910.706
+  Points {
+   ShapePoint "{629E932670D8B62F}" {
+    Position -359.552 -8.001 -216.477
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{629E9326773DDA4B}" {
+    Position -359.227 -8.001 -50.752
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64931BB51C}" {
+    Position -6.62 -0.001 -2.885
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64931A680A}" {
+    Position 95.713 -8.001 -0.562
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64EC7F7E3F}" {
+    Position 331.688 -9.469 -0.959
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64C51CAD02}" {
+    Position 605.745 -7.332 211.053
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64C42B1044}" {
+    Position 789.677 5.532 488.09
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64C31FC34C}" {
+    Position 963.136 -7.436 776.705
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{6228BD64CF093C4A}" {
+    Position 1133.855 9.527 1125.773
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{622935001AF3D9DC}" {
+    Position 1469.889 9.553 1606.877
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{62293500634E74D8}" {
+    Position 1802.196 24.595 1935.616
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{622935006AE7C9BE}" {
+    Position 1817.715 13.612 2193.291
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{622935006E651206}" {
+    Position 1842.192 10.635 2522.308
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{622935007E06CBF1}" {
+    Position 1849.599 10.905 2583.537
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+   ShapePoint "{622935007A1A84FC}" {
+    Position 1805.314 10.905 2585.198
+    Data {
+     SCR_PowerlineGeneratorPointData "{000000005378F1F7}" {
+     }
+    }
+   }
+  }
+  LineColor 0 0.498 0.831 0
+  {
+   SCR_PowerlineGeneratorEntity : "{C28064571B2BCC59}PrefabLibrary/DefaultLibrary/Generators/Powerlines/PG_PowerLine_EHV_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_fDistance 133.5
+    {
+     $grp SCR_PowerPole : "{5BC1688321A0EF60}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_double.et" {
+      {
+       coords -359.552 -8.001 -216.477
+       angles 0 180.112 0
+      }
+      {
+       coords 1805.314 10.905 2585.198
+       angles 0 272.148 0
+      }
+     }
+     $grp PowerlineEntity : "{613763D114E7CD1C}Prefabs/WEGenerators/Powerline/Powerline.et" {
+      {
+       coords -359.552 -8.001 -216.477
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646A388C6}" {
+         StartPoint -9.988 10.13 21.52
+         EndPoint -2.043 13.023 133.76
+        }
+        Cable "{629E932646A3EBCC}" {
+         StartPoint -6.538 10.13 21.513
+         EndPoint -2.776 16.557 133.83
+        }
+        Cable "{629E932646A3C42F}" {
+         StartPoint -2.938 10.13 21.506
+         EndPoint -1.899 20.1 133.897
+        }
+        Cable "{629E932646A32B4C}" {
+         StartPoint 10.062 10.13 21.48
+         EndPoint 3.056 12.927 133.747
+        }
+        Cable "{629E932646A30F98}" {
+         StartPoint 6.462 10.13 21.487
+         EndPoint 3.922 16.431 133.814
+        }
+        Cable "{629E932646A36DD4}" {
+         StartPoint 3.022 10.13 21.494
+         EndPoint 3.18 20.005 133.886
+        }
+       }
+      }
+      {
+       coords -359.29 -8.001 -82.977
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AC85CC}" {
+         StartPoint 2.918 20.005 0.386
+         EndPoint 101.266 20.035 43.261
+        }
+        Cable "{629E932646ACE9F3}" {
+         StartPoint 3.66 16.431 0.314
+         EndPoint 101.28 16.471 42.47
+        }
+        Cable "{629E932646ACCCF5}" {
+         StartPoint 2.794 12.927 0.247
+         EndPoint 101.079 12.958 43.274
+        }
+        Cable "{629E932646AC37A9}" {
+         StartPoint -2.161 20.1 0.397
+         EndPoint 100.583 20.07 48.294
+        }
+        Cable "{629E932646AC1AC1}" {
+         StartPoint -3.038 16.557 0.33
+         EndPoint 100.38 16.517 49.109
+        }
+        Cable "{629E932646AC7725}" {
+         StartPoint -2.305 13.023 0.26
+         EndPoint 100.395 12.993 48.328
+        }
+       }
+      }
+      {
+       coords -258.897 -8.001 -37.132
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AD8C3F}" {
+         StartPoint 0.873 20.035 -2.584
+         EndPoint 132.333 20.07 15.493
+        }
+        Cable "{629E932646ADF695}" {
+         StartPoint 0.888 16.471 -3.375
+         EndPoint 132.488 16.514 14.681
+        }
+        Cable "{629E932646ADD887}" {
+         StartPoint 0.687 12.958 -2.57
+         EndPoint 132.427 12.991 15.464
+        }
+        Cable "{629E932646ADC22E}" {
+         StartPoint 0.19 20.07 2.449
+         EndPoint 131.649 20.047 20.527
+        }
+        Cable "{629E932646AD2B72}" {
+         StartPoint -0.013 16.517 3.265
+         EndPoint 131.587 16.483 21.32
+        }
+        Cable "{629E932646AD13F0}" {
+         StartPoint 0.002 12.993 2.483
+         EndPoint 131.741 12.967 20.517
+        }
+       }
+      }
+      {
+       coords -126.645 -8.001 -19.179
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AEAC2B}" {
+         StartPoint 0.08 20.07 -2.46
+         EndPoint 132.84 20.045 13.965
+        }
+        Cable "{629E932646AE9663}" {
+         StartPoint 0.235 16.514 -3.272
+         EndPoint 132.777 16.482 13.167
+        }
+        Cable "{629E932646AEFFD5}" {
+         StartPoint 0.174 12.991 -2.489
+         EndPoint 132.68 12.966 13.979
+        }
+        Cable "{629E932646AEE1E8}" {
+         StartPoint -0.604 20.047 2.574
+         EndPoint 132.725 20.065 19.043
+        }
+        Cable "{629E932646AEC98F}" {
+         StartPoint -0.666 16.483 3.367
+         EndPoint 132.626 16.509 19.865
+        }
+        Cable "{629E932646AE31A3}" {
+         StartPoint -0.512 12.967 2.563
+         EndPoint 132.564 12.987 19.078
+        }
+       }
+      }
+      {
+       coords 5.684 -8.001 -2.605
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AE575A}" {
+         StartPoint 0.512 20.045 -2.608
+         EndPoint 133.077 20.079 -0.415
+        }
+        Cable "{629E932646AFBF59}" {
+         StartPoint 0.449 16.482 -3.406
+         EndPoint 133.097 16.525 -1.252
+        }
+        Cable "{629E932646AFA672}" {
+         StartPoint 0.352 12.966 -2.594
+         EndPoint 133.119 12.999 -0.479
+        }
+        Cable "{629E932646AF8E41}" {
+         StartPoint 0.396 20.065 2.47
+         EndPoint 133.086 20.04 4.665
+        }
+        Cable "{629E932646AFF6F4}" {
+         StartPoint 0.298 16.509 3.292
+         EndPoint 133.108 16.473 5.447
+        }
+        Cable "{629E932646AFDEA9}" {
+         StartPoint 0.236 12.987 2.505
+         EndPoint 133.128 12.96 4.62
+        }
+       }
+      }
+      {
+       coords 138.885 -8.001 -0.635
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AF012A}" {
+         StartPoint -0.124 20.079 -2.386
+         EndPoint 133.514 18.712 -3.131
+        }
+        Cable "{629E932646AF640A}" {
+         StartPoint -0.104 16.525 -3.223
+         EndPoint 133.508 15.138 -3.875
+        }
+        Cable "{629E932646AF4C04}" {
+         StartPoint -0.082 12.999 -2.45
+         EndPoint 133.506 11.633 -3.011
+        }
+        Cable "{629E932646A8B445}" {
+         StartPoint -0.115 20.04 2.694
+         EndPoint 133.521 18.805 1.949
+        }
+        Cable "{629E932646A8A3C6}" {
+         StartPoint -0.093 16.473 3.477
+         EndPoint 133.52 15.26 2.823
+        }
+        Cable "{629E932646A88AEF}" {
+         StartPoint -0.073 12.96 2.649
+         EndPoint 133.515 11.726 2.088
+        }
+       }
+      }
+      {
+       coords 272.382 -9.299 -0.859
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646A82DA8}" {
+         StartPoint 0.017 20.01 -2.906
+         EndPoint 119.359 19.898 43.238
+        }
+        Cable "{629E932646A81536}" {
+         StartPoint 0.011 16.436 -3.65
+         EndPoint 119.888 16.341 42.606
+        }
+        Cable "{629E932646A87CF2}" {
+         StartPoint 0.009 12.931 -2.786
+         EndPoint 119.43 12.818 43.248
+        }
+        Cable "{629E932646A86BB6}" {
+         StartPoint 0.024 20.103 2.174
+         EndPoint 116.251 19.879 47.256
+        }
+        Cable "{629E932646A853DC}" {
+         StartPoint 0.022 16.558 3.048
+         EndPoint 115.788 16.317 47.906
+        }
+        Cable "{629E932646A9BAB6}" {
+         StartPoint 0.018 13.024 2.312
+         EndPoint 116.31 12.8 47.281
+        }
+       }
+      }
+      {
+       coords 390.37 -9.47 44.437
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646A9DE7B}" {
+         StartPoint 1.371 20.068 -2.059
+         EndPoint 107.61 20.041 79.914
+        }
+        Cable "{629E932646A9C583}" {
+         StartPoint 1.899 16.511 -2.69
+         EndPoint 108.023 16.478 79.231
+        }
+        Cable "{629E932646A92DE7}" {
+         StartPoint 1.441 12.989 -2.049
+         EndPoint 107.452 12.963 79.822
+        }
+        Cable "{629E932646A914AC}" {
+         StartPoint -1.737 20.05 1.959
+         EndPoint 104.503 20.065 83.933
+        }
+        Cable "{629E932646A90395}" {
+         StartPoint -2.2 16.487 2.609
+         EndPoint 103.925 16.511 84.531
+        }
+        Cable "{629E932646A96560}" {
+         StartPoint -1.679 12.97 1.984
+         EndPoint 104.332 12.988 83.856
+        }
+       }
+      }
+      {
+       coords 495.959 -9.47 126.122
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AA8F97}" {
+         StartPoint 2.021 20.041 -1.771
+         EndPoint 107.088 21.892 79.554
+        }
+        Cable "{629E932646AAF69B}" {
+         StartPoint 2.435 16.478 -2.453
+         EndPoint 107.594 18.33 78.935
+        }
+        Cable "{629E932646AADE58}" {
+         StartPoint 1.863 12.963 -1.862
+         EndPoint 107.114 14.812 79.589
+        }
+        Cable "{629E932646AAC47E}" {
+         StartPoint -1.086 20.065 2.248
+         EndPoint 103.979 21.908 83.572
+        }
+        Cable "{629E932646AA339E}" {
+         StartPoint -1.664 16.511 2.847
+         EndPoint 103.494 18.35 84.234
+        }
+        Cable "{629E932646AA145A}" {
+         StartPoint -1.257 12.988 2.172
+         EndPoint 103.993 14.828 83.623
+        }
+       }
+      }
+      {
+       coords 601.549 -7.629 207.807
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646ABBF68}" {
+         StartPoint 1.498 20.052 -2.131
+         EndPoint 77.507 29.499 108.689
+        }
+        Cable "{629E932646ABA5B0}" {
+         StartPoint 2.004 16.489 -2.75
+         EndPoint 78.121 25.931 108.219
+        }
+        Cable "{629E932646AB8D0B}" {
+         StartPoint 1.524 12.972 -2.096
+         EndPoint 77.395 22.42 108.639
+        }
+        Cable "{629E932646ABF42E}" {
+         StartPoint -1.61 20.067 1.888
+         EndPoint 73.275 29.553 111.5
+        }
+        Cable "{629E932646ABDC63}" {
+         StartPoint -2.096 16.51 2.55
+         EndPoint 72.54 26.002 111.926
+        }
+        Cable "{629E932646ABCB5B}" {
+         StartPoint -1.597 12.988 1.938
+         EndPoint 73.146 22.474 111.46
+        }
+       }
+      }
+      {
+       coords 676.599 1.84 317.772
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646AB6D69}" {
+         StartPoint 2.457 20.03 -1.276
+         EndPoint 76.168 23.706 109.537
+        }
+        Cable "{629E932646AB5B95}" {
+         StartPoint 3.071 16.462 -1.747
+         EndPoint 76.795 20.133 109.123
+        }
+        Cable "{629E932646AB423D}" {
+         StartPoint 2.345 12.951 -1.327
+         EndPoint 76.082 16.627 109.601
+        }
+        Cable "{629E932646B4A9F2}" {
+         StartPoint -1.774 20.084 1.534
+         EndPoint 71.936 23.789 112.347
+        }
+        Cable "{629E932646B49257}" {
+         StartPoint -2.51 16.533 1.96
+         EndPoint 71.214 20.243 112.829
+        }
+        Cable "{629E932646B4F96F}" {
+         StartPoint -1.903 13.005 1.494
+         EndPoint 71.834 16.71 112.421
+        }
+       }
+      }
+      {
+       coords 750.385 5.53 428.909
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B41EA3}" {
+         StartPoint 2.382 20.016 -1.6
+         EndPoint 73.137 20.114 111.48
+        }
+        Cable "{629E932646B406E4}" {
+         StartPoint 3.009 16.443 -2.014
+         EndPoint 73.912 16.574 111.035
+        }
+        Cable "{629E932646B46E58}" {
+         StartPoint 2.296 12.936 -1.536
+         EndPoint 73.307 13.036 111.42
+        }
+        Cable "{629E932646B455C2}" {
+         StartPoint -1.851 20.099 1.21
+         EndPoint 68.784 19.995 114.097
+        }
+        Cable "{629E932646B5BD4A}" {
+         StartPoint -2.572 16.553 1.692
+         EndPoint 68.171 16.417 114.486
+        }
+        Cable "{629E932646B5A559}" {
+         StartPoint -1.952 13.02 1.284
+         EndPoint 68.937 12.916 114.047
+        }
+       }
+      }
+      {
+       coords 821.802 5.53 541.543
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B5CFC8}" {
+         StartPoint 1.72 20.114 -1.153
+         EndPoint 71.229 20.08 113.163
+        }
+        Cable "{629E932646B536AD}" {
+         StartPoint 2.495 16.574 -1.599
+         EndPoint 71.863 16.512 112.722
+        }
+        Cable "{629E932646B51D2C}" {
+         StartPoint 1.89 13.036 -1.214
+         EndPoint 71.119 13.001 113.11
+        }
+        Cable "{629E932646B5045F}" {
+         StartPoint -2.633 19.995 1.463
+         EndPoint 66.875 20.135 115.78
+        }
+        Cable "{629E932646B573F6}" {
+         StartPoint -3.246 16.417 1.853
+         EndPoint 66.122 16.585 116.174
+        }
+        Cable "{629E932646B55ACB}" {
+         StartPoint -2.48 12.916 1.413
+         EndPoint 66.749 13.056 115.738
+        }
+       }
+      }
+      {
+       coords 890.52 5.581 655.882
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B6FCD7}" {
+         StartPoint 2.51 20.029 -1.176
+         EndPoint 70.416 8.081 112.862
+        }
+        Cable "{629E932646B6EB74}" {
+         StartPoint 3.145 16.461 -1.617
+         EndPoint 71.195 4.536 112.475
+        }
+        Cable "{629E932646B6D2D0}" {
+         StartPoint 2.4 12.95 -1.229
+         EndPoint 70.594 1.004 112.916
+        }
+        Cable "{629E932646B6395C}" {
+         StartPoint -1.844 20.084 1.441
+         EndPoint 66.063 7.999 115.479
+        }
+        Cable "{629E932646B6270E}" {
+         StartPoint -2.597 16.534 1.835
+         EndPoint 65.454 4.428 115.927
+        }
+        Cable "{629E932646B60E24}" {
+         StartPoint -1.97 13.006 1.399
+         EndPoint 66.224 0.922 115.545
+        }
+       }
+      }
+      {
+       coords 959.239 -6.432 770.221
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B7B18F}" {
+         StartPoint 1.697 20.095 -1.478
+         EndPoint 61.738 13.49 118.339
+        }
+        Cable "{629E932646B7986C}" {
+         StartPoint 2.477 16.549 -1.865
+         EndPoint 62.415 9.919 117.991
+        }
+        Cable "{629E932646B7873A}" {
+         StartPoint 1.875 13.017 -1.424
+         EndPoint 61.646 6.41 118.352
+        }
+        Cable "{629E932646B7EE5B}" {
+         StartPoint -2.655 20.013 1.14
+         EndPoint 57.175 13.56 120.571
+        }
+        Cable "{629E932646B7D505}" {
+         StartPoint -3.265 16.441 1.587
+         EndPoint 56.396 10.012 120.936
+        }
+        Cable "{629E932646B7C3AC}" {
+         StartPoint -2.495 12.935 1.205
+         EndPoint 57.065 6.481 120.592
+        }
+       }
+      }
+      {
+       coords 1018.41 -12.965 889.723
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B76627}" {
+         StartPoint 2.567 20.023 -1.163
+         EndPoint 61.23 33.812 118.653
+        }
+        Cable "{629E932646B74D3E}" {
+         StartPoint 3.244 16.452 -1.511
+         EndPoint 61.896 30.239 118.305
+        }
+        Cable "{629E932646B0B490}" {
+         StartPoint 2.476 12.943 -1.15
+         EndPoint 61.115 26.733 118.664
+        }
+        Cable "{629E932646B09CC5}" {
+         StartPoint -1.996 20.093 1.069
+         EndPoint 56.668 33.897 120.885
+        }
+        Cable "{629E932646B08B68}" {
+         StartPoint -2.774 16.545 1.434
+         EndPoint 55.878 30.351 121.248
+        }
+        Cable "{629E932646B0F271}" {
+         StartPoint -2.105 13.014 1.09
+         EndPoint 56.534 26.818 120.904
+        }
+       }
+      }
+      {
+       coords 1077.007 0.832 1009.535
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B014F1}" {
+         StartPoint 2.634 20.014 -1.157
+         EndPoint 61.707 28.693 117.951
+        }
+        Cable "{629E932646B0033B}" {
+         StartPoint 3.299 16.441 -1.506
+         EndPoint 62.282 25.115 117.505
+        }
+        Cable "{629E932646B069B9}" {
+         StartPoint 2.519 12.935 -1.146
+         EndPoint 61.54 21.615 117.979
+        }
+        Cable "{629E932646B05090}" {
+         StartPoint -1.929 20.099 1.074
+         EndPoint 57.544 28.81 120.86
+        }
+        Cable "{629E932646B1BFA2}" {
+         StartPoint -2.719 16.553 1.437
+         EndPoint 56.792 25.27 121.341
+        }
+        Cable "{629E932646B1A6B9}" {
+         StartPoint -2.063 13.021 1.094
+         EndPoint 57.36 21.733 120.9
+        }
+       }
+      }
+      {
+       coords 1136.135 9.53 1129.037
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B1CAA2}" {
+         StartPoint 2.579 19.995 -1.551
+         EndPoint 78.474 20.046 107.408
+        }
+        Cable "{629E932646B132A8}" {
+         StartPoint 3.154 16.417 -1.997
+         EndPoint 79.147 16.476 107.049
+        }
+        Cable "{629E932646B11A02}" {
+         StartPoint 2.412 12.917 -1.522
+         EndPoint 78.5 12.969 107.609
+        }
+        Cable "{629E932646B101D2}" {
+         StartPoint -1.584 20.112 1.358
+         EndPoint 74.308 20.119 110.315
+        }
+        Cable "{629E932646B168DE}" {
+         StartPoint -2.336 16.572 1.839
+         EndPoint 73.653 16.573 110.883
+        }
+        Cable "{629E932646B157D7}" {
+         StartPoint -1.768 13.035 1.398
+         EndPoint 74.318 13.043 110.527
+        }
+       }
+      }
+      {
+       coords 1212.579 9.561 1238.483
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B2FB48}" {
+         StartPoint 2.029 20.015 -2.039
+         EndPoint 78.731 20.196 107.526
+        }
+        Cable "{629E932646B2E279}" {
+         StartPoint 2.703 16.444 -2.398
+         EndPoint 79.359 16.619 107.145
+        }
+        Cable "{629E932646B2C9C8}" {
+         StartPoint 2.056 12.937 -1.838
+         EndPoint 78.668 13.118 107.686
+        }
+        Cable "{629E932646B2300C}" {
+         StartPoint -2.137 20.088 0.868
+         EndPoint 74.567 20.306 110.433
+        }
+        Cable "{629E932646B21F0A}" {
+         StartPoint -2.791 16.542 1.436
+         EndPoint 73.867 16.765 110.979
+        }
+        Cable "{629E932646B205A2}" {
+         StartPoint -2.126 13.011 1.08
+         EndPoint 74.486 13.229 110.603
+        }
+       }
+      }
+      {
+       coords 1289.023 9.759 1347.929
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B3A670}" {
+         StartPoint 2.287 19.998 -1.919
+         EndPoint 78.996 19.806 107.963
+        }
+        Cable "{629E932646B38D30}" {
+         StartPoint 2.915 16.422 -2.3
+         EndPoint 79.576 16.231 107.504
+        }
+        Cable "{629E932646B3F44D}" {
+         StartPoint 2.224 12.92 -1.76
+         EndPoint 78.838 12.728 107.968
+        }
+        Cable "{629E932646B3E2A0}" {
+         StartPoint -1.877 20.109 0.987
+         EndPoint 74.833 19.908 110.872
+        }
+        Cable "{629E932646B3C961}" {
+         StartPoint -2.577 16.567 1.534
+         EndPoint 74.086 16.365 111.341
+        }
+        Cable "{629E932646B33796}" {
+         StartPoint -1.958 13.031 1.158
+         EndPoint 74.659 12.83 110.889
+        }
+       }
+      }
+      {
+       coords 1365.468 9.561 1457.376
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B3593D}" {
+         StartPoint 2.552 20.003 -1.483
+         EndPoint 78.486 20.018 107.456
+        }
+        Cable "{629E932646B34156}" {
+         StartPoint 3.132 16.428 -1.942
+         EndPoint 79.158 16.448 107.088
+        }
+        Cable "{629E932646BCA4BB}" {
+         StartPoint 2.394 12.925 -1.479
+         EndPoint 78.509 12.94 107.64
+        }
+        Cable "{629E932646BC8C88}" {
+         StartPoint -1.611 20.105 1.426
+         EndPoint 74.321 20.088 110.363
+        }
+        Cable "{629E932646BCFB2A}" {
+         StartPoint -2.358 16.563 1.895
+         EndPoint 73.664 16.54 110.922
+        }
+        Cable "{629E932646BCE212}" {
+         StartPoint -1.785 13.028 1.442
+         EndPoint 74.327 13.01 110.559
+        }
+       }
+      }
+      {
+       coords 1441.912 9.561 1566.822
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BC00C8}" {
+         StartPoint 2.042 20.018 -1.99
+         EndPoint 89.682 20.078 97.734
+        }
+        Cable "{629E932646BC6FBA}" {
+         StartPoint 2.714 16.448 -2.358
+         EndPoint 90.291 16.524 97.161
+        }
+        Cable "{629E932646BC574A}" {
+         StartPoint 2.064 12.94 -1.807
+         EndPoint 89.769 12.998 97.732
+        }
+        Cable "{629E932646BDBDEA}" {
+         StartPoint -2.123 20.088 0.917
+         EndPoint 86.109 20.04 101.347
+        }
+        Cable "{629E932646BDA4F6}" {
+         StartPoint -2.78 16.54 1.476
+         EndPoint 85.58 16.474 101.925
+        }
+        Cable "{629E932646BD8C49}" {
+         StartPoint -2.117 13.01 1.112
+         EndPoint 86.182 12.96 101.357
+        }
+       }
+      }
+      {
+       coords 1530.032 9.561 1666.374
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BD30CA}" {
+         StartPoint 1.562 20.078 -1.817
+         EndPoint 96.566 20.108 92.573
+        }
+        Cable "{629E932646BD1EA4}" {
+         StartPoint 2.171 16.524 -2.391
+         EndPoint 97.149 16.567 91.902
+        }
+        Cable "{629E932646BD066B}" {
+         StartPoint 1.648 12.998 -1.819
+         EndPoint 96.601 13.031 92.376
+        }
+        Cable "{629E932646BD6D66}" {
+         StartPoint -2.011 20.04 1.795
+         EndPoint 92.993 19.997 96.183
+        }
+        Cable "{629E932646BD552A}" {
+         StartPoint -2.54 16.474 2.373
+         EndPoint 92.437 16.421 96.663
+        }
+        Cable "{629E932646BEBC1B}" {
+         StartPoint -1.938 12.96 1.806
+         EndPoint 93.014 12.92 96
+        }
+       }
+      }
+      {
+       coords 1624.889 9.561 1760.213
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BEE297}" {
+         StartPoint 1.709 20.108 -1.266
+         EndPoint 96.61 23.73 92.532
+        }
+        Cable "{629E932646BECAA5}" {
+         StartPoint 2.292 16.567 -1.937
+         EndPoint 97.186 20.186 91.868
+        }
+        Cable "{629E932646BE2C0B}" {
+         StartPoint 1.743 13.031 -1.463
+         EndPoint 96.629 16.652 92.35
+        }
+        Cable "{629E932646BE145E}" {
+         StartPoint -1.864 19.997 2.344
+         EndPoint 93.037 23.634 96.142
+        }
+        Cable "{629E932646BE0292}" {
+         StartPoint -2.42 16.421 2.824
+         EndPoint 92.474 20.06 96.629
+        }
+        Cable "{629E932646BE69E2}" {
+         StartPoint -1.844 12.92 2.161
+         EndPoint 93.042 16.556 95.974
+        }
+       }
+      }
+      {
+       coords 1719.747 13.19 1854.051
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BF8FAA}" {
+         StartPoint 1.753 20.102 -1.307
+         EndPoint 85.621 31.117 99.229
+        }
+        Cable "{629E932646BFF71B}" {
+         StartPoint 2.328 16.558 -1.971
+         EndPoint 86.503 27.576 99.11
+        }
+        Cable "{629E932646BFDE20}" {
+         StartPoint 1.771 13.024 -1.489
+         EndPoint 85.776 24.041 99.088
+        }
+        Cable "{629E932646BFC57C}" {
+         StartPoint -1.82 20.006 2.303
+         EndPoint 80.552 31.007 99.533
+        }
+        Cable "{629E932646BF2C41}" {
+         StartPoint -2.384 16.432 2.79
+         EndPoint 79.816 27.431 99.511
+        }
+        Cable "{629E932646BF1AE3}" {
+         StartPoint -1.815 12.928 2.135
+         EndPoint 80.687 23.93 99.393
+        }
+       }
+      }
+      {
+       coords 1803.245 24.2 1953.032
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B8B8C5}" {
+         StartPoint 2.123 20.107 0.249
+         EndPoint 10.947 7.911 133.11
+        }
+        Cable "{629E932646B8A784}" {
+         StartPoint 3.005 16.566 0.13
+         EndPoint 11.686 4.336 133.039
+        }
+        Cable "{629E932646B88E54}" {
+         StartPoint 2.278 13.03 0.107
+         EndPoint 10.818 0.832 133.065
+        }
+        Cable "{629E932646B8F4F6}" {
+         StartPoint -2.946 19.997 0.553
+         EndPoint 5.878 8.009 133.416
+        }
+        Cable "{629E932646B8E397}" {
+         StartPoint -3.682 16.421 0.53
+         EndPoint 4.999 4.465 133.443
+        }
+        Cable "{629E932646B8CAD7}" {
+         StartPoint -2.812 12.919 0.412
+         EndPoint 5.729 0.93 133.373
+        }
+       }
+      }
+      {
+       coords 1811.262 12.104 2086.17
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B86FAC}" {
+         StartPoint 2.93 20.007 -0.028
+         EndPoint 11.045 21.858 132.474
+        }
+        Cable "{629E932646B85778}" {
+         StartPoint 3.668 16.432 -0.1
+         EndPoint 11.831 18.292 132.498
+        }
+        Cable "{629E932646B9BDA2}" {
+         StartPoint 2.801 12.928 -0.073
+         EndPoint 11.011 14.78 132.641
+        }
+        Cable "{629E932646B9A3DC}" {
+         StartPoint -2.14 20.105 0.277
+         EndPoint 5.979 21.898 132.85
+        }
+        Cable "{629E932646B98A27}" {
+         StartPoint -3.019 16.561 0.305
+         EndPoint 5.149 18.346 132.994
+        }
+        Cable "{629E932646B9F195}" {
+         StartPoint -2.289 13.026 0.234
+         EndPoint 5.925 14.82 133.019
+        }
+       }
+      }
+      {
+       coords 1819.65 13.928 2219.306
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646B917D5}" {
+         StartPoint 2.658 20.034 -0.662
+         EndPoint 12.792 20.855 133.384
+        }
+        Cable "{629E932646B97E31}" {
+         StartPoint 3.444 16.468 -0.638
+         EndPoint 13.536 17.284 133.244
+        }
+        Cable "{629E932646B965A9}" {
+         StartPoint 2.624 12.956 -0.495
+         EndPoint 12.677 13.778 133.226
+        }
+        Cable "{629E932646B94CAD}" {
+         StartPoint -2.407 20.074 -0.286
+         EndPoint 7.727 20.937 133.763
+        }
+        Cable "{629E932646BAB446}" {
+         StartPoint -3.237 16.522 -0.142
+         EndPoint 6.855 17.391 133.744
+        }
+        Cable "{629E932646BAA264}" {
+         StartPoint -2.462 12.996 -0.117
+         EndPoint 7.591 13.86 133.606
+        }
+       }
+      }
+      {
+       coords 1829.553 14.772 2352.432
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BAC31C}" {
+         StartPoint 2.888 20.011 0.258
+         EndPoint 12.896 15.973 132.819
+        }
+        Cable "{629E932646BA2B77}" {
+         StartPoint 3.632 16.44 0.118
+         EndPoint 13.622 12.395 132.781
+        }
+        Cable "{629E932646BA1269}" {
+         StartPoint 2.772 12.934 0.1
+         EndPoint 12.744 8.895 132.861
+        }
+        Cable "{629E932646BA78DA}" {
+         StartPoint -2.178 20.092 0.637
+         EndPoint 7.831 16.092 133.195
+        }
+        Cable "{629E932646BA66AE}" {
+         StartPoint -3.049 16.547 0.618
+         EndPoint 6.942 12.552 133.277
+        }
+        Cable "{629E932646BA4DFC}" {
+         StartPoint -2.313 13.016 0.48
+         EndPoint 7.659 9.014 133.239
+        }
+       }
+      }
+      {
+       coords 1839.458 10.75 2485.559
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E932646BBEC4F}" {
+         StartPoint 2.992 19.995 -0.308
+         EndPoint -24.354 20.212 101.811
+        }
+        Cable "{629E932646BBDAA6}" {
+         StartPoint 3.718 16.417 -0.346
+         EndPoint -24.387 16.652 102.624
+        }
+        Cable "{629E932646BBC25D}" {
+         StartPoint 2.84 12.917 -0.266
+         EndPoint -24.479 13.133 101.827
+        }
+        Cable "{629E932646BB297F}" {
+         StartPoint -2.073 20.114 0.068
+         EndPoint -24.544 20.211 96.735
+        }
+        Cable "{629E932646BB11AD}" {
+         StartPoint -2.962 16.573 0.15
+         EndPoint -24.638 16.652 95.929
+        }
+        Cable "{629E932646BB78B3}" {
+         StartPoint -2.245 13.036 0.112
+         EndPoint -24.671 13.133 96.73
+        }
+       }
+      }
+      {
+       coords 1814.65 10.905 2584.846
+       Material "{AA7D53B131495BB1}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire.emat"
+       Cables {
+        Cable "{629E93264684B415}" {
+         StartPoint 0.455 20.057 2.525
+         EndPoint 12.525 10.13 9.57
+        }
+        Cable "{629E93264684A376}" {
+         StartPoint 0.422 16.498 3.338
+         EndPoint 12.396 10.13 6.122
+        }
+        Cable "{629E932646848A10}" {
+         StartPoint 0.329 12.978 2.541
+         EndPoint 12.261 10.13 2.524
+        }
+        Cable "{629E93264684F148}" {
+         StartPoint 0.265 20.057 -2.551
+         EndPoint 11.773 10.13 -10.466
+        }
+        Cable "{629E93264684DFA8}" {
+         StartPoint 0.171 16.497 -3.357
+         EndPoint 11.909 10.13 -6.868
+        }
+        Cable "{629E93264684C6C4}" {
+         StartPoint 0.138 12.978 -2.556
+         EndPoint 12.038 10.13 -3.431
+        }
+       }
+      }
+     }
+     $grp SCR_PowerPole : "{A48B523811F5FE6A}PrefabLibrary/DefaultLibrary/Infrastructure/Powerline/PowerLine_EHV_01_pole.et" {
+      {
+       coords -359.29 -8.001 -82.977
+       angles -1.121 0.112 1.077
+      }
+      {
+       coords -258.897 -8.001 -37.132
+       angles -1.48 82.269 0.395
+      }
+      {
+       coords -126.644 -8.001 -19.178
+       angles 0.719 82.269 -0.263
+      }
+      {
+       coords 5.684 -8.001 -2.606
+       angles -1.292 88.7 0.227
+      }
+      {
+       coords 138.885 -8.001 -0.635
+       angles 0.344 90.096 -0.44
+      }
+      {
+       coords 272.382 -9.299 -0.859
+       angles -0.06 90.096 1.046
+      }
+      {
+       coords 390.37 -9.47 44.438
+       angles 0.5 52.274 -0.208
+      }
+      {
+       coords 495.959 -9.47 126.122
+       angles -1.475 52.274 0.278
+      }
+      {
+       coords 601.549 -7.629 207.807
+       angles 0.339 52.274 0.176
+      }
+      {
+       coords 676.599 1.84 317.773
+       angles -0.847 33.581 0.609
+      }
+      {
+       coords 750.385 5.53 428.909
+       angles 0.045 33.581 0.941
+      }
+      {
+       coords 821.802 5.53 541.543
+       angles 0.293 31.006 -1.345
+      }
+      {
+       coords 890.521 5.581 655.882
+       angles -0.815 31.006 0.62
+      }
+      {
+       coords 959.24 -6.432 770.222
+       angles 1.119 31.006 -0.925
+      }
+      {
+       coords 1018.41 -12.965 889.724
+       angles -0.238 26.062 0.791
+      }
+      {
+       coords 1077.006 0.832 1009.535
+       angles -0.333 26.062 0.957
+      }
+      {
+       coords 1136.135 9.53 1129.038
+       angles -0.586 34.933 1.325
+      }
+      {
+       coords 1212.58 9.562 1238.484
+       angles 1.459 34.933 0.832
+      }
+      {
+       coords 1289.024 9.759 1347.93
+       angles 0.757 34.933 1.244
+      }
+      {
+       coords 1365.468 9.562 1457.376
+       angles -0.699 34.933 1.15
+      }
+      {
+       coords 1441.913 9.562 1566.823
+       angles 1.326 34.933 0.785
+      }
+      {
+       coords 1530.032 9.562 1666.374
+       angles 0.48 45.309 -0.426
+      }
+      {
+       coords 1624.89 9.562 1760.213
+       angles -0.924 45.309 -1.249
+      }
+      {
+       coords 1719.747 13.19 1854.052
+       angles -0.93 45.309 -1.078
+      }
+      {
+       coords 1803.245 24.2 1953.033
+       angles -1.07 3.447 -1.242
+      }
+      {
+       coords 1811.263 12.104 2086.171
+       angles -0.419 3.447 1.105
+      }
+      {
+       coords 1819.65 13.928 2219.307
+       angles 1.327 4.255 0.455
+      }
+      {
+       coords 1829.554 14.772 2352.434
+       angles -1.347 4.255 0.916
+      }
+      {
+       coords 1839.458 10.75 2485.56
+       angles 0.245 4.255 1.335
+      }
+      {
+       coords 1814.65 10.905 2584.848
+       angles 1.027 272.148 -0.003
+      }
+     }
+    }
+   }
+  }
+ }
+}
+SplineShapeEntity {
+ coords 9653.68 -2.906 14147.292
+ Points {
+  ShapePoint "{61E0FC8757CFEE52}" {
+   Position 5.354 0.144 0.812
+  }
+  ShapePoint "{61E0FC8757CF9217}" {
+   Position -14.067 0 -2.312
+  }
+ }
+ {
+  RoadGeneratorEntity : "{C5720417BBC0FFBC}Prefabs/WEGenerators/Decals/Runway/RG_Runway_Line80_01.et" {
+   coords 0 0 0
+   {
+    RoadEntity {
+     ID "56A8C9F9AF69987F"
+     SplinePoints {
+      ShapePoint "{56A8C9FA35C571F9}" {
+       Position 5.354 0.144 0.812
+      }
+      ShapePoint "{56A8C9FA35C57048}" {
+       Position -14.067 0 -2.312
+      }
+     }
+     IsClosedSpline 0
+     Width 0.9
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{00B6CAF6E4A5BAB4}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_busbars.et" {
+ coords 12304.72 0 8692.313
+ angles 0 88.349 0
+}
+$grp GenericEntity : "{026714237FB820CB}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_07.et" {
+ {
+  coords 12182.464 11.173 8529.174
+ }
+ {
+  coords 12179.067 11.088 8525.393
+ }
+ {
+  coords 12183.191 11.07 8524.314
+ }
+ {
+  coords 12181.004 11 8513.248
+ }
+ {
+  coords 12186.491 11 8508.66
+ }
+}
+SCR_DestructibleEntity : "{070A8554855B43A6}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_D.et" {
+ coords 12303.302 0 8688.889
+ angles 0 179.027 0
+}
+$grp SCR_DestructibleEntity : "{08403A2F4EFF76A4}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_curve_90_short.et" {
+ {
+  coords 12021.788 21.896 8655.99
+  angles 180 90 0
+  scale 3.5
+ }
+ {
+  coords 12021.667 21.896 8662.318
+  angles 180 90 0
+  scale 3.5
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{0E1B7B383F318A66}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_03/FuelTank_03_orange.et" {
+ {
+  coords 12163.182 0.028 8668.249
+  angles 0 31.96 0
+ }
+ {
+  coords 12426.674 0.001 8625.813
+  angles 0 90 0
+ }
+ {
+  coords 12426.574 0.001 8643.928
+  angles 0 90 0
+ }
+ {
+  coords 12426.555 0.001 8661.824
+  angles 0 90 0
+ }
+ {
+  coords 12426.53 0.001 8679.807
+  angles 0 90 0
+ }
+ {
+  coords 12466.998 0.001 8676.604
+  angles 0 270 0
+ }
+ {
+  coords 12467.023 0.001 8658.618
+  angles 0 270 0
+ }
+ {
+  coords 12467.043 0.001 8640.725
+  angles 0 270 0
+ }
+ {
+  coords 12467.143 0.001 8622.607
+  angles 0 270 0
+ }
+}
+$grp GenericEntity : "{0F8375D9ABC3A69B}Prefabs/Props/Civilian/Industrial/Fueltanks/FuelTank01_Rusty.et" {
+ {
+  coords 12307.4 0 8738.064
+  angles 0 89.482 0
+ }
+ {
+  coords 12292.508 0 8773.2
+  angles 0 -89.246 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{12310677867A85D4}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01.et" {
+ {
+  coords 12395.473 0.468 8666.637
+  angles 0 270 0
+ }
+ {
+  coords 12395.474 0.468 8624.021
+  angles 0 270 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{12C531A3B1CE3D56}Prefabs/Structures/Industrial/Smokestacks/SmokestackBrick_E_01/SmokestackBrick_E_01.et" {
+ coords 12289.533 0.001 8754.571
+}
+$grp SCR_DestructibleBuildingEntity : "{1350F724723AAC87}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_V3.et" {
+ {
+  coords 12021.727 0.266 8688.378
+  angles 0 -90.349 0
+ }
+ {
+  coords 12090.291 5.293 8684.604
+  angles 0 90 0
+ }
+ {
+  coords 12417.421 0.435 8595.216
+  angles 0 180 0
+ }
+}
+$grp GenericEntity : "{14225F5BB48F0C00}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_base.et" {
+ {
+  coords 12375.665 32 8605.746
+  angles 0 72.136 0
+ }
+ {
+  coords 12379.433 32 8580.593
+  angles 0 -153.034 0
+ }
+}
+$grp StaticModelEntity : "{19A3C48FC2665A3F}Prefabs/Props/Construction/GravelPile_01/GravelPile_01_large.et" {
+ {
+  coords 11922.834 6.906 8771.613
+ }
+ {
+  coords 11927.92 6.906 8763.459
+ }
+ {
+  coords 11921.599 6.906 8764.913
+ }
+ {
+  coords 11790.25 5.357 8799.64
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11834.745 5.321 8815.968
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11715.606 5.176 8769.4
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11719.451 5.816 8763.824
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11850.442 5 8839.147
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11859.714 3.506 8834.195
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11851.619 2.658 8829.076
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11858.972 2.363 8827.352
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11863.138 2.802 8829.482
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 11847.419 5.003 8832.486
+  angles 0 107.985 0
+  scale 1.226
+ }
+ {
+  coords 11853.303 5.112 8826.572
+  angles 0 107.985 -17.41
+  scale 1.042
+ }
+ {
+  coords 11859.921 5.278 8824.683
+  angles 3.584 107.151 -12.09
+  scale 1.042
+ }
+ {
+  coords 12197.273 20.592 8601.582
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 12191.37 20.037 8598.661
+  angles 0 107.985 0
+  scale 1.68
+ }
+ {
+  coords 12198.109 19.672 8592.264
+  angles 0 107.985 0
+  scale 1.68
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{1C87C72319097FC1}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_4m.et" {
+ {
+  coords 12449.593 20.181 8508.797
+ }
+ {
+  coords 12311.526 29.093 8544.145
+  angles 0 -60.401 0
+ }
+ {
+  coords 12313.449 29.093 8547.53
+  angles 0 -60.401 0
+ }
+}
+$grp GenericEntity : "{1CF33A86C184B00B}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_Duvanblade.et" {
+ {
+  coords 12338.494 32 8743.846
+  angles 0 90.253 0
+ }
+ {
+  coords 12338.472 32 8741.17
+  angles 0 90.253 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{1D9EC3B160FFCF72}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Main_damaged.et" {
+ coords 12074.937 0.112 8548.601
+ angles 0 -1.168 0
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02.et" {
+ {
+  coords 11943.938 -4.353 8833.588
+  scale 2.11
+ }
+ {
+  coords 11947.995 -3.998 8834.269
+  scale 2.11
+ }
+ {
+  coords 11947.234 -3.507 8834.15
+  angles 61.92 61.474 105.206
+  scale 2.11
+ }
+}
+SCR_DestructibleBuildingEntity : "{1F5DE8371A7EA3B1}Prefabs/Structures/Industrial/ConstructionBuilding_A.et" {
+ coords 11745.115 0 8806.264
+ angles 0 132.671 0
+}
+SCR_DestructibleBuildingEntity : "{1FE3B590D2A1654D}Prefabs/Structures/Infrastructure/Power/TransformerSubstation_01/TransformerSubstation_01_white.et" {
+ coords 12300.389 0.416 8689.953
+ angles 0 178.829 0
+}
+$grp GenericEntity : "{22E2462FA3AE0849}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Long_Pile.et" {
+ {
+  coords 11912.503 6.906 8726.661
+  angles 0 -139.775 0
+ }
+ {
+  coords 11911.966 6.906 8732.449
+  angles 0 179.051 0
+ }
+ {
+  coords 11720.226 6.906 8782.629
+  angles 0 24.203 0
+ }
+ {
+  coords 11728.889 6.906 8779.576
+  angles 0 -21.305 0
+ }
+ {
+  coords 12090.449 28.083 8643.963
+  angles 0 -139.775 0
+ }
+ {
+  coords 12089.912 28.083 8649.751
+  angles 0 179.051 0
+ }
+ {
+  coords 12200.881 21 8572.772
+  angles 0 -21.305 0
+ }
+ {
+  coords 12207.423 21.285 8568.985
+  angles 2.01 64.891 -0.572
+ }
+ {
+  coords 12241.675 21 8541.288
+  angles 0 -15.627 0
+ }
+ {
+  coords 12248.587 21.093 8547.926
+  angles 0 -91.912 0
+ }
+ {
+  coords 12134.968 31.782 8689.188
+  angles 0 -50.538 0
+ }
+}
+$grp SCR_DestructibleEntity : "{2591F1D52FD5DC65}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_8m.et" {
+ {
+  coords 12410.286 0 8633
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8624.977
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8644.063
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8652.087
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8662.365
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8670.247
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8680.528
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8688.119
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8688.116
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8680.525
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8670.247
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8662.362
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8652.087
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8644.063
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8633.517
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8625.496
+  angles 0 90 0
+ }
+}
+$grp GenericEntity : "{25A6AF67C5C1FEDA}Prefabs/Structures/Signs/Warnings/SignStop_01_pole.et" {
+ {
+  coords 12346.697 32.132 8590.687
+  angles 0 -98.686 0
+ }
+ {
+  coords 12159.083 32.095 8779.776
+  angles 0 179.041 0
+ }
+ {
+  coords 12353.365 32 8690.744
+  angles 0 102.438 0
+ }
+}
+$grp GenericEntity : "{25C8B889A777399D}Prefabs/Props/Infrastructure/ConeTraffic/ConeTraffic_01_red.et" {
+ {
+  coords 11877.874 6.906 8829.22
+ }
+ {
+  coords 11875.179 6.906 8827.844
+ }
+ {
+  coords 11871.898 6.906 8826.478
+ }
+ {
+  coords 11867.624 6.859 8824.512
+  angles 0 0 -7.125
+ }
+ {
+  coords 11862.29 6.754 8821.498
+  angles -5.799 0 0
+ }
+ {
+  coords 11857.346 6.668 8821.8
+  angles -7.565 0 0
+ }
+ {
+  coords 11852.75 6.906 8822.158
+ }
+ {
+  coords 11849.831 6.906 8823.257
+ }
+ {
+  coords 11846.894 6.835 8825.762
+  angles -6.168 -0.677 6.278
+ }
+ {
+  coords 11844.759 6.824 8830.204
+  angles 0 0 6.242
+ }
+ {
+  coords 12095.325 28.544 8658.982
+  angles -0.448 0.042 0.447
+ }
+ {
+  coords 12092.997 28.561 8659.227
+  angles -0.448 0.042 0.447
+ }
+ {
+  coords 12089.918 28.562 8659.547
+  angles 0 0.042 0
+ }
+ {
+  coords 12087.732 28.523 8659.556
+  angles 0.438 -0.076 -7.566
+ }
+ {
+  coords 12085.531 28.225 8658.701
+  angles 0.438 -0.076 -7.566
+ }
+ {
+  coords 12081.553 27.861 8657.363
+  angles 0 0.042 0
+ }
+}
+StaticModelEntity : "{2692D2E817172D1B}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Long_S.et" {
+ coords 12322.479 0.034 8645.76
+ angles 0 -91.892 0
+}
+$grp GenericEntity : "{26B52B03BB61795E}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_green.et" {
+ {
+  coords 12040.642 22.174 8695.056
+  angles 0 178.694 0
+ }
+ {
+  coords 12107.479 15.93 8619.439
+  angles 0 90 0
+ }
+}
+GenericEntity : "{2A5CFC83306263A4}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_ENP.et" {
+ coords 12336.853 32 8749.703
+ angles 0 -2.414 0
+}
+$grp GenericEntity : "{2BF58454BEAB913D}Prefabs/Props/Industrial/Pallets/WoodenPalletBox_01_Wood.et" {
+ {
+  coords 12117.173 27.916 8685.127
+  angles 0 -91.209 0
+ }
+ {
+  coords 12051.919 19.598 8674.798
+  angles 0 90 0
+ }
+ {
+  coords 12145.438 32 8776.585
+  angles 0 90 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{2D4B0333F2858BDD}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_02/FuelTank_02_Pump_grey.et" {
+ {
+  coords 12360.104 0.042 8727.545
+  angles 0 270 0
+ }
+ {
+  coords 11971.229 0.152 8805.76
+  angles 0 60.956 0
+ }
+}
+$grp GenericEntity : "{2DFD11FA1B85A6CA}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_grey.et" {
+ {
+  coords 11776.003 6.906 8796.394
+  angles 0 141.296 0
+ }
+ {
+  coords 12043.983 22.118 8687.022
+  angles 0 -90.348 0
+ }
+ {
+  coords 12043.954 19.581 8692.404
+  angles 0 -90.348 0
+ }
+ {
+  coords 12089.943 18.451 8620.366
+  angles 0 -90.348 0
+ }
+}
+$grp SCR_DestructibleEntity : "{2FC8C07706891F0D}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_junction_T.et" {
+ {
+  coords 11974.543 8.156 8811.262
+  angles 0 -27.634 -89.145
+  scale 3.5
+ }
+ {
+  coords 11972.127 8.252 8811.131
+  angles 0 -27.634 94.267
+  scale 3.5
+ }
+}
+$grp StaticModelEntity : "{306AC2C47CCB2E47}Prefabs/Structures/Infrastructure/Pavements/ConcreteKerb_01/ConcreteKerb_01_8m_v2.et" {
+ {
+  coords 11829.173 0 8811.52
+  angles 0 90 0
+ }
+ {
+  coords 11829.173 0 8819.502
+  angles 0 90 0
+ }
+ {
+  coords 11821.227 0 8821.462
+ }
+ {
+  coords 11815.195 0 8815.983
+  angles 0 -43.103 0
+ }
+ {
+  coords 11815.228 0 8815.976
+  angles 0 90 0
+ }
+ {
+  coords 11815.228 0 8807.987
+  angles 0 90 0
+ }
+ {
+  coords 11815.228 0 8799.977
+  angles 0 90 0
+ }
+ {
+  coords 11815.303 0 8791.934
+  angles 0 17.251 0
+ }
+ {
+  coords 11822.938 0 8789.563
+  angles 0 17.251 0
+ }
+ {
+  coords 11828.895 0 8780.239
+  angles 0 178.944 0
+ }
+ {
+  coords 11820.793 0 8780.09
+  angles 0 178.944 0
+ }
+ {
+  coords 11812.875 0 8779.863
+  angles 0 89.638 0
+ }
+ {
+  coords 11812.929 0 8771.863
+  angles 0 67.274 0
+ }
+ {
+  coords 11816.018 0 8764.465
+  angles 0 10.883 0
+ }
+ {
+  coords 11823.963 1.016 8763
+  angles 0 -51.945 0
+ }
+ {
+  coords 11950.55 0 8810.011
+  angles 0 45.533 0
+ }
+ {
+  coords 11956.163 0 8804.29
+  angles 0 48.001 0
+ }
+ {
+  coords 11961.555 0 8798.303
+  angles 0 53.658 0
+ }
+ {
+  coords 11963.7 0 8799.312
+  angles 0 69.227 0
+ }
+ {
+  coords 11958.814 0 8805.477
+  angles 0 51.333 0
+ }
+ {
+  coords 11953.874 0 8811.649
+  angles 0 51.333 0
+ }
+ {
+  coords 11946.75 0 8815.424
+  angles 0 27.919 0
+ }
+ {
+  coords 11944.896 0 8815.771
+  angles 0 45.533 0
+ }
+ {
+  coords 12046.713 0.462 8554.513
+  angles 0 90.989 0
+ }
+ {
+  coords 12046.713 0.462 8554.513
+  angles 0 178.769 0
+ }
+ {
+  coords 12038.736 0.462 8554.342
+  angles 0 178.769 0
+ }
+ {
+  coords 12030.743 0.393 8554.167
+  angles 0 178.769 0
+ }
+ {
+  coords 12022.819 0.462 8553.998
+  angles 0 147.058 0
+ }
+ {
+  coords 12016.236 0.256 8549.732
+  angles 0 112.788 0
+ }
+ {
+  coords 12065.222 0.06 8554.86
+  angles 0 178.769 0
+ }
+ {
+  coords 12073.161 -0.012 8555.031
+  angles 0 178.769 0
+ }
+ {
+  coords 12081.097 0.01 8555.201
+  angles 0 178.769 0
+ }
+ {
+  coords 12089.028 0.089 8555.372
+  angles 0 178.769 0
+ }
+ {
+  coords 12089.027 0.089 8555.372
+  angles 0 19.018 0
+ }
+ {
+  coords 12096.617 -0.041 8552.755
+  angles 0 72.483 0
+ }
+ {
+  coords 12099.026 -0.082 8545.119
+  angles 0 72.483 0
+ }
+ {
+  coords 12067.071 -0.203 8691.455
+  angles 0 -91.125 0
+ }
+ {
+  coords 12066.914 -0.029 8699.425
+  angles 0 -95.152 0
+ }
+ {
+  coords 12066.195 -0.029 8707.37
+  angles 0 -125.918 0
+ }
+ {
+  coords 12061.546 -0.029 8713.786
+  angles 0 -140.471 0
+ }
+ {
+  coords 12067.071 -0.203 8691.455
+  angles 0 -3.274 0
+ }
+ {
+  coords 12034.286 -0.029 8721.12
+  angles 0 173.95 0
+ }
+ {
+  coords 12026.354 -0.029 8720.279
+  angles 0 166.93 0
+ }
+ {
+  coords 12018.513 -0.029 8718.459
+  angles 0 149.663 0
+ }
+ {
+  coords 12011.573 -0.029 8714.397
+  angles 0 120.527 0
+ }
+ {
+  coords 12007.925 -0.014 8708.211
+  angles 0 120.527 0
+ }
+ {
+  coords 12313.999 0 8648.006
+  angles 0 -90.167 0
+ }
+ {
+  coords 12313.978 0 8656
+  angles 0 -90.167 0
+ }
+ {
+  coords 12313.954 0 8663.991
+  angles 0 -90.167 0
+ }
+ {
+  coords 12310.363 0 8663.98
+  angles 0 -90.167 0
+ }
+ {
+  coords 12310.389 0 8655.989
+  angles 0 -90.167 0
+ }
+ {
+  coords 12310.409 0 8647.995
+  angles 0 -90.167 0
+ }
+ {
+  coords 12427.688 0 8588.272
+  angles 0 92.15 0
+ }
+ {
+  coords 12427.342 0 8580.433
+  angles 0 -179.08 0
+ }
+ {
+  coords 12419.354 0 8580.56
+  angles 0 -179.08 0
+ }
+ {
+  coords 12411.342 0 8580.688
+  angles 0 -172.393 0
+ }
+ {
+  coords 12403.432 0 8581.744
+  angles 0 -163.507 0
+ }
+ {
+  coords 12395.64 0 8584.051
+  angles 0 -140.268 0
+ }
+ {
+  coords 12389.671 0 8589.173
+  angles 0 1.363 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{323D779591F59437}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_02/ConcreteRetainingWall_02_8m_grass.et" {
+ {
+  coords 12492.341 23.706 8665.188
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8681.8
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8598.742
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8615.349
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8631.966
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8648.573
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8698.412
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12492.341 23.706 8715.02
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8665.188
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8681.8
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8598.742
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8615.349
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8631.966
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8648.573
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8698.412
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12399.697 23.706 8715.02
+  angles 0 90 0
+  scale 2.08
+ }
+ {
+  coords 12479.868 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12463.274 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12430.085 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12446.68 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12396.888 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12413.482 23.706 8719.271
+  scale 2.08
+ }
+ {
+  coords 12479.867 23.706 8598.554
+  scale 2.08
+ }
+ {
+  coords 12463.274 23.706 8598.555
+  scale 2.08
+ }
+ {
+  coords 12430.085 23.706 8598.555
+  scale 2.08
+ }
+ {
+  coords 12396.888 23.706 8598.555
+  scale 2.08
+ }
+ {
+  coords 12413.482 23.706 8598.555
+  scale 2.08
+ }
+}
+$grp StaticModelEntity : "{33AEFFFFC0CFE964}Prefabs/Structures/BuildingParts/Entry/Doorstep_02_5m.et" {
+ {
+  coords 12116.507 9.017 8476.575
+  scale 1.3
+ }
+ {
+  coords 12116.508 9.017 8483.146
+  scale 1.3
+ }
+ {
+  coords 12116.507 9.017 8489.646
+  scale 1.3
+ }
+}
+StaticModelEntity : "{35E14C4C60C4A4F3}Prefabs/Structures/Agriculture/WeightStation/WeightStation_01/BuildingAddons/WeightStation_01_platform.et" {
+ coords 12151.146 32 8762.337
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{38CC50480D29CCFD}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_Boulder_01/Granite_Boulder_01.et" {
+ {
+  coords 12130.047 0 8177.319
+  angles 38.705 121.202 -64.905
+  scale 0.794
+ }
+ {
+  coords 12123.249 0 8181.028
+  angles -2.637 -12.386 -11.511
+  scale 0.85
+ }
+ {
+  coords 12196.225 0 8212.947
+  angles -7.939 124.695 162.9
+  scale 1.117
+ }
+ {
+  coords 12193.654 -0.001 8213.564
+  angles -77.33 101.664 9.842
+  scale 0.781
+ }
+ {
+  coords 12218.385 0 8219.677
+  angles 38.066 -86.113 -107.93
+  scale 0.922
+ }
+ {
+  coords 12210.882 0 8195.191
+  angles -58.12 162.201 138.569
+  scale 1.018
+ }
+ {
+  coords 12264.697 0 8221.591
+  angles -26.631 -123.622 105.254
+  scale 0.842
+ }
+ {
+  coords 12231.061 0 8192.258
+  angles 56.004 -120.471 34.871
+  scale 0.919
+ }
+ {
+  coords 12165.843 0.001 8180.987
+  angles -44.012 -46.756 -18.784
+  scale 0.951
+ }
+ {
+  coords 12263.822 -0.001 8246.158
+  angles -67.989 -112.224 -177.51
+  scale 1.07
+ }
+ {
+  coords 12360.885 0 8286.902
+  angles 38.72 160.684 -63.601
+  scale 0.794
+ }
+ {
+  coords 12357.905 0 8294.049
+  angles -1.915 26.309 -12.229
+  scale 0.85
+ }
+ {
+  coords 12434.692 0 8273.332
+  angles -7.978 163.219 163.926
+  scale 1.117
+ }
+ {
+  coords 12433.063 0 8275.413
+  angles -76.935 136.225 14.053
+  scale 0.781
+ }
+ {
+  coords 12456.231 0 8264.752
+  angles 37.575 -48.138 -109.057
+  scale 0.922
+ }
+ {
+  coords 12435.164 0 8250.352
+  angles -58.762 -160.418 140.077
+  scale 1.018
+ }
+ {
+  coords 12493.821 0 8237.387
+  angles -27.56 -84.744 104.788
+  scale 0.842
+ }
+ {
+  coords 12449.276 0 8235.516
+  angles 55.095 -82.472 34.062
+  scale 0.919
+ }
+ {
+  coords 12391.07 0 8267.38
+  angles -43.813 -7.13 -20.169
+  scale 0.951
+ }
+ {
+  coords 12508.364 -0.001 8257.076
+  angles -68.811 -72.045 -179.138
+  scale 1.07
+ }
+}
+$grp SCR_DestructibleEntity : "{3C2E83667F3B45E3}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_Pole.et" {
+ {
+  coords 12418.427 0 8680.084
+ }
+ {
+  coords 12418.427 0 8662.187
+ }
+ {
+  coords 12418.427 0 8644.075
+ }
+ {
+  coords 12418.427 0 8625.778
+ }
+ {
+  coords 12418.427 0 8640.141
+ }
+ {
+  coords 12418.427 0 8658.359
+ }
+ {
+  coords 12418.427 0 8676.484
+ }
+ {
+  coords 12418.427 0 8622.541
+ }
+ {
+  coords 12420.009 0 8611.188
+ }
+ {
+  coords 12410.286 0 8612.89
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8636.021
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8654.307
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8672.472
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8690.521
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8672.475
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8654.307
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8636.021
+  angles 0 90 0
+ }
+ {
+  coords 12483.396 0 8613.406
+  angles 0 90 0
+ }
+ {
+  coords 12479.719 0 8680.084
+ }
+ {
+  coords 12479.719 0 8662.209
+ }
+ {
+  coords 12479.719 0 8644.027
+ }
+ {
+  coords 12479.719 0 8625.821
+ }
+ {
+  coords 12479.719 0 8622.196
+ }
+ {
+  coords 12479.763 0 8611.188
+ }
+ {
+  coords 12475.5 0 8640.252
+  angles 0 180 0
+ }
+ {
+  coords 12475.5 0 8658.445
+  angles 0 180 0
+ }
+ {
+  coords 12475.5 0 8676.505
+  angles 0 180 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{3E9351A51C652BE7}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_02/FuelTank_02_Pump_yellow.et" {
+ coords 12360.105 0.042 8716.381
+ angles 0 270 0
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
+ {
+  coords 11715.619 2.674 8877.174
+  angles 26.936 122.267 14.211
+ }
+ {
+  coords 12245.301 10.328 8490.619
+  angles 36.934 -106.046 99.674
+ }
+ {
+  coords 12246.334 9.084 8496.359
+  angles 55.136 -3.341 92.754
+ }
+ {
+  coords 12256.981 7.506 8497.556
+  angles 55.136 -3.341 76.867
+ }
+ {
+  coords 12274.666 7.972 8496.19
+  angles 55.136 -3.341 76.867
+ }
+ {
+  coords 12294.109 10.833 8495.721
+  angles 86.129 -102.737 -14.753
+ }
+ {
+  coords 12313.076 12.103 8496.942
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12321.23 12.59 8495.67
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12341.713 12.883 8496.672
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12349.938 12.492 8496.394
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12369.307 12.438 8496.339
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12387.73 12.521 8495.7
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12406.835 12.779 8495.867
+  angles 87.105 111.858 -160.102
+ }
+ {
+  coords 12337.521 14.933 8494.897
+  angles 0.016 91.984 -179.015
+ }
+ {
+  coords 12341.185 11.119 8492.711
+  angles 0.016 91.984 -179.015
+ }
+ {
+  coords 12341.284 13.15 8495.604
+  angles 0.016 91.984 -179.015
+ }
+ {
+  coords 12378.245 -0.826 8492.894
+  angles 9.652 175.355 0.502
+ }
+ {
+  coords 12421.205 0.495 8493.635
+  angles 9.652 175.355 0.502
+ }
+ {
+  coords 12433.03 2.157 8490.372
+  angles 26.201 175.515 0.552
+ }
+ {
+  coords 12440.729 2.555 8490.332
+  angles 25.812 -175.059 4.692
+ }
+ {
+  coords 12452.268 -0.371 8487.914
+  angles 25.812 -175.059 4.692
+ }
+ {
+  coords 12463.885 2.024 8489.32
+  angles 25.812 -175.059 4.692
+ }
+ {
+  coords 12490.206 15.592 8495.138
+  angles 32.772 -175.48 96.355
+ }
+ {
+  coords 12510.15 14.955 8495.283
+  angles 32.772 -175.48 96.355
+ }
+ {
+  coords 12530.434 13.241 8493.503
+  angles 32.772 -175.48 96.355
+ }
+ {
+  coords 12528.021 19.868 8497.904
+  angles 32.772 -175.48 96.355
+ }
+ {
+  coords 12537.977 6.353 8491.319
+  angles 33.899 174.437 4.823
+ }
+ {
+  coords 12551.615 4.772 8490.625
+  angles 33.899 174.437 4.823
+ }
+ {
+  coords 12566.541 4.04 8492.262
+  angles 33.899 174.437 4.823
+ }
+ {
+  coords 12547.729 9.268 8493.566
+  angles 33.898 174.448 93.526
+ }
+ {
+  coords 12567.808 10.427 8494.953
+  angles 33.898 174.448 93.526
+ }
+ {
+  coords 12588.117 9.202 8495.142
+  angles 33.898 174.448 93.526
+ }
+ {
+  coords 12589.836 17.381 8502.493
+  angles 33.898 174.448 93.526
+ }
+ {
+  coords 12603.987 15.249 8499.22
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12616.41 10.573 8495.913
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12626.819 17.304 8502.42
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12634.918 12.082 8496.348
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12655.4 10.26 8495.688
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12648.278 18.899 8503.871
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12667.784 18.58 8502.154
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12663.456 12.889 8496.835
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12683.016 13.62 8497.46
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12692.514 18.291 8504.274
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12695.019 10.387 8493.063
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12706.961 16.329 8500.799
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12709.4 11.354 8493.261
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12727.594 17.774 8502.511
+  angles 33.913 177.484 90.518
+ }
+ {
+  coords 12724.623 13.508 8490.01
+  angles 58.842 -144.577 113.608
+ }
+ {
+  coords 12259.292 20.788 8580.084
+  angles 44.793 -125.825 80.018
+ }
+ {
+  coords 12246.166 21.972 8599.066
+  angles 44.793 -125.825 80.018
+ }
+ {
+  coords 12236.793 21.195 8610.103
+  angles 45.437 -168.428 93.807
+ }
+ {
+  coords 12215.351 21.229 8609.888
+  angles 45.437 -168.428 93.807
+ }
+ {
+  coords 12563.688 4.513 8505.266
+  angles -5.891 176.524 3.505
+ }
+}
+SCR_DestructibleBuildingEntity : "{427D2BB4E4D96606}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_Office_V2.et" {
+ coords 12443.753 0.199 8699.037
+ angles 0 180 0
+}
+$grp SCR_DestructibleBuildingEntity : "{42959A29753486F5}Prefabs/Structures/Infrastructure/Waterworks/WaterStation_01/WaterStation_01_Uncovered.et" {
+ {
+  coords 12089.252 1.485 8473.318
+ }
+ {
+  coords 12101.435 0.495 8473.317
+ }
+}
+$grp GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+ {
+  coords 12284.076 6.688 8761.889
+  angles 0 270 0
+ }
+ {
+  coords 12314.463 7.742 8744.391
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{4BB3C0291333467A}Prefabs/Structures/Industrial/IndustrialComplex 02.et" {
+ {
+  coords 12318.104 0.465 8764.521
+  angles 0 -89.844 0
+ }
+ {
+  coords 12317.778 0.465 8710.439
+  angles 0 -1.511 0
+ }
+}
+$grp SCR_DestructibleEntity : "{4CD13B27E7769662}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_straight_low_3m_cnc.et" {
+ {
+  coords 11789.313 3.025 8725.563
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11794.446 3.025 8734.832
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11804.746 3.025 8744.692
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11784.014 3.025 8734.832
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11794.303 3.025 8744.69
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11783.857 3.025 8744.688
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 11899.075 3.025 8734.909
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 11898.754 3.025 8745.345
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 11898.433 3.025 8755.788
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 11888.972 3.025 8742.735
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 11888.648 3.025 8753.162
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 11879.46 3.025 8750.46
+  angles 0 178.242 0
+  scale 3.5
+ }
+ {
+  coords 12091.095 29.358 8655.979
+  angles 0 93.917 0
+  scale 3.5
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{4DC0293EF161C898}Prefabs/Structures/Industrial/Houses/Workshop_02/Workshop_02.et" {
+ {
+  coords 12011.787 0.205 8602.024
+ }
+ {
+  coords 12142.816 0.009 8530.249
+ }
+ {
+  coords 12368.461 0 8703.141
+  angles 0 90.565 0
+ }
+ {
+  coords 12488 0.199 8592.06
+  angles 0 -1.19 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{51453500F5727B57}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_02/FuelTank_02_Pump_green.et" {
+ coords 12391.622 0.18 8708.694
+ angles 0 90.36 0
+}
+$grp GenericEntity : "{51B08BDA20AF8FF7}Prefabs/Props/Industrial/Pallets/WoodenPalletBox_01.et" {
+ {
+  coords 11818.19 6.906 8778.091
+  angles 0 -53.734 0
+ }
+ {
+  coords 11817.107 6.906 8778.886
+  angles 0 -53.734 0
+ }
+ {
+  coords 11816.432 6.906 8777.962
+  angles 0 -53.734 0
+ }
+ {
+  coords 11826.589 6.906 8805.093
+  angles 0 -53.734 0
+ }
+ {
+  coords 11825.506 6.906 8805.888
+  angles 0 -53.734 0
+ }
+ {
+  coords 11824.83 6.906 8804.964
+  angles 0 -53.734 0
+ }
+ {
+  coords 11981.838 6.906 8783.397
+  angles 0 100.172 0
+ }
+ {
+  coords 11981.647 6.906 8782.276
+  angles 0 100.172 0
+ }
+ {
+  coords 11980.323 6.906 8782.513
+  angles 0 100.172 0
+ }
+ {
+  coords 12008.273 8 8573.678
+  angles 0 -171.598 0
+ }
+ {
+  coords 12007.336 8 8575.172
+  angles 0 -171.598 0
+ }
+ {
+  coords 12007.138 8 8573.844
+  angles 0 -171.598 0
+ }
+ {
+  coords 11991.976 7.958 8578.671
+  angles 0 -171.598 0
+ }
+ {
+  coords 11991.777 7.946 8577.342
+  angles 0 -171.598 0
+ }
+ {
+  coords 11992.913 7.868 8577.176
+  angles 0 -171.598 0
+ }
+ {
+  coords 12120.177 6.749 8483.462
+  angles 0 -171.598 0
+ }
+ {
+  coords 12120.375 6.759 8484.79
+  angles 0 -171.598 0
+ }
+ {
+  coords 12121.313 6.749 8483.296
+  angles 0 -171.598 0
+ }
+ {
+  coords 12121.628 6.749 8477.411
+  angles 0 124.737 0
+ }
+ {
+  coords 12120.525 6.749 8478.178
+  angles 0 124.737 0
+ }
+ {
+  coords 12122.282 6.749 8478.355
+  angles 0 124.737 0
+ }
+ {
+  coords 12177.065 11 8515.104
+  angles 0 -171.598 0
+ }
+ {
+  coords 12178.005 11 8513.608
+  angles 0 -171.598 0
+ }
+ {
+  coords 12176.867 11 8513.775
+  angles 0 -171.598 0
+ }
+ {
+  coords 12186.534 11 8506.452
+  angles 0 -171.598 0
+ }
+ {
+  coords 12187.474 11 8504.958
+  angles 0 -171.598 0
+ }
+ {
+  coords 12186.336 11 8505.123
+  angles 0 -171.598 0
+ }
+ {
+  coords 12134.225 13.463 8604.855
+  angles 0 -171.598 0
+ }
+ {
+  coords 12134.024 13.463 8603.526
+  angles 0 -171.598 0
+ }
+ {
+  coords 12135.161 13.463 8603.36
+  angles 0 -171.598 0
+ }
+ {
+  coords 12135.683 13.463 8600.074
+  angles 0 91.547 0
+ }
+ {
+  coords 12137.022 13.463 8600.036
+  angles 0 91.547 0
+ }
+ {
+  coords 12137.054 13.463 8601.186
+  angles 0 91.547 0
+ }
+ {
+  coords 12118.459 27.916 8686.271
+  angles 0 -91.209 0
+ }
+ {
+  coords 12118.482 28.902 8685.146
+  angles 0 -91.209 0
+ }
+ {
+  coords 12118.482 27.916 8685.146
+  angles 0 -91.209 0
+ }
+ {
+  coords 12050.611 19.598 8673.686
+  angles 0 90 0
+ }
+ {
+  coords 12050.611 20.584 8674.808
+  angles 0 90 0
+ }
+ {
+  coords 12050.611 19.598 8674.808
+  angles 0 90 0
+ }
+ {
+  coords 12140.211 32 8775.125
+  angles 0 -53.734 0
+ }
+ {
+  coords 12141.971 32 8775.255
+  angles 0 -53.734 0
+ }
+ {
+  coords 12140.887 32 8776.05
+  angles 0 -53.734 0
+ }
+ {
+  coords 12144.13 32.986 8776.595
+  angles 0 90 0
+ }
+ {
+  coords 12144.13 32 8776.595
+  angles 0 90 0
+ }
+ {
+  coords 12144.13 32 8775.474
+  angles 0 90 0
+ }
+ {
+  coords 12419.383 31.995 8582.952
+  angles -0.872 -16.722 0.063
+ }
+ {
+  coords 12419.767 32.016 8581.666
+  angles -0.872 -16.722 0.063
+ }
+ {
+  coords 12418.28 31.997 8582.621
+  angles -0.872 -16.722 0.063
+ }
+ {
+  coords 12420.306 19.973 8698.764
+  angles -0.382 -97.881 0.378
+ }
+ {
+  coords 12421.637 19.982 8698.946
+  angles -0.382 -97.881 0.378
+ }
+ {
+  coords 12420.464 19.981 8697.625
+  angles -0.382 -97.881 0.378
+ }
+ {
+  coords 12375.542 32 8597.428
+  angles 0 69.43 0
+ }
+ {
+  coords 12375.954 32 8596.364
+  angles 0 69.43 0
+ }
+ {
+  coords 12374.694 32 8595.892
+  angles 0 69.43 0
+ }
+ {
+  coords 12373.616 32 8586.545
+  angles 0 -155.74 0
+ }
+ {
+  coords 12372.574 32 8587.003
+  angles 0 -155.74 0
+ }
+ {
+  coords 12373.125 32 8588.229
+  angles 0 -155.74 0
+ }
+}
+$grp GenericEntity : "{530705FBB61026D2}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_03.et" {
+ {
+  coords 12303.229 32 8714.619
+  angles 0 -69.421 0
+  scale 1.023
+ }
+ {
+  coords 12302.407 31.999 8717.53
+  angles 0 -69.421 0
+  scale 1.023
+ }
+ {
+  coords 12303.36 32 8720.063
+  angles 0 -69.421 0
+  scale 1.023
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{549864A8B1ED43D3}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_Boulder_02/Granite_Boulder_02.et" {
+ {
+  coords 12233.44 0 8312.548
+  angles -39.099 -35.002 -168.339
+  scale 1.01
+ }
+ {
+  coords 12273.125 0 8246.603
+  angles -75.537 118.163 -96.574
+  scale 0.941
+ }
+ {
+  coords 12302.552 0.001 8281.058
+  angles 54.965 -79.824 131.337
+  scale 0.913
+ }
+ {
+  coords 12526.022 0 8327.861
+  angles -38.703 4.42 -169.543
+  scale 1.01
+ }
+ {
+  coords 12515.926 0 8251.612
+  angles -75.426 152.923 -92.54
+  scale 0.941
+ }
+ {
+  coords 12560.467 0 8260.146
+  angles 54.568 -42.484 129.713
+  scale 0.913
+ }
+}
+GenericEntity : "{560846735799794D}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_Emerald.et" {
+ coords 12338.793 32 8736.33
+ angles 0 87.586 0
+}
+$grp SCR_DestructibleEntity : "{56CF791F12BB17B0}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_terminator_low.et" {
+ {
+  coords 12190.709 12.581 8487.034
+  angles 0 30.284 0
+  scale 3.5
+ }
+ {
+  coords 12171.784 12.581 8497.958
+  angles 0 30.284 0
+  scale 3.5
+ }
+ {
+  coords 12021.788 25.003 8655.99
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 12021.667 25.003 8662.318
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 12085.372 29.358 8656.372
+  angles 0 93.917 0
+  scale 3.5
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{5A81BD9171FC3B07}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_BrickPile_Big.et" {
+ {
+  coords 12138.228 0.084 8720.728
+ }
+ {
+  coords 12137.745 0 8709.551
+ }
+ {
+  coords 12132.319 0.012 8712.125
+ }
+ {
+  coords 12130.195 0 8722.479
+ }
+ {
+  coords 12129.348 0 8712.297
+ }
+ {
+  coords 12129.082 0 8716.955
+  angles 0 96.759 0
+ }
+ {
+  coords 12140.719 0.001 8715.76
+ }
+ {
+  coords 12139.117 0 8718.154
+  angles 0 115.86 0
+ }
+ {
+  coords 12138.803 0 8714.014
+  angles 0 -60.033 0
+ }
+}
+GenericEntity : "{5B17515707F080E0}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_Starline.et" {
+ coords 12340.224 32 8726.884
+ angles 0 -2.414 0
+}
+SCR_PowerPole : "{5BC1688321A0EF60}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_double.et" {
+ coords 12167.943 32 8706.642
+ angles 0 89.235 0
+}
+$grp SCR_DestructibleBuildingEntity : "{5CC8525A69118B0C}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_01/FuelTank_01_orange.et" {
+ {
+  coords 11797.047 0 8725.639
+ }
+ {
+  coords 11802.181 0 8734.908
+ }
+ {
+  coords 11812.48 0 8744.771
+ }
+ {
+  coords 11899.393 -0.001 8727.18
+  angles 0 88.243 0
+ }
+ {
+  coords 11879.774 0 8742.734
+  angles 0 88.243 0
+ }
+ {
+  coords 11889.285 0 8735.007
+  angles 0 88.243 0
+ }
+ {
+  coords 12018.756 1.548 8655.893
+  angles 0 -180 0
+ }
+ {
+  coords 12412.4 0.741 8609.527
+  angles 0 90 0
+ }
+ {
+  coords 12422.031 0.741 8609.946
+  angles 0 90 0
+ }
+ {
+  coords 12481.591 0.741 8609.527
+  angles 0 90 0
+ }
+ {
+  coords 12472.008 0.741 8609.939
+  angles 0 90 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{5F00FD9BDAD8C1A5}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Garage.et" {
+ coords 12420.974 0 8733.417
+}
+$grp GenericEntity : "{614C7CCF23A6FB40}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_03/LampStreet_E_03_single.et" {
+ {
+  coords 12149.989 0 8777.036
+  angles 0 90.324 0
+ }
+ {
+  coords 12359.469 0 8691.005
+  angles 0 -173.055 0
+ }
+ {
+  coords 12398.994 0 8584.834
+  angles 0 -173.055 0
+ }
+ {
+  coords 12375.677 0 8707.267
+  angles 0 -0.877 0
+ }
+ {
+  coords 12374.772 0 8755.743
+  angles 0 -179.689 0
+ }
+ {
+  coords 12443.053 0 8581.101
+  angles 0 88.667 0
+ }
+ {
+  coords 12450.146 0 8623.417
+  angles 0 -93.945 0
+ }
+ {
+  coords 12439.479 0 8676.146
+  angles 0 88.667 0
+ }
+ {
+  coords 12499.352 0 8584.846
+  angles 0 134.375 0
+ }
+ {
+  coords 12511.798 0 8707.604
+  angles 0 -93.609 0
+ }
+ {
+  coords 12445.903 0 8758.304
+  angles 0 176.809 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{61C3FFD09864F01E}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Garage_damaged.et" {
+ coords 12084.742 0.132 8549.789
+ angles 0 -1.168 0
+}
+SCR_DestructibleBuildingEntity : "{627FE49D4DC922AE}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/HouseAddons/FuelStation_E_01_building_small.et" {
+ coords 11981.124 0.039 8795.631
+ angles 0 -89.846 0
+}
+$grp SCR_DestructibleEntity : "{641131C69F64B84D}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_stack.et" {
+ {
+  coords 11787.278 6.906 8819.714
+  angles 0 28.846 0
+ }
+ {
+  coords 11765.364 6.906 8816.91
+  angles 0 -43.609 0
+ }
+ {
+  coords 12057.054 19.598 8670.302
+ }
+}
+StaticModelEntity : "{64152ED9AA0AC2F5}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_BackWall.et" {
+ coords 12129.172 0.019 8691.924
+ angles 0 89.237 0
+}
+$grp GenericEntity : "{6720CD0D5B7B7768}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Long.et" {
+ {
+  coords 11860.667 5.597 8830.515
+ }
+ {
+  coords 11856.729 5.597 8830.515
+ }
+ {
+  coords 11852.785 5.597 8830.515
+ }
+ {
+  coords 11853.215 5.597 8829.752
+ }
+ {
+  coords 11857.157 5.597 8829.752
+ }
+ {
+  coords 11861.096 5.597 8829.752
+ }
+}
+$grp GenericEntity : "{70F32FEADB4D80F0}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_low_base.et" {
+ {
+  coords 12007.314 8 8578.404
+  angles 0 33.554 0
+ }
+ {
+  coords 12028.142 14.096 8598.463
+  angles 0 -153.529 0
+ }
+ {
+  coords 12181.883 11.114 8526.243
+  angles 0.499 33.546 0.868
+ }
+}
+$grp GenericEntity : "{72E42BEAFED9B5A7}Prefabs/Props/Garbage/Bins/GarbageContainer_01.et" {
+ {
+  coords 12173.309 11.025 8524.957
+  angles 0 -124.302 0
+ }
+ {
+  coords 12305.349 32 8719.878
+  angles 0 -88.866 0
+ }
+ {
+  coords 12305.412 32 8718.196
+  angles 0 -91.873 0
+ }
+ {
+  coords 12305.382 32 8716.431
+  angles 0 -84.854 0
+ }
+}
+$grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_01_stack.et" {
+ {
+  coords 11722.525 6.906 8774.645
+ }
+ {
+  coords 11727.764 6.906 8772.36
+  angles 0 -48.537 0
+ }
+ {
+  coords 11871.742 6.906 8828.873
+  angles 0 -28.463 0
+ }
+ {
+  coords 12083.32 28.083 8647.773
+  angles 0 67.215 0
+ }
+ {
+  coords 12083.244 28.084 8642.06
+  angles 0 18.678 0
+ }
+ {
+  coords 12213.044 21 8596.824
+  angles 0 67.215 0
+ }
+ {
+  coords 12212.968 21 8591.11
+  angles 0 18.678 0
+ }
+ {
+  coords 12201.966 21 8583.374
+  angles 0 67.215 0
+ }
+ {
+  coords 12203.886 21 8577.364
+  angles 0 18.678 0
+ }
+}
+$grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_blue.et" {
+ {
+  coords 11817.002 6.906 8776.865
+  angles 0 -69.715 0
+ }
+ {
+  coords 11825.4 6.906 8803.864
+  angles 0 -69.715 0
+ }
+ {
+  coords 11980.84 6.906 8784.119
+  angles 0 84.273 0
+ }
+ {
+  coords 12008.974 8 8574.688
+  angles 0 172.421 0
+ }
+ {
+  coords 11993.607 7.816 8578.188
+  angles 0 172.421 0
+ }
+ {
+  coords 12122.012 6.768 8484.307
+  angles 0 172.421 0
+ }
+ {
+  coords 12121.687 6.749 8479.433
+  angles 0 108.756 0
+ }
+ {
+  coords 12178.543 11 8511.192
+ }
+ {
+  coords 12178.534 11 8509.523
+ }
+ {
+  coords 12179.939 11 8510.481
+ }
+ {
+  coords 12177.61 11 8512.245
+  angles 0 77.875 0
+ }
+ {
+  coords 12175.979 11 8511.902
+  angles 0 77.875 0
+ }
+ {
+  coords 12177.207 11 8510.731
+  angles 0 77.875 0
+ }
+ {
+  coords 12173.272 11 8514.772
+ }
+ {
+  coords 12173.263 11 8513.099
+ }
+ {
+  coords 12174.663 11 8514.055
+ }
+ {
+  coords 12171.643 11 8513.169
+  angles 0 175.901 0
+ }
+ {
+  coords 12171.532 11 8514.838
+  angles 0 175.901 0
+ }
+ {
+  coords 12170.201 11 8513.784
+  angles 0 175.901 0
+ }
+ {
+  coords 12178.703 11 8514.619
+  angles 0 172.421 0
+ }
+ {
+  coords 12188.171 11 8505.969
+  angles 0 172.421 0
+ }
+ {
+  coords 12135.859 13.464 8604.373
+  angles 0 172.421 0
+ }
+ {
+  coords 12135.966 13.464 8601.759
+  angles 0 75.566 0
+ }
+ {
+  coords 12140.781 32 8774.025
+  angles 0 -69.715 0
+ }
+ {
+  coords 12305.114 32 8714.872
+  angles 0 61.492 0
+ }
+ {
+  coords 12415.203 31.956 8584.63
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12416.771 31.962 8584.58
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12417.783 31.951 8585.563
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12419.393 31.964 8585.025
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12418.061 31.975 8584.021
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12421.498 31.992 8583.636
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12422.358 31.973 8585.096
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12424.663 31.993 8584.256
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12423.061 31.998 8583.577
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12423.855 31.969 8585.721
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12425.422 31.973 8585.774
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12418.079 32.014 8581.408
+  angles -0.821 -32.705 0.301
+ }
+ {
+  coords 12418.004 19.978 8694.891
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12418.296 19.971 8696.432
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12417.479 19.959 8697.584
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12418.259 19.956 8699.09
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12419.046 19.97 8697.621
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12419.955 19.958 8700.958
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12418.646 19.943 8702.034
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12419.831 19.939 8704.182
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12420.255 19.952 8702.494
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12418.259 19.931 8703.607
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12418.446 19.923 8705.164
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12421.631 19.992 8697.238
+  angles -0.263 -113.862 0.469
+ }
+ {
+  coords 12374.314 32 8597.537
+  angles 0 53.531 0
+ }
+ {
+  coords 12374.562 32 8587.338
+  angles 0 -171.639 0
+ }
+}
+$grp GenericEntity : "{82DDDA574CB4F0D9}Prefabs/Props/Industrial/BarrelFuel_01_Base.et" {
+ {
+  coords 11816.434 6.906 8765.916
+  angles 0 149.63 0
+ }
+ {
+  coords 11817.751 6.906 8766.923
+  angles 0 -54.854 0
+ }
+ {
+  coords 11817.446 6.906 8766.309
+  angles 0 -48.28 0
+ }
+ {
+  coords 11817.862 6.906 8765.604
+  angles 0 -156.544 0
+ }
+ {
+  coords 11817.296 6.906 8765.202
+  angles 0 69.818 0
+ }
+ {
+  coords 11818.18 6.906 8766.24
+  angles 0 11.375 0
+ }
+ {
+  coords 11818.57 6.906 8765.385
+  angles 0 143.801 0
+ }
+ {
+  coords 11818.65 6.906 8766.762
+  angles 0 -122.263 0
+ }
+ {
+  coords 11818.146 6.906 8764.851
+  angles 0 137.227 0
+ }
+ {
+  coords 11818.818 6.906 8764.384
+  angles 0 149.63 0
+ }
+ {
+  coords 11824.832 6.906 8792.918
+  angles 0 149.63 0
+ }
+ {
+  coords 11826.147 6.906 8793.925
+  angles 0 -54.854 0
+ }
+ {
+  coords 11825.845 6.906 8793.311
+  angles 0 -48.28 0
+ }
+ {
+  coords 11826.261 6.906 8792.604
+  angles 0 -156.544 0
+ }
+ {
+  coords 11825.691 6.906 8792.204
+  angles 0 69.818 0
+ }
+ {
+  coords 11826.578 6.906 8793.242
+  angles 0 11.375 0
+ }
+ {
+  coords 11826.969 6.906 8792.387
+  angles 0 143.801 0
+ }
+ {
+  coords 11827.049 6.906 8793.764
+  angles 0 -122.263 0
+ }
+ {
+  coords 11826.544 6.906 8791.853
+  angles 0 137.227 0
+ }
+ {
+  coords 11827.217 6.906 8791.386
+  angles 0 149.63 0
+ }
+ {
+  coords 11987.482 7.936 8579.843
+  angles 0 73.573 0
+ }
+ {
+  coords 11986.861 7.932 8579.301
+  angles 0 61.17 0
+ }
+ {
+  coords 11986.448 7.936 8579.842
+  angles 0 67.744 0
+ }
+ {
+  coords 11986.317 7.926 8578.563
+  angles 0 -6.239 0
+ }
+ {
+  coords 11986.063 7.931 8579.21
+  angles 0 127.399 0
+ }
+ {
+  coords 11985.135 7.932 8580.253
+  angles 0 161.679 0
+ }
+ {
+  coords 11985.522 7.935 8579.669
+  angles 0 -64.683 0
+ }
+ {
+  coords 11984.756 7.933 8579.419
+  angles 0 -130.912 0
+ }
+ {
+  coords 11985.281 7.929 8578.979
+  angles 0 -124.338 0
+ }
+ {
+  coords 11985.419 7.937 8577.893
+  angles 0 73.573 0
+ }
+ {
+  coords 12019.635 14.096 8598.582
+  angles 0 -6.239 0
+ }
+ {
+  coords 12020.8 14.106 8599.861
+  angles 0 73.573 0
+ }
+ {
+  coords 12020.179 14.102 8599.319
+  angles 0 61.17 0
+ }
+ {
+  coords 12019.766 14.106 8599.86
+  angles 0 67.744 0
+ }
+ {
+  coords 12019.381 14.101 8599.229
+  angles 0 127.399 0
+ }
+ {
+  coords 12178.104 11 8510.354
+ }
+ {
+  coords 12178.1 11 8508.683
+ }
+ {
+  coords 12179.502 11 8509.64
+ }
+ {
+  coords 12176.694 11 8512.494
+  angles 0 77.875 0
+ }
+ {
+  coords 12175.062 11 8512.146
+  angles 0 77.875 0
+ }
+ {
+  coords 12176.293 11 8510.981
+  angles 0 77.875 0
+ }
+ {
+  coords 12172.836 11 8513.928
+ }
+ {
+  coords 12172.825 11 8512.256
+ }
+ {
+  coords 12174.231 11 8513.213
+ }
+ {
+  coords 12172.018 11 8514.041
+  angles 0 175.901 0
+ }
+ {
+  coords 12171.906 11 8515.71
+  angles 0 175.901 0
+ }
+ {
+  coords 12170.575 11 8514.652
+  angles 0 175.901 0
+ }
+ {
+  coords 12115.85 27.916 8693.52
+  angles 0 -69.925 0
+ }
+ {
+  coords 12115.24 27.916 8693.788
+  angles 0 -69.925 0
+ }
+ {
+  coords 12117.463 27.916 8693.612
+  angles 0 -69.925 0
+ }
+ {
+  coords 12117.774 27.916 8694.208
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.926 27.916 8694.242
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.477 27.916 8693.768
+  angles 0 -69.925 0
+ }
+ {
+  coords 12115.905 27.916 8694.161
+  angles 0 -69.925 0
+ }
+ {
+  coords 12115.905 28.916 8694.161
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.477 28.919 8693.767
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.926 28.919 8694.24
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.261 27.916 8691.572
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.909 27.916 8691.688
+  angles 0 -95.111 0
+ }
+ {
+  coords 12117.752 27.916 8691.652
+  angles 0 -109.941 0
+ }
+ {
+  coords 12118.013 27.916 8691.016
+  angles 0 -34.941 0
+ }
+ {
+  coords 12117.543 27.916 8690.429
+  angles 0 -69.925 0
+ }
+ {
+  coords 12117.285 27.916 8691.023
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.872 27.916 8690.288
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.604 27.916 8690.993
+  angles 0 -69.925 0
+ }
+ {
+  coords 12116.807 27.916 8685.972
+  angles 0 -69.925 0
+ }
+ {
+  coords 12117.055 27.916 8686.59
+  angles 0 -69.925 0
+ }
+ {
+  coords 12117.5 27.916 8686.006
+  angles 0 -69.925 0
+ }
+ {
+  coords 12053.065 19.598 8666.381
+  angles 0 111.284 0
+ }
+ {
+  coords 12053.666 19.598 8666.101
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.449 19.598 8666.322
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.126 19.598 8665.738
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.976 19.598 8665.687
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.433 19.598 8666.146
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.994 19.598 8665.744
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.994 20.598 8665.744
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.433 20.601 8666.147
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.976 20.601 8665.688
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.693 19.598 8668.336
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.047 19.598 8668.239
+  angles 0 86.098 0
+ }
+ {
+  coords 12051.201 19.598 8668.289
+  angles 0 71.268 0
+ }
+ {
+  coords 12050.955 19.598 8668.934
+  angles 0 146.268 0
+ }
+ {
+  coords 12051.436 19.598 8669.506
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.682 19.598 8668.907
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.112 19.598 8669.633
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.36 19.598 8668.924
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.266 19.598 8673.95
+  angles 0 111.284 0
+ }
+ {
+  coords 12052.006 19.598 8673.333
+  angles 0 111.284 0
+ }
+ {
+  coords 12051.576 19.598 8673.929
+  angles 0 111.284 0
+ }
+ {
+  coords 12145.095 32 8775.716
+  angles 0 111.284 0
+ }
+ {
+  coords 12145.523 32 8775.119
+  angles 0 111.284 0
+ }
+ {
+  coords 12145.784 32 8775.737
+  angles 0 111.284 0
+ }
+ {
+  coords 12305.675 32 8714.079
+  angles 0 61.492 0
+ }
+ {
+  coords 12416.811 31.948 8585.525
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12416.104 31.924 8587.039
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12415.241 31.942 8585.578
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12418.996 31.976 8584.186
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12418.717 31.952 8585.726
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12420.325 31.965 8585.192
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12421.528 31.978 8584.581
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12422.396 31.959 8586.044
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12423.099 31.984 8584.525
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12424.695 32.008 8583.307
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12423.888 31.983 8584.771
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12425.452 31.987 8584.83
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12417.367 19.963 8696.617
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12415.761 19.954 8696.151
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12417.076 19.97 8695.075
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12419.027 19.965 8698.57
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12417.462 19.953 8698.531
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12418.236 19.951 8700.04
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12419.026 19.95 8701.135
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12417.715 19.934 8702.218
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12419.32 19.944 8702.675
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12420.772 19.947 8704.067
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12419.202 19.938 8703.493
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12419.385 19.931 8705.049
+  angles -0.291 -110.382 0.452
+ }
+}
+SCR_DestructibleBuildingEntity : "{8356D40D0B4FE48B}Prefabs/Structures/Infrastructure/Power/DieselPowerPlant_01/DieselPowerPlant_USSR_01_active.et" {
+ coords 12293.256 0 8659.565
+ angles 0 -179.57 0
+ {
+  SCR_DestructibleBuildingEntity {
+   coords 0.001 0 -0.003
+  }
+ }
+}
+$grp SCR_DestructibleEntity : "{879865F07EA907B0}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_4m.et" {
+ {
+  coords 12306.324 0 8718.965
+  angles 0 89.109 0
+ }
+ {
+  coords 12306.393 0 8715.087
+  angles 0 -90.873 0
+ }
+ {
+  coords 12304.667 0 8712.881
+  angles 0 179.458 0
+ }
+ {
+  coords 12304.547 0 8721.059
+  angles 0 179.458 0
+ }
+ {
+  coords 12306.877 0 8742.016
+  angles 0 179.458 0
+ }
+ {
+  coords 12292.154 0 8776.403
+  angles 0 179.458 0
+ }
+ {
+  coords 12292.216 0 8769.904
+  angles 0 179.458 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{896636DEF097E6F6}Prefabs/Structures/Industrial/Sawmill Shed.et" {
+ coords 12337.488 32 8740.745
+}
+SCR_DestructibleBuildingEntity : "{9107D2EEADCDDE42}Prefabs/Structures/Military/Houses/GuardBox_01/GuardBox_01_blue.et" {
+ coords 12452.368 0 8582.395
+}
+SCR_DestructibleEntity : "{91C32BF67B654F78}Prefabs/Structures/Walls/Pipe/PipeRailing_03/PipeRailing_03_V2_Start.et" {
+ coords 12158.544 -0.895 8768.061
+ angles 0 -179.179 0
+}
+$grp DecalEntity : "{925553528D276E6D}Prefabs/Decals/Asphalt/Decal_Asphalt_Cracks_03.et" {
+ {
+  coords 12191.477 0 8759.309
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12217.512 0 8772.191
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12230.612 -0.001 8770.018
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12227.746 0 8762.714
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12250.501 0 8770.568
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12260.531 0 8771.75
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12287.105 0 8745.201
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12279.812 0 8759.612
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12297.386 0 8729.504
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12291.074 0 8705.52
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12288.788 0 8692.663
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12274.18 0 8667.678
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12282.886 0 8669.988
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12259.585 0 8653.462
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12247.848 0 8642.905
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12232.137 0 8632.555
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12229.466 0.001 8649.505
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12195.931 0 8641.266
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12197.872 0 8662.924
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12187.918 0 8671.358
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12132.26 0.001 8782.762
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12155.574 0 8772.637
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12213.059 0 8771.92
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12345.846 0 8781.82
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12350.011 0 8683.489
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12339.636 0 8593.211
+  angles -90 -180 -180
+  scale 4.74
+ }
+ {
+  coords 12323.598 0 8594.789
+  angles -90 -180 -180
+  scale 4.74
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{9606669975C97DC9}Prefabs/Structures/Military/Houses/GuardHouse_02/GuardHouse_02_civilian.et" {
+ {
+  coords 12328.099 -0.001 8581.921
+  angles 0 -1.16 0
+ }
+ {
+  coords 12360.584 0 8675.35
+  angles 0 0.246 0
+ }
+}
+$grp GenericEntity : "{96C14B20A90F3257}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_red.et" {
+ {
+  coords 11774.021 6.906 8794.806
+  angles 0 141.296 0
+ }
+ {
+  coords 12141.817 6.749 8476.854
+  angles 0 -129.858 0
+ }
+ {
+  coords 12043.94 19.581 8694.944
+  angles 0 -90.348 0
+ }
+}
+SCR_DestructibleEntity : "{97706E5F109912CB}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_reel_bunker.et" {
+ coords 11881.954 3.243 8725.455
+}
+$grp SCR_DestructibleEntity : "{9CA110B63D806EC4}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_straight_high_10m_cnc.et" {
+ {
+  coords 12039.757 11.005 8655.99
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 12039.638 11.005 8662.318
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 12074.619 11.005 8662.318
+  angles 0 90 0
+  scale 3.5
+ }
+ {
+  coords 12074.726 11.005 8655.993
+  angles 0 90 0
+  scale 3.5
+ }
+}
+GenericEntity : "{9D9312AA9984A5CE}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_08.et" {
+ coords 11981.483 6.906 8789.021
+}
+$grp SCR_DestructibleEntity : "{A2C5EA360E334882}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_straight_low_1m_cnc.et" {
+ {
+  coords 11971.604 7.074 8809.738
+  angles 0 -117.758 0
+  scale 3.5
+ }
+ {
+  coords 11975.021 7.032 8812.642
+  angles 0 -117.758 0
+  scale 3.5
+ }
+ {
+  coords 11974.602 7.074 8808.776
+  angles 0 -27.634 0
+  scale 3.5
+ }
+ {
+  coords 11972.074 7.074 8813.598
+  angles 0 -27.634 0
+  scale 3.5
+ }
+}
+$grp GenericEntity : "{A419F4547954DA05}Prefabs/Props/Construction/CableReel/CableReelWooden_01.et" {
+ {
+  coords 12135.617 32.878 8704.175
+  angles 0 89.237 0
+ }
+ {
+  coords 12136.104 32 8703.638
+  angles 0 89.237 0
+ }
+ {
+  coords 12135.892 32 8704.854
+  angles 0 89.237 0
+ }
+ {
+  coords 12134.949 32 8704.104
+  angles 0 89.237 0
+ }
+ {
+  coords 12326.781 33 8688.131
+  angles -0.211 -70.545 -0.728
+ }
+ {
+  coords 12326.237 32.139 8688.445
+  angles 0.927 -70.562 -1.028
+ }
+ {
+  coords 12327.471 32.127 8687.928
+  angles 0.093 -47.382 -0.752
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{A548C1C5370D0734}Prefabs/Structures/Houses/Garage/Garage_E_01/Garage_E_01.et" {
+ {
+  coords 12121.563 0.106 8524.146
+  angles 0 -3.175 0
+ }
+ {
+  coords 12126.44 0.106 8524.418
+  angles 0 -3.175 0
+ }
+ {
+  coords 12131.305 0.106 8524.687
+  angles 0 -3.175 0
+ }
+}
+$grp GenericEntity : "{A80F0848BFF11327}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_doubleAngled.et" {
+ {
+  coords 12296.043 0.062 8618.021
+  angles 0 -78.312 0
+ }
+ {
+  coords 12318.816 0.062 8635.946
+  angles 0 94.155 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{AAB10C30EE97D12D}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_03/FuelTank_03_grey.et" {
+ {
+  coords 12113.516 -0.032 8665.123
+  angles 0 104.702 0
+ }
+ {
+  coords 12333.679 0 8652.175
+ }
+}
+$grp DecalEntity : "{ACAEDB73441F87DB}Prefabs/Decals/Dirt/Decal_Dirt_Patch_04.et" {
+ {
+  coords 12286.14 0 8642.102
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12285.661 0 8611.848
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12306.098 0 8663.037
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12263.925 0 8667.036
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12270.153 0 8637.304
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12292.723 0 8680.837
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12290.755 0 8720.406
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12301.451 0 8745.342
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12274.467 -0.001 8746.393
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12261.409 0 8762.419
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12242.277 0 8772.428
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12197.769 0 8771.718
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12197.244 -0.001 8744.574
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12166.819 0 8737.23
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12151.108 0 8743.998
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12162.197 0 8728.705
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12149.915 0 8668.924
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12202.323 0 8669.912
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12192.431 0 8649.951
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12203.597 0 8628.862
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12224.767 0 8638.319
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12267.597 0 8619.993
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12308.736 0 8625.641
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12298.636 -0.001 8637.814
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+ {
+  coords 12299.345 -0.001 8613.949
+  angles -89.972 0 38.009
+  scale 9.08
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{AD207D3DE43922D8}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_01/FuelTank_01_rust.et" {
+ {
+  coords 11969.988 0 8817.283
+  angles 0 -118.683 0
+ }
+ {
+  coords 12018.615 0.787 8662.269
+  angles 0 -180 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{AFD7F502EA38F7DC}Prefabs/Structures/Infrastructure/Waterworks/WaterStation_01/WaterStation_01.et" {
+ coords 12052.588 0.569 8609.75
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{B18F42ED694B5654}Prefabs/Rocks/Granite/Granite_Cluster_06.et" {
+ {
+  coords 11767.213 0 8858.995
+ }
+ {
+  coords 11825.478 0 8863.102
+ }
+ {
+  coords 12048.792 0 8577.542
+  angles 0 83.565 0
+ }
+ {
+  coords 11990.122 -0.078 8592.666
+  angles 0 -24.091 0
+ }
+ {
+  coords 12030.605 7.159 8598.473
+  angles 0 83.565 0
+ }
+ {
+  coords 12227.58 -3.118 8524.354
+  angles 0 141.264 0
+ }
+ {
+  coords 12280.033 -0.001 8544.549
+  angles 10.286 86.038 13.599
+ }
+ {
+  coords 12299.085 -0.001 8530.297
+  angles 8.922 85.239 10.672
+ }
+ {
+  coords 12326.96 0.001 8518.862
+  angles 6.629 85.356 15.158
+ }
+ {
+  coords 12361.137 0.001 8512.391
+  angles 5.507 84.201 45.624
+ }
+ {
+  coords 12398.575 0 8511.811
+  angles 5.814 84.371 28.913
+ }
+ {
+  coords 12464.29 -0.001 8513.743
+  angles 3.269 82.881 30.217
+ }
+ {
+  coords 12491.281 -1.525 8514.986
+  angles 0 84.371 23.907
+ }
+ {
+  coords 12517.782 -0.734 8514.11
+  angles 4.518 83.474 34.554
+ }
+ {
+  coords 12544.373 0 8516.622
+  angles -0.989 83.123 10.373
+ }
+}
+$grp DecalEntity : "{B38FBA56FA69E392}Prefabs/Decals/Fluids/Decal_OilStain_01_large.et" {
+ {
+  coords 11812.567 0 8748.956
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11807.055 0 8738.851
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11796.231 0 8727.412
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11770.419 0 8686.144
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11754.813 0 8648.267
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11746.76 0 8602.349
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11893.19 0 8736.172
+  angles -90 -91.758 -180
+  scale 10.509
+ }
+ {
+  coords 11971.871 0.001 8797.335
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 11966.484 0 8813.918
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12204.877 0 8504.253
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12181.827 0 8511.972
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12172.742 0 8516.659
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12176.072 0 8512.686
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12173.967 0 8663.974
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12101.2 0.036 8664.918
+  angles -90 0 0
+  scale 10.509
+ }
+ {
+  coords 12267.782 0 8649.807
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12206.251 0 8641.88
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12258.979 0 8662.232
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12340.027 0 8695.764
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12340.808 0 8717.716
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12341.903 0 8644.039
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12331.336 0 8642.105
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12331.654 0 8661.497
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12415.823 0 8680.364
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12416.219 -0.001 8646.176
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12444.556 0 8709.647
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12417.159 0 8617.59
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12411.706 0 8614.213
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12476.674 0 8661.389
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12478.349 0 8678.02
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12481.426 0 8638.4
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12481.595 0 8633.352
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12481.556 0 8626.612
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12450.777 0 8710.106
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12413.31 0 8708.103
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12364.146 0 8727.481
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12385.493 -0.001 8714.401
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12393.575 0 8738.832
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12444.151 0 8729.072
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12437.355 0 8737.766
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12453.969 0 8741.397
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12500.283 0.179 8720.751
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12369.917 0 8714.473
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12379.447 0 8725.011
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12370.14 0 8723.674
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12472.005 0 8689.486
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12469.884 0 8700.315
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12420.718 0 8690.518
+  angles -90 -180 -180
+  scale 10.509
+ }
+ {
+  coords 12423.405 0 8702.325
+  angles -90 -180 -180
+  scale 10.509
+ }
+}
+$grp SCR_DestructibleEntity : "{B4C746BF99B922B0}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_2m.et" {
+ {
+  coords 12414.458 0 8616.502
+  angles 0 270 0
+ }
+ {
+  coords 12418.071 0 8611.188
+ }
+ {
+  coords 12410.286 0 8694.66
+  angles 0 90 0
+ }
+ {
+  coords 12410.286 0 8692.656
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8616.188
+  angles 0 270 0
+ }
+ {
+  coords 12477.825 0 8611.188
+ }
+}
+$grp SCR_DestructibleEntity : "{B59DC4F2344F332D}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_rect_long_Tagetes_yellow.et" {
+ {
+  coords 12300.946 32.062 8616.855
+ }
+ {
+  coords 12313.715 32.062 8616.85
+ }
+}
+$grp GenericEntity : "{B5A86460520051EC}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_blue.et" {
+ {
+  coords 11886.006 6.906 8831.598
+  angles 0 91.799 0
+ }
+ {
+  coords 12037.825 19.568 8695.127
+  angles 0 -1.639 0
+ }
+}
+$grp GenericEntity : "{B69B4902BAF5B1B9}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_02.et" {
+ {
+  coords 11980.181 6.907 8790.822
+ }
+ {
+  coords 11980.86 6.906 8787.367
+ }
+}
+$grp GenericEntity : "{B9003EF716A534D4}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_single.et" {
+ {
+  coords 11954.123 0 8558.143
+ }
+ {
+  coords 11924.588 0 8564.016
+  angles 0 89.874 0
+ }
+ {
+  coords 11952.79 0 8484.428
+  angles 0 1.106 0
+ }
+ {
+  coords 11647.441 0 8046.2
+  angles 0 -104.523 0
+ }
+ {
+  coords 11547.354 0 7845.245
+  angles 0 83.74 0
+ }
+ {
+  coords 11567.558 0 7934.544
+  angles 0 -134.305 0
+ }
+ {
+  coords 11630.457 0 8007.508
+  angles 0 125.12 0
+ }
+ {
+  coords 11828.224 0 8820.326
+  angles 0 89.874 0
+ }
+ {
+  coords 11969.08 0 8712.752
+  angles 0 89.874 0
+ }
+ {
+  coords 11994.022 0 8552.97
+  angles 0 -1.434 0
+ }
+ {
+  coords 11725.602 0 8581.515
+  angles 0 176.664 0
+ }
+ {
+  coords 12016.537 2.772 8635.404
+  angles 0 -93.475 0
+ }
+ {
+  coords 12117.593 0 8568.413
+  angles 0 -134.571 0
+ }
+ {
+  coords 12068.483 0 8521.951
+  angles 0 50.246 0
+ }
+ {
+  coords 12048.231 0 8559.154
+  angles 0 3.205 0
+ }
+ {
+  coords 11979.656 0 8799.312
+  angles 0 -106.357 0
+ }
+ {
+  coords 11752.306 0 8790.222
+  angles 0 136.266 0
+ }
+ {
+  coords 12258.141 0 8482.938
+  angles 0 179.381 0
+ }
+ {
+  coords 12339.604 0 8482.341
+  angles 0 179.381 0
+ }
+ {
+  coords 12404.449 0 8482.478
+  angles 0 179.381 0
+ }
+ {
+  coords 12485.73 0 8483.001
+  angles 0 179.381 0
+ }
+ {
+  coords 12549.842 0 8483.351
+  angles 0 179.381 0
+ }
+ {
+  coords 12613.883 0 8482.798
+  angles 0 179.381 0
+ }
+ {
+  coords 12199.231 0 8527.936
+  angles 0 34.791 0
+ }
+ {
+  coords 12150.892 0 8587.649
+  angles 0 61.599 0
+ }
+ {
+  coords 12028.332 0 8705.745
+  angles 0 3.205 0
+ }
+ {
+  coords 12079.297 0 8640.872
+  angles 0 -129.716 0
+ }
+ {
+  coords 12120.347 0.619 8624.537
+  angles 0 30.898 0
+ }
+ {
+  coords 12182.563 0 8598.321
+  angles 0 -130.063 0
+ }
+ {
+  coords 12260.612 -0.001 8535.826
+  angles 0 -161.492 0
+ }
+ {
+  coords 12098.912 0 8693.557
+  angles 0 91.081 0
+ }
+ {
+  coords 12333.172 0.062 8617.182
+  angles 0 -173.278 0
+ }
+}
+$grp GenericEntity : "{B9F8987A84B94738}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_03/LampStreet_E_03_addon.et" {
+ {
+  coords 12388.687 4.908 8653.361
+  angles 0 -89.513 0
+ }
+ {
+  coords 12388.665 4.924 8610.789
+  angles 0 -89.513 0
+ }
+ {
+  coords 12430.412 4.831 8588.382
+  angles 0 178.848 0
+ }
+}
+$grp GenericEntity : "{BC4702DDA1768C98}Prefabs/Props/Civilian/RoadBlock/RoadBlockLStrip.et" {
+ {
+  coords 11714.611 6.906 8738.749
+  angles 0 -86.088 0
+ }
+ {
+  coords 11717.131 6.906 8738.575
+  angles 0 -86.088 0
+ }
+ {
+  coords 12181.612 21.019 8600.02
+  angles 0 23.008 0
+ }
+ {
+  coords 12181.231 21.021 8596.845
+  angles 0 -23.414 0
+ }
+}
+StaticModelEntity : "{BD1C008EC2D79A2F}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Short.et" {
+ coords 12298.688 0.11 8696.001
+ angles 0 89.531 0
+}
+$grp SCR_DestructibleEntity : "{BE48949CCFC4CBEE}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_straight_high_1m_cnc.et" {
+ {
+  coords 12191.836 -1.418 8488.959
+  angles 0 30.284 0
+  scale 3.5
+ }
+ {
+  coords 12198.315 7.731 8500.067
+  angles 90 30.284 0
+  scale 3.5
+ }
+ {
+  coords 12172.911 -1.418 8499.881
+  angles 0 30.284 0
+  scale 3.5
+ }
+ {
+  coords 12179.39 7.731 8510.99
+  angles 90 30.284 0
+  scale 3.5
+ }
+}
+SCR_DestructibleBuildingEntity : "{BE70E3BA6C1911A9}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_Workshop.et" {
+ coords 12417.998 0.28 8720.803
+}
+$grp SCR_DestructibleEntity : "{C378176AB614B1FD}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_03_4m_D.et" {
+ {
+  coords 12138.471 0 8777.655
+ }
+ {
+  coords 12136.07 0 8750.344
+  angles 0 -53.707 0
+ }
+}
+$grp SCR_DestructibleEntity : "{C40AD4660B9D7703}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_4m.et" {
+ {
+  coords 12307.347 0 8688.958
+  angles 0 179.027 0
+ }
+ {
+  coords 12414.347 0 8684.124
+  angles 0 90 0
+ }
+ {
+  coords 12414.438 0 8680.084
+ }
+ {
+  coords 12414.347 0 8688.103
+  angles 0 90 0
+ }
+ {
+  coords 12414.438 0 8662.187
+ }
+ {
+  coords 12414.347 0 8666.227
+  angles 0 90 0
+ }
+ {
+  coords 12414.347 0 8670.205
+  angles 0 90 0
+ }
+ {
+  coords 12414.438 0 8644.075
+ }
+ {
+  coords 12414.347 0 8648.114
+  angles 0 90 0
+ }
+ {
+  coords 12414.347 0 8652.094
+  angles 0 90 0
+ }
+ {
+  coords 12414.438 0 8625.778
+ }
+ {
+  coords 12414.347 0 8629.816
+  angles 0 90 0
+ }
+ {
+  coords 12414.347 0 8633.797
+  angles 0 90 0
+ }
+ {
+  coords 12414.438 0 8640.141
+ }
+ {
+  coords 12414.458 0 8636.104
+  angles 0 270 0
+ }
+ {
+  coords 12414.458 0 8654.322
+  angles 0 270 0
+ }
+ {
+  coords 12414.438 0 8658.359
+ }
+ {
+  coords 12414.458 0 8672.447
+  angles 0 270 0
+ }
+ {
+  coords 12414.438 0 8676.484
+ }
+ {
+  coords 12414.458 0 8618.504
+  angles 0 270 0
+ }
+ {
+  coords 12414.438 0 8622.541
+ }
+ {
+  coords 12418.438 0 8616.514
+  angles 0 180 0
+ }
+ {
+  coords 12422.498 0 8616.514
+  angles 0 180 0
+ }
+ {
+  coords 12422.592 0 8612.49
+  angles 0 270 0
+ }
+ {
+  coords 12414.195 0 8611.188
+ }
+ {
+  coords 12410.286 0 8616.929
+  angles 0 90 0
+ }
+ {
+  coords 12406.242 0 8694.488
+ }
+ {
+  coords 12483.396 0 8617.445
+  angles 0 90 0
+ }
+ {
+  coords 12475.73 0 8680.084
+ }
+ {
+  coords 12479.646 0 8684.12
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8688.103
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8666.244
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8670.227
+  angles 0 90 0
+ }
+ {
+  coords 12475.73 0 8662.209
+ }
+ {
+  coords 12479.646 0 8648.063
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8652.047
+  angles 0 90 0
+ }
+ {
+  coords 12475.73 0 8644.027
+ }
+ {
+  coords 12479.646 0 8629.856
+  angles 0 90 0
+ }
+ {
+  coords 12479.646 0 8633.842
+  angles 0 90 0
+ }
+ {
+  coords 12475.73 0 8625.821
+ }
+ {
+  coords 12475.73 0 8622.196
+ }
+ {
+  coords 12479.646 0 8618.224
+  angles 0 270 0
+ }
+ {
+  coords 12475.601 0 8616.068
+ }
+ {
+  coords 12471.592 0 8616.067
+ }
+ {
+  coords 12473.95 0 8611.188
+ }
+ {
+  coords 12470.608 0 8612.154
+  angles 0 -74.604 0
+ }
+ {
+  coords 12479.646 0 8636.193
+  angles 0 270 0
+ }
+ {
+  coords 12479.573 0 8640.252
+  angles 0 180 0
+ }
+ {
+  coords 12479.573 0 8658.445
+  angles 0 180 0
+ }
+ {
+  coords 12479.646 0 8654.387
+  angles 0 270 0
+ }
+ {
+  coords 12479.573 0 8676.505
+  angles 0 180 0
+ }
+ {
+  coords 12479.646 0 8672.446
+  angles 0 270 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{C4EAB3F9F0AB37B2}Prefabs/Structures/Infrastructure/Power/Utility/ElectricCabinet_01/ElectricCabinet_01_double.et" {
+ {
+  coords 12329.007 0.136 8720.778
+  angles 0 88.965 0
+ }
+ {
+  coords 12311.836 0.141 8688.599
+  angles 0 179.337 0
+ }
+}
+$grp GenericEntity : "{C51A49ACBB2EF063}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_blue.et" {
+ {
+  coords 12001.92 8 8573.651
+  angles 0 -43.183 0
+ }
+ {
+  coords 12030.445 14.095 8602.483
+  angles 0 129.734 0
+ }
+ {
+  coords 12134.135 6.749 8478.005
+  angles 0 -98.605 0
+ }
+ {
+  coords 12177.86 11.13 8527.596
+  angles 0.673 -43.192 -1.245
+ }
+ {
+  coords 12369.1 32 8593.936
+ }
+}
+$grp StaticModelEntity : "{C7B5F0AEA246F0BE}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_LeftWall.et" {
+ {
+  coords 12134.609 0.001 8677.283
+  angles 0 89.237 0
+ }
+ {
+  coords 12134.219 0.001 8706.762
+  angles 0 89.237 0
+ }
+}
+SCR_DestructibleEntity : "{C7F83FA024C7BEB1}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_rect_long_Tagetes_orange.et" {
+ coords 12296.439 32.062 8616.804
+}
+$grp StaticModelEntity : "{CAF8666F26CEB7AD}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_Narrow.et" {
+ {
+  coords 12243.922 18.253 8512.594
+  angles 0 -119.857 0
+ }
+ {
+  coords 12247.987 20.449 8514.928
+  angles 0 -119.857 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{CCE6A451A226AF4E}Prefabs/Structures/Military/Houses/GuardHouse_01/GuardHouse_01_beige.et" {
+ coords 12163.978 0.152 8772.348
+ angles 0 -88.674 0
+}
+$grp SCR_DestructibleBuildingEntity : "{CF7E43120709D9BE}Prefabs/Structures/Industrial/Houses/Workshop_02/Workshop_02_grey.et" {
+ {
+  coords 12091.597 -0.069 8577.741
+  angles 0 270 0
+ }
+ {
+  coords 12173.716 0.498 8533.177
+  angles 0 -149.22 0
+ }
+ {
+  coords 12135.754 2.952 8665.235
+  angles 0 90.041 0
+ }
+ {
+  coords 12136.675 0.207 8733.724
+  angles 0 -152.173 0
+ }
+ {
+  coords 12462.022 0.27 8591.678
+  angles 0 270 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{CFF7F6F7042AFFEF}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Main.et" {
+ {
+  coords 12125.097 -0.09 8568.214
+  angles 0 -30.993 0
+ }
+ {
+  coords 12130.752 -0.089 8554.284
+  angles 0 -120.847 0
+ }
+ {
+  coords 12140.138 -0.09 8557.202
+  angles 0 149.413 0
+ }
+ {
+  coords 12134.522 -0.09 8571.167
+  angles 0 59.367 0
+ }
+ {
+  coords 12365.951 0 8739.685
+  angles 0 -90.813 0
+ }
+ {
+  coords 12368.027 0.009 8754.577
+  angles 0 -0.96 0
+ }
+ {
+  coords 12405.773 0 8732.451
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{D39297A56E6648F0}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_03/FuelTank_03_green.et" {
+ {
+  coords 12210.788 0 8496.278
+  angles 0 -139.875 0
+ }
+ {
+  coords 12333.206 0 8670.514
+ }
+ {
+  coords 12392.429 0 8721.519
+  angles 0 -109.062 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{D44E66C875C41446}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_01/FuelTank_01_green.et" {
+ {
+  coords 11976.661 0.027 8805.052
+  angles 0 61.781 0
+ }
+ {
+  coords 12263.796 -0.019 8664.724
+ }
+}
+$grp DecalEntity : "{D4F60BD4A5C9A287}PrefabLibrary/DefaultLibrary/Decals/Cracks/Decal_Asphalt_Cracks_03.et" {
+ {
+  coords 11792.167 0 8785.999
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11813.529 0 8787.359
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11775.218 -0.001 8806.194
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11720.9 -0.001 8729.707
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11737.286 0 8659.999
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11754.852 0 8657.613
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11755.698 0 8617.938
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11769.869 0 8615.92
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11738.173 0 8582.355
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11721.847 0 8569.958
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11724.427 0 8522.355
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11721.715 0 8509.139
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11721.524 0 8622.744
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11748.088 0 8633.252
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+ {
+  coords 11763.485 0 8623.416
+  angles -89.98 -40.49 87.03
+  scale 8.145
+ }
+}
+$grp GenericEntity : "{D5062960B7211EB4}Prefabs/Props/Construction/GarbageStack_01/GarbageStack_01_Long.et" {
+ {
+  coords 11822.58 6.906 8815.725
+ }
+ {
+  coords 11818.924 6.906 8806.75
+  angles 0 108.733 0
+ }
+ {
+  coords 11872.57 6.906 8832.375
+ }
+ {
+  coords 12208.306 21 8599.035
+  angles 0 108.733 0
+ }
+}
+GenericEntity : "{D7F69BF7D2DCA0A8}Prefabs/Props/Industrial/Pallets/Pallet_01.et" {
+ coords 12304.295 32 8717.453
+ angles 0 112.017 0
+}
+GenericEntity : "{DB403F1A9E7B0B4F}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_red.et" {
+ coords 12135.854 31.975 8678.839
+ angles 0 88.548 0
+}
+$grp StaticModelEntity : "{DBF039BA30EC733A}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_Short_BackWall.et" {
+ {
+  coords 12112.894 0.174 8583.275
+  angles 0 0.636 0
+ }
+ {
+  coords 12022.914 4.006 8464.367
+  angles 0 179.109 0
+ }
+ {
+  coords 12458.146 -0.044 8735.683
+  angles 0 0.308 0
+ }
+ {
+  coords 12479.713 -0.044 8735.565
+  angles 0 0.308 0
+ }
+}
+$grp GenericEntity : "{DE658AC78172D02E}Prefabs/Props/Construction/GarbageStack_01/GarbageStack_01_Short.et" {
+ {
+  coords 12138.011 13.275 8598.019
+  angles 17.959 -34.021 -1.242
+ }
+}
+$grp GenericEntity : "{DEB57429CD49782D}Prefabs/Props/Construction/GravelPile_01/SandPile_01.et" {
+ {
+  coords 11876.481 6.907 8808.919
+ }
+ {
+  coords 11879.594 6.906 8812.157
+  angles 0 -82.731 0
+ }
+ {
+  coords 11874.78 6.906 8812.487
+  angles 0 -82.731 0
+ }
+ {
+  coords 11877.276 6.906 8816.571
+  angles 0 -82.731 0
+ }
+ {
+  coords 11783.098 6.318 8824.516
+  angles 0 159.677 0
+  scale 1.75
+ }
+ {
+  coords 11775.245 5.932 8823.505
+  angles 0 -135.948 0
+  scale 1.75
+ }
+ {
+  coords 11778.511 5.787 8817.034
+  angles 0 -99.819 0
+  scale 1.75
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{DEBC2FB8DA61B83E}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_short_nowalls.et" {
+ {
+  coords 12112.994 0.124 8578.383
+  angles 0 -179.364 0
+ }
+ {
+  coords 12022.685 1.351 8469.254
+  angles 0 -0.891 0
+ }
+ {
+  coords 12458.277 0.99 8730.79
+  angles 0 -179.692 0
+ }
+ {
+  coords 12479.844 0.99 8730.674
+  angles 0 -179.692 0
+ }
+}
+$grp GenericEntity : "{E0673017CF2EAAE4}Prefabs/Structures/Signs/Warnings/SignFuelStation_01_pole.et" {
+ {
+  coords 11904.484 6.906 8821.814
+  angles 0 -88.797 0
+ }
+ {
+  coords 11980.718 6.906 8725.237
+  angles 0 179.639 0
+ }
+}
+StaticModelEntity : "{E3612DD49C29AFAB}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_hose_V2.et" {
+ coords 12055.018 19.598 8666.838
+ angles 0 -50.71 0
+}
+$grp GenericEntity : "{E4DA6CFFCE8E5940}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_green.et" {
+ {
+  coords 12000.5 8 8581.897
+  angles 0 141.803 0
+ }
+ {
+  coords 12034.275 14.096 8595.426
+  angles 0 -45.28 0
+ }
+ {
+  coords 12126.54 6.749 8481.515
+  angles 0 86.381 0
+ }
+ {
+  coords 12180.121 11.211 8529.777
+  angles -1.683 141.79 0.755
+ }
+ {
+  coords 12129.646 13.464 8610.887
+  angles 0 -45.28 0
+ }
+ {
+  coords 12369.626 32 8605.902
+  angles 0 138.637 0
+ }
+ {
+  coords 12378.71 32 8586.191
+  angles 0 138.637 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{E50AA3C83633B05A}Prefabs/Structures/Industrial/Houses/Workshop_02/Workshop_02_ruined.et" {
+ coords 12133.974 -0.04 8715.152
+ angles 0 179.998 0
+}
+$grp GenericEntity : "{E757FCE9F55F6C57}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_green.et" {
+ {
+  coords 11778.104 6.906 8798.076
+  angles 0 141.296 0
+ }
+ {
+  coords 12043.973 19.581 8689.715
+  angles 0 -90.348 0
+ }
+ {
+  coords 12089.933 15.914 8623.059
+  angles 0 -90.348 0
+ }
+}
+$grp GenericEntity : "{E7FB58DA735DB7A0}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_06.et" {
+ {
+  coords 11979.998 6.906 8788.483
+ }
+ {
+  coords 11980.613 6.906 8785.78
+ }
+}
+$grp GenericEntity : "{E8AD23C4B23D9826}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_red.et" {
+ {
+  coords 12040.618 19.568 8695.05
+  angles 0 178.694 0
+ }
+ {
+  coords 12101.711 15.93 8623.376
+  angles 0 90 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{EBD26252635EDDCE}Prefabs/Structures/Industrial/Houses/HouseAddon_ShedMetal_01/HouseAddon_ShedMetal_01_Long.et" {
+ {
+  coords 11925.419 8.476 8544.45
+  angles 0 90.27 0
+ }
+ {
+  coords 12099.409 28.645 8681.78
+  angles 0 90.27 0
+ }
+}
+$grp StaticModelEntity : "{ED29E019F9280C74}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_8m_v2.et" {
+ {
+  coords 12498.172 0 8750.327
+  angles 0 58.698 0
+ }
+ {
+  coords 12504.598 0 8587.903
+  angles 0 140.749 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{EEEBF095E1B611CF}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_long_base.et" {
+ coords 12133.877 0.341 8691.986
+ angles 0 89.237 0
+}
+$grp StaticModelEntity : "{F1E0197D444D3A19}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Long.et" {
+ {
+  coords 12107.001 -0.015 8706.161
+  angles 0 179.985 0
+ }
+ {
+  coords 12346.825 0 8599.244
+  angles 0 88.065 0
+ }
+ {
+  coords 12358.361 0 8681.294
+  angles 0 -90.865 0
+ }
+ {
+  coords 12451.327 0.108 8581.942
+  angles 0 178.504 0
+ }
+}
+GenericEntity : "{F2C5628C6D12840C}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_HansaAtlantic.et" {
+ coords 12339.518 32 8749.682
+ angles 0 -2.414 0
+}
+$grp GenericEntity : "{F4BB6B6A0486F797}Prefabs/Props/Industrial/BarrelMetal_01_military.et" {
+ {
+  coords 11818.008 6.906 8777.026
+  angles 0 -69.715 0
+ }
+ {
+  coords 11826.406 6.906 8804.025
+  angles 0 -69.715 0
+ }
+ {
+  coords 11980.016 6.906 8783.54
+  angles 0 84.273 0
+ }
+ {
+  coords 12008.354 8 8575.506
+  angles 0.444 172.42 -0.059
+ }
+ {
+  coords 11992.997 7.875 8579.004
+  angles 0 172.421 0
+ }
+ {
+  coords 12121.394 6.769 8485.122
+  angles 0.444 172.42 -0.059
+ }
+ {
+  coords 12120.68 6.749 8479.239
+  angles 0.444 108.755 -0.059
+ }
+ {
+  coords 12180.438 11 8509.595
+ }
+ {
+  coords 12179.04 11 8510.31
+ }
+ {
+  coords 12179.031 11 8508.638
+ }
+ {
+  coords 12176.444 11 8510.061
+  angles 0 77.875 0
+ }
+ {
+  coords 12176.85 11 8511.572
+  angles 0 77.875 0
+ }
+ {
+  coords 12175.214 11 8511.231
+  angles 0 77.875 0
+ }
+ {
+  coords 12175.159 11 8513.165
+ }
+ {
+  coords 12173.769 11 8513.883
+ }
+ {
+  coords 12173.76 11 8512.211
+ }
+ {
+  coords 12169.643 11 8514.633
+  angles 0 175.901 0
+ }
+ {
+  coords 12171.084 11 8514.021
+  angles 0 175.901 0
+ }
+ {
+  coords 12170.975 11 8515.688
+  angles 0 175.901 0
+ }
+ {
+  coords 12178.085 11 8515.437
+  angles 0.444 172.42 -0.059
+ }
+ {
+  coords 12187.553 11 8506.784
+  angles 0.444 172.42 -0.059
+ }
+ {
+  coords 12135.243 13.463 8605.188
+  angles 0.444 172.42 -0.059
+ }
+ {
+  coords 12135.231 13.463 8601.047
+  angles 0.444 75.565 -0.059
+ }
+ {
+  coords 12141.787 32 8774.188
+  angles 0 -69.715 0
+ }
+ {
+  coords 12304.577 32 8714.013
+  angles 0 61.492 0
+ }
+ {
+  coords 12418.985 32.024 8580.933
+  angles -0.377 -32.704 0.242
+ }
+ {
+  coords 12414.375 31.945 8585.222
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12415.241 31.926 8586.685
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12415.945 31.951 8585.168
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12418.188 31.939 8586.495
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12418.463 31.962 8584.955
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12419.801 31.952 8585.958
+  angles 0.365 -127.246 0.794
+ }
+ {
+  coords 12420.67 31.981 8584.23
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12421.531 31.962 8585.688
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12422.233 31.987 8584.171
+  angles 0.854 154.875 -0.19
+ }
+ {
+  coords 12424.725 31.98 8585.186
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12426.289 31.984 8585.244
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12425.528 32.004 8583.724
+  angles -0.838 -29.225 0.25
+ }
+ {
+  coords 12422.242 19.992 8698.061
+  angles 0.181 -113.859 0.41
+ }
+ {
+  coords 12417.294 19.977 8694.163
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12415.981 19.961 8695.246
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12417.589 19.97 8695.706
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12416.621 19.949 8698.127
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12418.187 19.961 8698.163
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12417.401 19.947 8699.637
+  angles 0.488 151.594 0.225
+ }
+ {
+  coords 12419.241 19.957 8700.232
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12417.935 19.941 8701.307
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12419.54 19.951 8701.768
+  angles 0.322 73.717 -0.43
+ }
+ {
+  coords 12418.921 19.931 8704.383
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12419.104 19.924 8705.939
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12420.49 19.94 8704.957
+  angles -0.291 -110.382 0.452
+ }
+ {
+  coords 12373.904 32 8596.615
+  angles 0 53.531 0
+ }
+ {
+  coords 12374.197 32 8588.278
+  angles 0 -171.639 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{F5BECEAAA3A53E00}Prefabs/Structures/Houses/Garage/Garage_E_01/Garage_E_01.et" {
+ coords 12309.21 0.27 10814.245
+ angles 0 -148.328 0
+}
+$grp SCR_DestructibleBuildingEntity : "{F6CCBBDD7EDF3BEC}Prefabs/Structures/Industrial/Houses/Warehouse_01/Warehouse_01_V2.et" {
+ {
+  coords 12183.091 0.938 8640.073
+  angles 0 60.127 0
+ }
+ {
+  coords 12340.149 0.07 8551.979
+  angles 0 -92.922 0
+ }
+ {
+  coords 12307.425 0.519 8569.562
+  angles 0 -92.922 0
+ }
+ {
+  coords 12283.048 0.519 8582.504
+  angles 0 -92.922 0
+ }
+}
+$grp SCR_DestructibleEntity : "{F717C1D3B6A27867}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_03_8m.et" {
+ {
+  coords 12142.463 0 8777.658
+ }
+ {
+  coords 12138.46 0 8769.713
+  angles 0 270 0
+ }
+ {
+  coords 12138.46 0 8761.68
+  angles 0 270 0
+ }
+ {
+  coords 12138.46 0 8753.646
+  angles 0 270 0
+ }
+}
+$grp GenericEntity : "{F73662767AF7D7B5}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_blue.et" {
+ {
+  coords 11780.106 6.906 8799.686
+  angles 0 141.296 0
+ }
+ {
+  coords 12043.989 19.581 8687.141
+  angles 0 -90.348 0
+ }
+ {
+  coords 12089.949 15.914 8620.484
+  angles 0 -90.348 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{F9F2F6D2BD65B719}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Side.et" {
+ {
+  coords 12125.521 -0.09 8561.132
+  angles 0 -120.847 0
+ }
+ {
+  coords 12139.76 -0.09 8564.274
+  angles 0 59.367 0
+ }
+ {
+  coords 12364.848 0.009 8748.231
+  angles 0 -90.813 0
+ }
+ {
+  coords 12414.342 0 8733.44
+ }
+}
+GenericEntity : "{FD016719F98775F9}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_SZD.et" {
+ coords 12337.18 32 8726.738
+ angles 0 -2.414 0
+}
+$grp SCR_DestructibleBuildingEntity : "{FD1CE2903D41D4A7}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_8m.et" {
+ {
+  coords 12453.692 17.438 8605.243
+  angles 0 88.882 -7.343
+  scale 3.2
+ }
+ {
+  coords 12453.195 14.165 8630.644
+  angles 0 88.882 -7.343
+  scale 3.2
+ }
+ {
+  coords 12452.701 10.903 8655.953
+  angles 0 88.882 -7.343
+  scale 3.2
+ }
+ {
+  coords 12452.225 7.758 8680.354
+  angles 0 88.882 -7.343
+  scale 3.2
+ }
+ {
+  coords 12438.26 14.165 8630.348
+  angles -0.124 87.921 -7.342
+  scale 3.2
+ }
+ {
+  coords 12437.334 10.903 8655.646
+  angles -0.124 87.921 -7.342
+  scale 3.2
+ }
+ {
+  coords 12436.44 7.759 8680.035
+  angles -0.124 87.921 -7.342
+  scale 3.2
+ }
+ {
+  coords 12439.19 17.437 8604.963
+  angles -0.124 87.921 -7.342
+  scale 3.2
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{FDB73CBC36C9FE21}PrefabLibrary/DefaultLibrary/Infrastructure/Bridges/ConcreteBridge_01_Pillar.et" {
+ {
+  coords 12651.063 21.862 8503.837
+  angles 0 90 0
+ }
+ {
+  coords 12651.062 10.657 8503.827
+  angles 0 90 0
+ }
+ {
+  coords 12086.226 21.039 8641.354
+  angles 0 93.122 0
+ }
+ {
+  coords 12098.505 21.038 8640.685
+  angles 0 93.122 0
+ }
+ {
+  coords 12098.789 21.039 8645.889
+  angles 0 93.122 0
+ }
+ {
+  coords 12086.51 21.038 8646.559
+  angles 0 93.122 0
+ }
+ {
+  coords 12086.794 21.039 8651.771
+  angles 0 93.122 0
+ }
+ {
+  coords 12099.073 21.038 8651.1
+  angles 0 93.122 0
+ }
+}
+$grp StaticModelEntity : "{FF3B646DFC1CF5EB}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/HouseAddons/ShedMetal_02_RightWall.et" {
+ {
+  coords 12120.52 0 8578.503
+  angles 0 0.636 0
+ }
+ {
+  coords 12105.162 0.001 8578.673
+  angles 0 0.636 0
+ }
+ {
+  coords 12030.493 0.421 8469.177
+  angles 0 179.109 0
+ }
+ {
+  coords 12015.144 0.384 8468.94
+  angles 0 179.109 0
+ }
+ {
+  coords 12450.474 -0.001 8731.033
+  angles 0 0.308 0
+ }
+ {
+  coords 12465.82 -0.001 8730.948
+  angles 0 0.308 0
+ }
+ {
+  coords 12472.04 -0.001 8730.917
+  angles 0 0.308 0
+ }
+ {
+  coords 12487.387 -0.001 8730.832
+  angles 0 0.308 0
+ }
+}

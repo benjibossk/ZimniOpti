@@ -1,0 +1,637 @@
+﻿groupe;batiment/objet;texture;taille;format;VRAM_Mo;reduite_ZimniOpti;conseil;chemin
+Military;Platform;Plateform_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Props/Military/Platform/Data/Plateform_01_GLOBAL_MASK.edds
+barge;barge1;barge1final_BCR.edds;4096x4096;DXGI99;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Ships/barge/barge1/Data/barge1final_BCR.edds
+barge;barge2;barge2_BCR.edds;4096x4096;DXGI99;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Ships/barge/barge2/Data/barge2_BCR.edds
+barge;barge3;barge3_BCR.edds;4096x4096;DXGI99;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Ships/barge/barge3/Data/barge3_BCR.edds
+portecontainer;Data;HEAVY-LIFT-CARGO-SHIP-BRIDGE-BASE-DIFFUSE-.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Ships/portecontainer/Data/HEAVY-LIFT-CARGO-SHIP-BRIDGE-BASE-DIFFUSE-.edds
+portecontainer;Data;HEAVY-LIFT-CARGO-SHIP-HULL-BASE-DIFFUSE-ZI.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Ships/portecontainer/Data/HEAVY-LIFT-CARGO-SHIP-HULL-BASE-DIFFUSE-ZI.edds
+Hotel;BuildingParts;Hotel_01_panneau2_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/BuildingParts/Data/Hotel_01_panneau2_GLOBAL_MASK.edds
+Hotel;BuildingParts;Hotel_01_panneau_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/BuildingParts/Data/Hotel_01_panneau_GLOBAL_MASK.edds
+Hotel;BuildingParts;Hotel_01_Stair_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/BuildingParts/Data/Hotel_01_Stair_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_EXT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_01_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_EXT_01_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_01_VFX.edds
+Hotel;Data;Hotel_01_EXT_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_02_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_EXT_02_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_02_VFX.edds
+Hotel;Data;Hotel_01_EXT_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_03_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_EXT_03_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_03_VFX.edds
+Hotel;Data;Hotel_01_EXT_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_04_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_EXT_04_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_04_VFX.edds
+Hotel;Data;Hotel_01_EXT_05_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_EXT_05_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_etage_couloir_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_couloir_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_etage_couloir_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_couloir_VFX.edds
+Hotel;Data;hotel_01_INT_etage_room1_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_room1_GLOBAL_MASK.edds
+Hotel;Data;hotel_01_INT_etage_room1_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_room1_VFX.edds
+Hotel;Data;Hotel_01_INT_etage_room2_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room2_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_etage_room2_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room2_VFX.edds
+Hotel;Data;Hotel_01_INT_etage_room3_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room3_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_etage_room3_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room3_VFX.edds
+Hotel;Data;Hotel_01_INT_etage_room4_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room4_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_etage_room4_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_etage_room4_VFX.edds
+Hotel;Data;hotel_01_INT_etage_sdb_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_sdb_GLOBAL_MASK.edds
+Hotel;Data;hotel_01_INT_etage_sdb_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_sdb_VFX.edds
+Hotel;Data;hotel_01_INT_etage_toilet_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_toilet_GLOBAL_MASK.edds
+Hotel;Data;hotel_01_INT_etage_toilet_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/hotel_01_INT_etage_toilet_VFX.edds
+Hotel;Data;Hotel_01_INT_kitchen_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_kitchen_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_kitchen_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_kitchen_VFX.edds
+Hotel;Data;Hotel_01_INT_locker_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_locker_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_locker_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_locker_VFX.edds
+Hotel;Data;Hotel_01_INT_Office_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_Office_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_Office_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_Office_VFX.edds
+Hotel;Data;Hotel_01_INT_RDC_roof_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_RDC_roof_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_RDC_roof_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_RDC_roof_VFX.edds
+Hotel;Data;Hotel_01_INT_RDC_wall_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_RDC_wall_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_RDC_wall_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_RDC_wall_VFX.edds
+Hotel;Data;Hotel_01_INT_Reception_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_Reception_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_Reception_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_Reception_VFX.edds
+Hotel;Data;Hotel_01_INT_soussol_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_soussol_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_soussol_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_soussol_VFX.edds
+Hotel;Data;Hotel_01_INT_staircase_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_staircase_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_staircase_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_staircase_VFX.edds
+Hotel;Data;Hotel_01_INT_toilette_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_toilette_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_toilette_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_toilette_VFX.edds
+Hotel;Data;Hotel_01_INT_wall_corridor_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_wall_corridor_GLOBAL_MASK.edds
+Hotel;Data;Hotel_01_INT_wall_corridor_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Hotel/Data/Hotel_01_INT_wall_corridor_VFX.edds
+Infrastructure;Bridges;Bridge_02_Railing_turquoise_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Bridges/Data/Bridge_02_Railing_turquoise_GLOBAL_MASK.edds
+Infrastructure;Bridges;Pillar_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Bridges/Data/Pillar_01_GLOBAL_MASK.edds
+Infrastructure;Bridges;Under_Bridge_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Bridges/Data/Under_Bridge_01_GLOBAL_MASK.edds
+Infrastructure;Bridges;Under_Bridge_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Bridges/Data/Under_Bridge_02_GLOBAL_MASK.edds
+Infrastructure;Environmental;cave_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Environmental/Cave/Data/cave_04_GLOBAL_MASK.edds
+Infrastructure;Environmental;cave_04_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Environmental/Cave/Data/cave_04_VFX.edds
+Infrastructure;Power Plant;Concrete008_4K-PNG_Color.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Concrete008_4K-PNG_Color.edds
+Infrastructure;Power Plant;Concrete008_4K-PNG_NormalDX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Concrete008_4K-PNG_NormalDX.edds
+Infrastructure;Power Plant;Nuclear_Power_Plant_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Nuclear_Power_Plant_01_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Nuclear_Power_Plant_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Nuclear_Power_Plant_02_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Nuclear_Power_Plant_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Nuclear_Power_Plant_03_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Nuclear_Power_Plant_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;non;A REDUIRE en 2048;/Assets/Structures/Infrastructure/Power Plant/Data/Nuclear_Power_Plant_04_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_EXT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_EXT_01_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_EXT_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_EXT_02_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_EXT_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_EXT_03_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_EXT_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_EXT_04_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_01_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_02_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_02_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_02_VFX.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_03_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_03_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_03_VFX.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_04_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_05_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_05_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_06_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_06_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_07_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_07_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_08_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_08_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_09_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_09_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_10_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_10_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_11_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_11_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_11_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_11_VFX.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_12_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_12_GLOBAL_MASK.edds
+Infrastructure;Power Plant;Power_Plant_Main_Building_INT_13_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Power Plant/Data/Power_Plant_Main_Building_INT_13_GLOBAL_MASK.edds
+Infrastructure;Tunnel;Tunnel_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Tunnel/Data/Tunnel_01_GLOBAL_MASK.edds
+Infrastructure;Tunnel;Tunnel_01_left_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Tunnel/Data/Tunnel_01_left_GLOBAL_MASK.edds
+Infrastructure;Tunnel;Tunnel_01_right_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Infrastructure/Tunnel/Data/Tunnel_01_right_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_02_corridor_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_02_corridor_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_02_corridor_VFX.edds;4096x4096;DXGI98;21.3;non;A REDUIRE en 2048;/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_02_corridor_VFX.edds
+Military;Bunkers;Bunker_02_Silo_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_02_Silo_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_02_vent_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_02_vent_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_03_Ext_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_03_Ext_01_GLOBAL_MASK.edds
+Military;Bunkers;Casemate_01_EXT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Casemate_01_EXT_01_GLOBAL_MASK.edds
+Military;Bunkers;Casemate_01_INT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Bunkers/Complex/Data/Casemate_01_INT_01_GLOBAL_MASK.edds
+Military;Radar;Radar_01_01_addon_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Radar/Data/Radar_01_01_addon_GLOBAL_MASK.edds
+Military;Radar;Radar_01_02_addon_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Radar/Data/Radar_01_02_addon_GLOBAL_MASK.edds
+Military;Radar;Radar_01_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Radar/Data/Radar_01_02_GLOBAL_MASK.edds
+Military;Radar;Radar_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Military/Radar/Data/Radar_01_GLOBAL_MASK.edds
+Office;Data;Office_02_INT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Office/Data/Office_02_INT_01_GLOBAL_MASK.edds
+Office;Data;Office_02_INT_01_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Office/Data/Office_02_INT_01_VFX.edds
+Prison;Data;Prison_01_Ext_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Ext_01_GLOBAL_MASK.edds
+Prison;Data;Prison_01_Int_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_01_GLOBAL_MASK.edds
+Prison;Data;Prison_01_Int_01_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_01_VFX.edds
+Prison;Data;Prison_01_Int_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_02_GLOBAL_MASK.edds
+Prison;Data;Prison_01_Int_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_03_GLOBAL_MASK.edds
+Prison;Data;Prison_01_Int_03_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_03_VFX.edds
+Prison;Data;Prison_01_Int_04_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_04_GLOBAL_MASK.edds
+Prison;Data;Prison_01_Int_04_VFX.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_04_VFX.edds
+Prison;Data;Prison_01_Int_05_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Prison/Data/Prison_01_Int_05_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_etage_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_etage_01_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_etage_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_etage_02_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_EXT_01_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_EXT_01_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_EXT_02_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_EXT_02_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_EXT_03_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_EXT_03_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_RDC_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_RDC_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_02_stair_GLOBAL_MASK.edds;4096x4096;DXGI98;21.3;oui;deja reduite par ZimniOpti (2048);/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_stair_GLOBAL_MASK.edds
+Signs;Military;SignRectangle_01_140x100_ZAF_Army_BCR.edds;1834x1835;DXGI91;17.1;non;OK;/Assets/Structures/Signs/Military/SignRectangle_01_140x100_ZAF_Army_BCR.edds
+Civilian;Billiard_01;ZIM_map2.edds;4096x2672;DXGI98;13.9;non;A REDUIRE en 2048;/Assets/Props/Civilian/Billiard_01/Data/ZIM_map2.edds
+Civilian;Billiard_01;ZIM_map3.edds;4096x2672;DXGI98;13.9;oui;deja reduite par ZimniOpti (2048);/Assets/Props/Civilian/Billiard_01/Data/ZIM_map3.edds
+houses;Data;Bungalow_01_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Houses/houses/Data/Bungalow_01_GLOBAL_MASK.edds
+houses;Data;Bungalow_01_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Houses/houses/Data/Bungalow_01_VFX.edds
+houses;Data;Bungalow_02_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Houses/houses/Data/Bungalow_02_GLOBAL_MASK.edds
+houses;Data;Bungalow_02_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Houses/houses/Data/Bungalow_02_VFX.edds
+houses;Data;mask_mur.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Houses/houses/Data/textures/mask_mur.edds
+houses;Data;model_reforger_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Houses/houses/Data/textures/model_reforger_BCR.edds
+houses;Data;model_reforger_MNO.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Houses/houses/Data/textures/model_reforger_MNO.edds
+houses;Data;sol.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Houses/houses/Data/textures/sol.edds
+houses;Data;toit.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Houses/houses/Data/textures/toit.edds
+Civilian;reservoir;model_reforger_MNO.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Props/Civilian/reservoir/Data/model_reforger_MNO.edds
+Civilian;statue;beton_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Civilian/statue/Data/beton_BCR.edds
+Civilian;statue;beton_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Civilian/statue/Data/beton_NMO.edds
+Civilian;statue;enseigne01B_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Civilian/statue/Data/enseigne01B_BCR.edds
+Civilian;statue;enseigne01B_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Civilian/statue/Data/enseigne01B_NMO.edds
+Civilian;statue;enseigne_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Civilian/statue/Data/enseigne_BCR.edds
+Civilian;statue;enseigne_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Civilian/statue/Data/enseigne_NMO.edds
+Civilian;statue;poteau_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Civilian/statue/Data/poteau_NMO.edds
+Electric;Data;armoire1_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Electric/Data/armoire1_BCR.edds
+Electric;Data;armoire1_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Electric/Data/armoire1_NMO.edds
+Electric;Data;boite_elec021_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Electric/Data/boite_elec021_BCR.edds
+Electric;Data;boite_elec021_MNO.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Props/Electric/Data/boite_elec021_MNO.edds
+Electric;Data;boite_elec02_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Electric/Data/boite_elec02_BCR.edds
+Electric;Data;boite_elec02_MNO.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Props/Electric/Data/boite_elec02_MNO.edds
+Rocket;Data;Rocket_01_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Rocket/Data/Rocket_01_BCR.edds
+Trains;Data;tem_box_wagon_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Trains/Data/tem_box_wagon_BCR.edds
+Trains;Data;tem_box_wagon_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Trains/Data/tem_box_wagon_NMO.edds
+Trains;Data;tem_flat_01_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Trains/Data/tem_flat_01_BCR.edds
+Trains;Data;tem_flat_01_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Trains/Data/tem_flat_01_NMO.edds
+Trains;Data;tem_tanker_01_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Trains/Data/tem_tanker_01_BCR.edds
+Trains;Data;tem_tanker_01_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Trains/Data/tem_tanker_01_NMO.edds
+Trains;Data;tem_train_blue_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Trains/Data/tem_train_blue_BCR.edds
+Trains;Data;tem_train_blue_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Trains/Data/tem_train_blue_NMO.edds
+Trains;Data;tem_train_indoor_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Props/Trains/Data/tem_train_indoor_BCR.edds
+Trains;Data;tem_train_indoor_NMO.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Props/Trains/Data/tem_train_indoor_NMO.edds
+fishingboat;Data;fishingboat_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Ships/fishingboat/Data/fishingboat_BCR.edds
+Airport;Props;Airport_bench_01_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_bench_01_BCR.edds
+Military;BuildingsParts;Bunker_01_Monte_Charge_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Bunker_01_Monte_Charge_GLOBAL_MASK.edds
+Military;BuildingsParts;Bunker_01_Monte_Charge_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Bunker_01_Monte_Charge_VFX.edds
+Military;BuildingsParts;Hangar_01_door_L_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Hangar_01_door_L_GLOBAL_MASK.edds
+Military;BuildingsParts;Hangar_01_door_L_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Hangar_01_door_L_VFX.edds
+Military;BuildingsParts;Hangar_01_door_R_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Hangar_01_door_R_GLOBAL_MASK.edds
+Military;BuildingsParts;Hangar_01_door_R_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/BuildingsParts/Data/Hangar_01_door_R_VFX.edds
+Military;Bunkers;Hangar_01_Ext_01_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/AirfieldHangar/Data/Hangar_01_Ext_01_GLOBAL_MASK.edds
+Military;Bunkers;Hangar_01_Int_01_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/AirfieldHangar/Data/Hangar_01_Int_01_GLOBAL_MASK.edds
+Military;Bunkers;Hangar_01_Int_01_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/AirfieldHangar/Data/Hangar_01_Int_01_VFX.edds
+Military;Bunkers;Bunker_01_1er_couloir_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_couloir_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_couloir_hangar_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_couloir_hangar_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_couloir_hangar_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_couloir_hangar_VFX.edds
+Military;Bunkers;Bunker_01_1er_couloir_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_couloir_VFX.edds
+Military;Bunkers;Bunker_01_1er_garage_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_garage_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_garage_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_garage_VFX.edds
+Military;Bunkers;Bunker_01_1er_Hall_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_Hall_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_Hall_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_Hall_VFX.edds
+Military;Bunkers;Bunker_01_1er_HUB_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_HUB_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_HUB_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_HUB_VFX.edds
+Military;Bunkers;Bunker_01_1er_salle1_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_salle1_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_salle1_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_salle1_VFX.edds
+Military;Bunkers;Bunker_01_1er_salle2_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_salle2_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_1er_salle2_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_1er_salle2_VFX.edds
+Military;Bunkers;Bunker_01_2eme_couloir_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_couloir_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_couloir_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_couloir_VFX.edds
+Military;Bunkers;Bunker_01_2eme_garage_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_garage_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_garage_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_garage_VFX.edds
+Military;Bunkers;Bunker_01_2eme_Hall_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_Hall_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_Hall_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_Hall_VFX.edds
+Military;Bunkers;Bunker_01_2eme_salle1_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle1_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_salle1_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle1_VFX.edds
+Military;Bunkers;Bunker_01_2eme_salle2_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle2_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_salle2_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle2_VFX.edds
+Military;Bunkers;Bunker_01_2eme_salle3_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle3_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_2eme_salle3_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_2eme_salle3_VFX.edds
+Military;Bunkers;Bunker_01_3eme_cafetariat_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_cafetariat_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_3eme_cafetariat_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_cafetariat_VFX.edds
+Military;Bunkers;Bunker_01_3eme_couloir_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_couloir_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_3eme_couloir_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_couloir_VFX.edds
+Military;Bunkers;Bunker_01_3eme_dortoir_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_dortoir_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_3eme_dortoir_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_dortoir_VFX.edds
+Military;Bunkers;Bunker_01_3eme_machine_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_machine_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_3eme_machine_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_3eme_machine_VFX.edds
+Military;Bunkers;Bunker_01_escalier_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_escalier_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_escalier_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_escalier_VFX.edds
+Military;Bunkers;Bunker_01_Tunnel_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_Tunnel_GLOBAL_MASK.edds
+Military;Bunkers;Bunker_01_Tunnel_VFX.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Military/Bunkers/Complex/Data/Bunker_01_Tunnel_VFX.edds
+Office;Data;Office_02_INT_02_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Office/Data/Office_02_INT_02_GLOBAL_MASK.edds
+Prison;Data;Prison_03_EXT_01_GLOBAL_MASK.edds;2048x2048;DXGI98;5.3;non;possible 1024 (masque/normal);/Assets/Structures/Prison/Data/Prison_03_EXT_01_GLOBAL_MASK.edds
+Rails;C_Box;Cbox_BCR.edds;2048x2048;DXGI99;5.3;non;OK;/Assets/Structures/Rails/C_Box/Data/Cbox_BCR.edds
+Rails;C_Box;Cbox_MNO.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Structures/Rails/C_Box/Data/Cbox_MNO.edds
+Signs;extraLarge;zim3.edds;2048x2048;DXGI98;5.3;non;OK;/Assets/Structures/Signs/extraLarge/Data/zim3.edds
+Tractor1;Data;N_c4381bd9194e4503a65fef94dcfdca64_Base_normal.edds;2048x2048;DXT1;2.7;non;OK;/Assets/Farm_vehicle/Tractor1/Data/N_c4381bd9194e4503a65fef94dcfdca64_Base_normal.edds
+Rocket;Data;Rocket_01_Normal.edds;2048x2048;DXT1;2.7;non;OK;/Assets/Props/Rocket/Data/Rocket_01_Normal.edds
+Commercial;Posters;Ben.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Ben.edds
+Commercial;Posters;Casseburne.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Casseburne.edds
+Commercial;Posters;Giorbev.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Giorbev.edds
+Commercial;Posters;Nastar.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Nastar.edds
+Commercial;Posters;Scelsi.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Scelsi.edds
+Commercial;Posters;Slava.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Slava.edds
+Commercial;Posters;Tanin.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Tanin.edds
+Commercial;Posters;Tigrou.edds;575x861;RGB32;2.5;non;OK;/Assets/Props/Commercial/Posters/Data/Tigrou.edds
+Remorque1;Data;RGB_8d1815ee522e4bd7ba2901a4b4cf7b44_Detals_diffus_map2.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Farm_vehicle/Remorque1/Data/RGB_8d1815ee522e4bd7ba2901a4b4cf7b44_Detals_diffus_map2.edds
+Remorque1;Data;RGB_9b76f398189b49698cbf59bdb3200212_Wheel_Albedo.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Farm_vehicle/Remorque1/Data/RGB_9b76f398189b49698cbf59bdb3200212_Wheel_Albedo.edds
+Remorque1;Data;RGB_d135e20af6134c22a934fab3965fce82_Kuzov_Albedo.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Farm_vehicle/Remorque1/Data/RGB_d135e20af6134c22a934fab3965fce82_Kuzov_Albedo.edds
+Remorque1;Data;RGB_e37b1f37a253472fae74f5d0b9589a65_Rama_Albedo.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Farm_vehicle/Remorque1/Data/RGB_e37b1f37a253472fae74f5d0b9589a65_Rama_Albedo.edds
+Tractor1;Data;RGB_75960bf2ce034d328f25bfc5ab8edc32_Base_albedo.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Farm_vehicle/Tractor1/Data/RGB_75960bf2ce034d328f25bfc5ab8edc32_Base_albedo.edds
+Town;Village;Exterior_02_MCR.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Houses/Town/Village/Single Floor Buildings/Exterior_02_MCR.edds
+Civilian;statue;enseigneGru_BCR.edds;1024x1024;DXGI99;1.3;non;OK;/Assets/Props/Civilian/statue/Data/enseigneGru_BCR.edds
+Civilian;statue;enseigneGru_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Civilian/statue/Data/enseigneGru_NMO.edds
+Civilian;statue;steleGru_BCR.edds;1024x1024;DXGI99;1.3;non;OK;/Assets/Props/Civilian/statue/Data/steleGru_BCR.edds
+Civilian;statue;steleGru_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Civilian/statue/Data/steleGru_NMO.edds
+Crane;Data;tem_cranecon_construction_BCR.edds;1024x1024;DXGI99;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_construction_BCR.edds
+Crane;Data;tem_cranecon_construction_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_construction_NMO.edds
+Crane;Data;tem_cranecon_grid_BCR.edds;1024x1024;DXGI99;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_grid_BCR.edds
+Crane;Data;tem_cranecon_grid_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_grid_NMO.edds
+Crane;Data;tem_cranecon_mask.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_mask.edds
+Crane;Data;tem_cranecon_mc.edds;1024x1024;DXGI99;1.3;non;OK;/Assets/Props/Crane/Data/tem_cranecon_mc.edds
+Logo;Data;Zimnitrita_Logo_01_VFX.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Logo/Data/Zimnitrita_Logo_01_VFX.edds
+Truck;logtrailer;Logging_Trailer_Chassis.001_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Props/Truck/logtrailer/Data/Logging_Trailer_Chassis.001_NMO.edds
+portecontainer;Data;b9c5fd985acf4923b8ca9cafccf3d38c_RGB_HEAVY-LIFT-CARGO-SHIP-WINDOWS-BASE-DIFFUSE.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Ships/portecontainer/Data/b9c5fd985acf4923b8ca9cafccf3d38c_RGB_HEAVY-LIFT-CARGO-SHIP-WINDOWS-BASE-DIFFUSE.edds
+BuildingsParts;Graffiti;Block_B.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/BuildingsParts/Graffiti/Data/Block_B.edds
+BuildingsParts;Graffiti;Block_C.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/BuildingsParts/Graffiti/Data/Block_C.edds
+BuildingsParts;Graffiti;Block_D.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/BuildingsParts/Graffiti/Data/Block_D.edds
+Cultural;Statues;StatueAnchor_01_plaque_Decal_NMO.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/Cultural/Statues/StatueAnchor_01/Data/StatueAnchor_01_plaque_Decal_NMO.edds
+Infrastructure;Piping;H1_GLOBAL_MASK.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/Infrastructure/Piping/Data/H1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_R_1_GLOBAL_MASK.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_1_GLOBAL_MASK.edds
+Rails;Pillars;Pillar_02_GLOBAL_MASK.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/Rails/Pillars/Data/Pillar_02_GLOBAL_MASK.edds
+Services;Hospital;Helipad.edds;1024x1024;DXGI98;1.3;non;OK;/Assets/Structures/Services/Hospital/Data/Helipad.edds
+BuildingsParts;S;Secret.edds;500x398;RGB32;1.0;non;OK;/Assets/Structures/BuildingsParts/S/E/C/R/E/T/Secret.edds
+Signs;Military;Sign_Tourism.edds;443x444;DXGI93;1.0;non;OK;/Assets/Structures/Signs/Military/Data/Sign_Tourism.edds
+Airport;Props;windows-xp-hd.edds;500x281;RGB32;0.7;non;OK;/Assets/Structures/Airport/Props/Data/windows-xp-hd.edds
+Military;Training;TargetInfantry_01_Details_Casseburne_BCR.edds;1024x512;DXGI99;0.7;non;OK;/Assets/Props/Military/Training/TargetInfantry_01/data/TargetInfantry_01_Details_Casseburne_BCR.edds
+Military;Training;TargetInfantry_01_Details_Nastar_BCR.edds;1024x512;DXGI99;0.7;non;OK;/Assets/Props/Military/Training/TargetInfantry_01/data/TargetInfantry_01_Details_Nastar_BCR.edds
+Military;Training;TargetInfantry_01_Details_Tanin_BCR.edds;1024x512;DXGI99;0.7;non;OK;/Assets/Props/Military/Training/TargetInfantry_01/data/TargetInfantry_01_Details_Tanin_BCR.edds
+Remorque1;Data;N_4a621445168c43ed8b1d404ca47670ac_Kuzov_Normal.edds;1024x1024;DXGI72;0.7;non;OK;/Assets/Farm_vehicle/Remorque1/Data/N_4a621445168c43ed8b1d404ca47670ac_Kuzov_Normal.edds
+Remorque1;Data;N_55c83d4f9a9e4dfc83c2964141f67077_Rama_Normal.edds;1024x1024;DXGI72;0.7;non;OK;/Assets/Farm_vehicle/Remorque1/Data/N_55c83d4f9a9e4dfc83c2964141f67077_Rama_Normal.edds
+Remorque1;Data;N_af053f2a6bda4d18a71a27ee9de8922d_Wheel_Normal.edds;1024x1024;DXGI72;0.7;non;OK;/Assets/Farm_vehicle/Remorque1/Data/N_af053f2a6bda4d18a71a27ee9de8922d_Wheel_Normal.edds
+BuildingsParts;Graffiti;Block_A.edds;1024x1024;DXGI80;0.7;non;OK;/Assets/Structures/BuildingsParts/Graffiti/Data/Block_A.edds
+Civilian;statue;andru_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/andru_BCR.edds
+Civilian;statue;andru_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/andru_NMO.edds
+Civilian;statue;image01_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/image01_BCR.edds
+Civilian;statue;image01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/image01_NMO.edds
+Civilian;statue;image_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/image_BCR.edds
+Civilian;statue;image_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/image_NMO.edds
+Civilian;statue;logo_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/logo_BCR.edds
+Civilian;statue;logo_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/logo_NMO.edds
+Civilian;statue;poteau_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/poteau_BCR.edds
+Civilian;statue;support2_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/support2_BCR.edds
+Civilian;statue;support2_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/support2_NMO.edds
+Civilian;statue;support_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/support_BCR.edds
+Civilian;statue;support_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/support_NMO.edds
+Civilian;statue;zim_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Civilian/statue/Data/zim_BCR.edds
+Civilian;statue;zim_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Civilian/statue/Data/zim_NMO.edds
+Commercial;LogoRadio;Fer_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Commercial/LogoRadio/Data/Fer_BCR.edds
+Commercial;LogoRadio;Fer_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Props/Commercial/LogoRadio/Data/Fer_NMO.edds
+Commercial;SignPub_01;Tigrous_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Props/Commercial/SignPub_01/Tigrous_BCR.edds
+Airport;enseigne;fer01_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer01_BCR.edds
+Airport;enseigne;fer01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer01_NMO.edds
+Airport;enseigne;fer02_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer02_BCR.edds
+Airport;enseigne;fer02_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer02_NMO.edds
+Airport;enseigne;fer03_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer03_BCR.edds
+Airport;enseigne;fer03_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/enseigne/Data/fer03_NMO.edds
+Airport;Hangar_01;ZIMNITRITA_Hangar_01_MLOD_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/Hangar_01/Data/ZIMNITRITA_Hangar_01_MLOD_BCR.edds
+Airport;Props;Airport_bench_01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_bench_01_NMO.edds
+Airport;Props;Airport_computer_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_computer_01_GLOBAL_MASK.edds
+Airport;Props;Airport_computer_01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_computer_01_VFX.edds
+Airport;Props;Airport_sign_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_sign_GLOBAL_MASK.edds
+Airport;Props;Airport_sign_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Airport_sign_VFX.edds
+Airport;Props;Barier_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Barier_01_GLOBAL_MASK.edds
+Airport;Props;Escalator_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Escalator_01_GLOBAL_MASK.edds
+Airport;Props;Escalator_01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Escalator_01_VFX.edds
+Airport;Props;Metal_Detector_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Metal_Detector_01_GLOBAL_MASK.edds
+Airport;Props;Metal_Detector_01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Metal_Detector_01_VFX.edds
+Airport;Props;Metal_detector_02_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Metal_detector_02_GLOBAL_MASK.edds
+Airport;Props;Metal_detector_02_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Props/Data/Metal_detector_02_VFX.edds
+Airport;Terminal;Airport_01_Ext_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Ext_01_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Ext_01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Ext_01_VFX.edds
+Airport;Terminal;Airport_01_Ext_02_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Ext_02_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Ext_02_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Ext_02_VFX.edds
+Airport;Terminal;Airport_01_Int_02_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_02_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Int_02_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_02_VFX.edds
+Airport;Terminal;Airport_01_Int_03_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_03_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Int_03_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_03_VFX.edds
+Airport;Terminal;Airport_01_Int_04_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_04_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Int_05_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_05_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Int_06_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_06_GLOBAL_MASK.edds
+Airport;Terminal;Airport_01_Int_06_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Airport_01_Int_06_VFX.edds
+Airport;Terminal;Marble_tiles_01_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Marble_tiles_01_BCR.edds
+Airport;Terminal;Marble_tiles_01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Marble_tiles_01_NMO.edds
+Airport;Terminal;Terrazzo_tiles_01_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Terrazzo_tiles_01_BCR.edds
+Airport;Terminal;Terrazzo_tiles_01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Airport/Terminal/Data/Terrazzo_tiles_01_NMO.edds
+Industrial;Hangar;Hangar_01_ext_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_01_ext_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_01_ext_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_01_ext_VFX.edds
+Industrial;Hangar;Hangar_01_int_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_01_int_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_02_Ext_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_02_Ext_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_02_Ext_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_02_Ext_VFX.edds
+Industrial;Hangar;Hangar_02_Int_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_02_Int_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_02_Int_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_02_Int_VFX.edds
+Industrial;Hangar;Hangar_03_Ext_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_03_Ext_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_03_Int_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_03_Int_GLOBAL_MASK.edds
+Industrial;Hangar;Hangar_03_Int_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Hangar/Data/Hangar_03_Int_VFX.edds
+Industrial;Old Industrial Building;Old_Factory_01_Ext01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_01_Ext01_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_01_Ext01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_01_Ext01_VFX.edds
+Industrial;Old Industrial Building;Old_Factory_01_Int01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_01_Int01_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_01_Int01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_01_Int01_VFX.edds
+Industrial;Old Industrial Building;Old_Factory_01_Int_03_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_01_Int_03_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_02_Ext01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Ext01_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_02_Ext01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Ext01_VFX.edds
+Industrial;Old Industrial Building;Old_Factory_02_Int01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Int01_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_02_Int01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Int01_VFX.edds
+Industrial;Old Industrial Building;Old_Factory_02_Int02_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Int02_GLOBAL_MASK.edds
+Industrial;Old Industrial Building;Old_Factory_02_Int_03_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Industrial/Old Industrial Building/Data/Old_Factory_02_Int_03_GLOBAL_MASK.edds
+Office;Data;Office_01_mur.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_01_mur.edds
+Office;Data;Office_01_sol.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_01_sol.edds
+Office;Data;Office_01_toit.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_01_toit.edds
+Office;Data;Office_02_EXT_01_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_EXT_01_GLOBAL_MASK.edds
+Office;Data;Office_02_EXT_01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_EXT_01_VFX.edds
+Office;Data;Office_02_EXT_02_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_EXT_02_GLOBAL_MASK.edds
+Office;Data;Office_02_EXT_02_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_EXT_02_VFX.edds
+Office;Data;Office_02_EXT_03_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_EXT_03_GLOBAL_MASK.edds
+Office;Data;Office_02_INT_04_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Office/Data/Office_02_INT_04_GLOBAL_MASK.edds
+Rails;Barier;BARIER2.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Barier/Data/BARIER2.edds
+Rails;C_Box;CBox.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/C_Box/Data/CBox.edds
+Rails;C_Box;Cbox512_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Rails/C_Box/Data/Cbox512_BCR.edds
+Rails;Rail Tower;Railway_Tower_INT01_VFX.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_INT01_VFX.edds
+Rails;Sign;Ltower.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Sign/Data/textures/Ltower.edds
+Rails;Sign;sign011.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign011.edds
+Rails;Sign;sign02.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign02.edds
+Rails;Sign;sign03.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign03.edds
+Rails;Sign;sign04.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign04.edds
+Services;Police;Police_text_GLOBAL_MASK.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Services/Police/Data/Police_text_GLOBAL_MASK.edds
+Signs;Directions;dir_aeroport.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_aeroport.edds
+Signs;Directions;dir_aeroport2jpg.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_aeroport2jpg.edds
+Signs;Directions;dir_ANDRUHANOV.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_ANDRUHANOV.edds
+Signs;Directions;dir_GLOCHY.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_GLOCHY.edds
+Signs;Directions;dir_gruwice.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_gruwice.edds
+Signs;Directions;dir_NISCOVA.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_NISCOVA.edds
+Signs;Directions;dir_STERENI.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_STERENI.edds
+Signs;Directions;dir_SZARLOTA.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Directions/dir_SZARLOTA.edds
+Signs;extraLarge;mask.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/extraLarge/Data/mask.edds
+Signs;extraLarge;mask02.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/extraLarge/Data/mask02.edds
+Signs;Large;modele _signLarge01_niscova.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/modele _signLarge01_niscova.edds
+Signs;Large;modele _signLarge02_Gruwice.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/modele _signLarge02_Gruwice.edds
+Signs;Large;modele _signLarge05_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/modele _signLarge05_Public.edds
+Signs;Large;signLarge01_LogoRadio.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_LogoRadio.edds
+Signs;Large;signLarge01_Pub01_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_Pub01_Public.edds
+Signs;Large;signLarge01_Pub02_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_Pub02_Public.edds
+Signs;Large;signLarge01_Pub03_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_Pub03_Public.edds
+Signs;Large;signLarge01_Pub04_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_Pub04_Public.edds
+Signs;Large;signLarge01_RailG.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge01_RailG.edds
+Signs;Large;signLarge02_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge02_Public.edds
+Signs;Large;signLarge03_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge03_Public.edds
+Signs;Large;signLarge04_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge04_Public.edds
+Signs;Large;signLarge05_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge05_Public.edds
+Signs;Large;signLarge06_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge06_Public.edds
+Signs;Large;signLarge07_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge07_Public.edds
+Signs;Large;signLarge08_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge08_Public.edds
+Signs;Large;signLarge09_Public.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLarge09_Public.edds
+Signs;Large;signLargePub01.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Large/textures/signLargePub01.edds
+Signs;Road;B1A_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B1A_BCR.edds
+Signs;Road;B1A_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B1A_NMO.edds
+Signs;Road;B1Bt_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B1Bt_BCR.edds
+Signs;Road;B2A_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B2A_BCR.edds
+Signs;Road;B2A_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B2A_NMO.edds
+Signs;Road;B2B_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B2B_BCR.edds
+Signs;Road;B2C_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/B2C_BCR.edds
+Signs;Road;decoMask01.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Road/Data/decoMask01.edds
+Signs;Road;decoMask02.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Road/Data/decoMask02.edds
+Signs;Road;Pa01E_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa01E_BCR.edds
+Signs;Road;pA01F_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/pA01F_BCR.edds
+Signs;Road;Pa_01A_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa_01A_BCR.edds
+Signs;Road;Pa_01B_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa_01B_BCR.edds
+Signs;Road;Pa_01C_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa_01C_BCR.edds
+Signs;Road;PA_01D_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/PA_01D_BCR.edds
+Signs;Road;Pa_01F_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa_01F_BCR.edds
+Signs;Road;Pa_01_NMO.edds;512x512;DXGI98;0.3;non;OK;/Assets/Structures/Signs/Road/Data/Pa_01_NMO.edds
+Signs;Warnings;Sign_Warning_Deform02_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Warnings/Data/Sign_Warning_Deform02_BCR.edds
+Signs;Warnings;Sign_Warning_Deform_BCR.edds;512x512;DXGI99;0.3;non;OK;/Assets/Structures/Signs/Warnings/Data/Sign_Warning_Deform_BCR.edds
+Infrastructure;Piping;Meter_1_BaseColor.edds;202x202;RGB32;0.2;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Meter_1_BaseColor.edds
+Military;BuildingsParts;Danger_Stripe_01_BCR.edds;128x1024;DXGI99;0.2;non;OK;/Assets/Structures/Military/BuildingsParts/Data/Danger_Stripe_01_BCR.edds
+Signs;TownNames;AJVAN.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Ajvan/AJVAN.edds
+Signs;TownNames;AJVAN_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Ajvan/AJVAN_end.edds
+Signs;TownNames;ANDRUHANOV.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Andruhanov/ANDRUHANOV.edds
+Signs;TownNames;ANDRUHANOV_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Andruhanov/ANDRUHANOV_end.edds
+Signs;TownNames;ANTONIEVSK.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Antonievsk/ANTONIEVSK.edds
+Signs;TownNames;ANTONIEVSK_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Antonievsk/ANTONIEVSK_end.edds
+Signs;TownNames;BARACHUK.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Barachuk/BARACHUK.edds
+Signs;TownNames;BARACHUK_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Barachuk/BARACHUK_end.edds
+Signs;TownNames;Bardejov.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Bardejov/Bardejov.edds
+Signs;TownNames;Bardejov_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Bardejov/Bardejov_end.edds
+Signs;TownNames;Basaraci.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Basarasi/Basaraci.edds
+Signs;TownNames;Basaraci_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Basarasi/Basaraci_end.edds
+Signs;TownNames;Bojtin.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Bojtin/Bojtin.edds
+Signs;TownNames;Bojtin_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Bojtin/Bojtin_end.edds
+Signs;TownNames;Csgory.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Csorgy/Csgory.edds
+Signs;TownNames;Csgory_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Csorgy/Csgory_end.edds
+Signs;TownNames;GLOCHY.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Glochy/GLOCHY.edds
+Signs;TownNames;GLOCHY_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Glochy/GLOCHY_end.edds
+Signs;TownNames;GRUSHEVKA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Grushevka/GRUSHEVKA.edds
+Signs;TownNames;GRUSHEVKA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Grushevka/GRUSHEVKA_end.edds
+Signs;TownNames;GRUWICE.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Gruwice/GRUWICE.edds
+Signs;TownNames;GRUWICE_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Gruwice/GRUWICE_end.edds
+Signs;TownNames;Jambon-en-bas.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Jambon-en-Bas/Jambon-en-bas.edds
+Signs;TownNames;Jambon-en-bas_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Jambon-en-Bas/Jambon-en-bas_end.edds
+Signs;TownNames;Jambon-en-haut.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Jambon-en-Haut/Jambon-en-haut.edds
+Signs;TownNames;Jambon-en-haut_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Jambon-en-Haut/Jambon-en-haut_end.edds
+Signs;TownNames;Koclav.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Koclav/Koclav.edds
+Signs;TownNames;Koclav_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Koclav/Koclav_end.edds
+Signs;TownNames;KROMZOVA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Kromzova/KROMZOVA.edds
+Signs;TownNames;KROMZOVA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Kromzova/KROMZOVA_end.edds
+Signs;TownNames;MOTYKA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Motyka/MOTYKA.edds
+Signs;TownNames;MOTYKA_END.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Motyka/MOTYKA_END.edds
+Signs;TownNames;NIENA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Nienia/NIENA_end.edds
+Signs;TownNames;NIENIA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Nienia/NIENIA.edds
+Signs;TownNames;NISCOVA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Niscova/NISCOVA.edds
+Signs;TownNames;NISCOVA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Niscova/NISCOVA_end.edds
+Signs;TownNames;Nova_Frusca.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Nova Frusca/Nova_Frusca.edds
+Signs;TownNames;Nova_Frusca_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Nova Frusca/Nova_Frusca_end.edds
+Signs;TownNames;Parun.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Parun/Parun.edds
+Signs;TownNames;Parun_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Parun/Parun_end.edds
+Signs;TownNames;Sabihy.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sabihy/Sabihy.edds
+Signs;TownNames;Sabihy_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sabihy/Sabihy_end.edds
+Signs;TownNames;SARTAVA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sartava/SARTAVA.edds
+Signs;TownNames;SARTAVA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sartava/SARTAVA_end.edds
+Signs;TownNames;Sladkodince.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sladkodince/Sladkodince.edds
+Signs;TownNames;Sladkodince_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sladkodince/Sladkodince_end.edds
+Signs;TownNames;SOKYYIV.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sokyyiv/SOKYYIV.edds
+Signs;TownNames;SOKYYIV_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Sokyyiv/SOKYYIV_end.edds
+Signs;TownNames;SOPERK.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Soperk/SOPERK.edds
+Signs;TownNames;SOPERK_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Soperk/SOPERK_end.edds
+Signs;TownNames;STERENI.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Stereni/STERENI.edds
+Signs;TownNames;STERENI_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Stereni/STERENI_end.edds
+Signs;TownNames;SZARLOTA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Szarlota/SZARLOTA.edds
+Signs;TownNames;SZARLOTA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Szarlota/SZARLOTA_end.edds
+Signs;TownNames;SZILIS.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Szilis/SZILIS.edds
+Signs;TownNames;SZILIS_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Szilis/SZILIS_end.edds
+Signs;TownNames;Truha.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Truha/Truha.edds
+Signs;TownNames;Truha_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Truha/Truha_end.edds
+Signs;TownNames;Ungru.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Ungru/Ungru.edds
+Signs;TownNames;Ungru_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Ungru/Ungru_end.edds
+Signs;TownNames;VALADIM.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Valadim/VALADIM.edds
+Signs;TownNames;VALADIM_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Valadim/VALADIM_end.edds
+Signs;TownNames;VARPADANY.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Varpadany/VARPADANY.edds
+Signs;TownNames;VARPADANY_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Varpadany/VARPADANY_end.edds
+Signs;TownNames;Verkhnia_Kamyanka.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Verkhnia Kamyanka/Verkhnia_Kamyanka.edds
+Signs;TownNames;Verkhnia_Kamyanka_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Verkhnia Kamyanka/Verkhnia_Kamyanka_end.edds
+Signs;TownNames;Vilersk.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vilersk/Vilersk.edds
+Signs;TownNames;Vilersk_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vilersk/Vilersk_end.edds
+Signs;TownNames;VRANA.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vrana/VRANA.edds
+Signs;TownNames;VRANA_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vrana/VRANA_end.edds
+Signs;TownNames;Vyerhnyaryta.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vyerhnyaryta/Vyerhnyaryta.edds
+Signs;TownNames;Vyerhnyaryta_end.edds;512x256;DXGI98;0.2;non;OK;/Assets/Structures/Signs/TownNames/Vyerhnyaryta/Vyerhnyaryta_end.edds
+Civilian;Blockroad;maskL.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/Blockroad/Data/maskL.edds
+Civilian;Blockroad;maskl2.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/Blockroad/Data/maskl2.edds
+Civilian;construction;barrelblue_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/barrelblue_BCR.edds
+Civilian;construction;barrelblue_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/barrelblue_MNO.edds
+Civilian;construction;barriere_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/barriere_BCR.edds
+Civilian;construction;barriere_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/barriere_MNO.edds
+Civilian;construction;ciment01_BCT.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/ciment01_BCT.edds
+Civilian;construction;cimentpipe_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/cimentpipe_BCR.edds
+Civilian;construction;cimentpipe_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/cimentpipe_MNO.edds
+Civilian;construction;ciment_01_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/ciment_01_MNO.edds
+Civilian;construction;generator2_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/generator2_BCR.edds
+Civilian;construction;generator_2_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/generator_2_MNO.edds
+Civilian;construction;generator_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/generator_BCR.edds
+Civilian;construction;generator_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/generator_MNO.edds
+Civilian;construction;parpaing_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/parpaing_BCR.edds
+Civilian;construction;parpaing_mno.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/parpaing_mno.edds
+Civilian;construction;rebar_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/rebar_BCR.edds
+Civilian;construction;rebar_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/rebar_MNO.edds
+Civilian;construction;toile_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/toile_BCR.edds
+Civilian;construction;toile_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/toile_MNO.edds
+Civilian;construction;watertank_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/watertank_BCR.edds
+Civilian;construction;watertank_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/watertank_MNO.edds
+Civilian;construction;wc_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/wc_BCR.edds
+Civilian;construction;wc_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Civilian/construction/set01/Data/wc_MNO.edds
+Civilian;reservoir;model_reforger_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Civilian/reservoir/Data/model_reforger_BCR.edds
+Logo;Data;Zimnitrita_Logo_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Logo/Data/Zimnitrita_Logo_01_GLOBAL_MASK.edds
+Truck;containertrailer;Container_Trailer_Chassis_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/containertrailer/Data/Container_Trailer_Chassis_BCR.edds
+Truck;containertrailer;Container_Trailer_Chassis_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Truck/containertrailer/Data/Container_Trailer_Chassis_NMO.edds
+Truck;containertrailer;Semi_Truck_Wheels.001_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/containertrailer/Data/Semi_Truck_Wheels.001_BCR.edds
+Truck;containertrailer;Semi_Truck_Wheels.001_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Truck/containertrailer/Data/Semi_Truck_Wheels.001_NMO.edds
+Truck;flatbedtrailer;Flatbed_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/flatbedtrailer/Data/Flatbed_BCR.edds
+Truck;flatbedtrailer;Flatbed_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Truck/flatbedtrailer/Data/Flatbed_NMO.edds
+Truck;flatbedtrailer;Semi_Truck_Wheels.002_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/flatbedtrailer/Data/Semi_Truck_Wheels.002_BCR.edds
+Truck;flatbedtrailer;Semi_Truck_Wheels.002_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Truck/flatbedtrailer/Data/Semi_Truck_Wheels.002_NMO.edds
+Truck;logtrailer;Logging_Trailer_Chassis.001_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/logtrailer/Data/Logging_Trailer_Chassis.001_BCR.edds
+Truck;logtrailer;Semi_Truck_Wheels_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Props/Truck/logtrailer/Data/Semi_Truck_Wheels_BCR.edds
+Truck;logtrailer;Semi_Truck_Wheels_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Props/Truck/logtrailer/Data/Semi_Truck_Wheels_NMO.edds
+barge;barge1;barge1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Ships/barge/barge1/Data/barge1_NMO.edds
+fishingboat;Data;fishingboat_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Ships/fishingboat/Data/fishingboat_NMO.edds
+portecontainer;Data;HEAVY-LIFT-CARGO-SHIP-BRIDGE-NORMAL.edds;256x256;DXGI98;0.1;non;OK;/Assets/Ships/portecontainer/Data/HEAVY-LIFT-CARGO-SHIP-BRIDGE-NORMAL.edds
+portecontainer;Data;HEAVY-LIFT-CARGO-SHIP-HULL-NORMAL.edds;256x256;DXGI98;0.1;non;OK;/Assets/Ships/portecontainer/Data/HEAVY-LIFT-CARGO-SHIP-HULL-NORMAL.edds
+Agriculture;silo;texture A_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Structures/Agriculture/silo/Data/texture A_BCR.edds
+Agriculture;silo;texture A_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Agriculture/silo/Data/texture A_MNO.edds
+Agriculture;silo;textureB_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Structures/Agriculture/silo/Data/textureB_BCR.edds
+Agriculture;silo;textureB_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Agriculture/silo/Data/textureB_MNO.edds
+FootBridge;Data;Metal_FootBridge02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/FootBridge/Data/Metal_FootBridge02_GLOBAL_MASK.edds
+FootBridge;Data;Metal_Footbridge_03_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/FootBridge/Data/Metal_Footbridge_03_GLOBAL_MASK.edds
+FootBridge;Data;Metal_Stair01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/FootBridge/Data/Metal_Stair01_GLOBAL_MASK.edds
+Infrastructure;Bridges;Bridge_01_concrete_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Bridges/Data/Bridge_01_concrete_GLOBAL_MASK.edds
+Infrastructure;Bridges;Bridge_01_concrete_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Bridges/Data/Bridge_01_concrete_VFX.edds
+Infrastructure;Bridges;Bridge_01_metal_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Bridges/Data/Bridge_01_metal_GLOBAL_MASK.edds
+Infrastructure;Environmental;Cave_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Environmental/Cave/Data/Cave_01_GLOBAL_MASK.edds
+Infrastructure;Environmental;Cave_01_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Environmental/Cave/Data/Cave_01_VFX.edds
+Infrastructure;Environmental;Cave_02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Environmental/Cave/Data/Cave_02_GLOBAL_MASK.edds
+Infrastructure;Environmental;Cave_03_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Environmental/Cave/Data/Cave_03_GLOBAL_MASK.edds
+Infrastructure;Environmental;Door_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Environmental/Cave/Data/Door_01_GLOBAL_MASK.edds
+Infrastructure;Piping;BARREL_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/BARREL_GLOBAL_MASK.edds
+Infrastructure;Piping;Base_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Base_GLOBAL_MASK.edds
+Infrastructure;Piping;Cap_1.001_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Cap_1.001_GLOBAL_MASK.edds
+Infrastructure;Piping;I0.5_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/I0.5_GLOBAL_MASK.edds
+Infrastructure;Piping;I1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/I1_GLOBAL_MASK.edds
+Infrastructure;Piping;I2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/I2_GLOBAL_MASK.edds
+Infrastructure;Piping;I3_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/I3_GLOBAL_MASK.edds
+Infrastructure;Piping;L1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/L1_GLOBAL_MASK.edds
+Infrastructure;Piping;Meter_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Meter_GLOBAL_MASK.edds
+Infrastructure;Piping;Meter_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Meter_VFX.edds
+Infrastructure;Piping;N1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/N1_GLOBAL_MASK.edds
+Infrastructure;Piping;T1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/T1_GLOBAL_MASK.edds
+Infrastructure;Piping;Tap1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Tap1_GLOBAL_MASK.edds
+Infrastructure;Piping;Tap1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Tap1_VFX.edds
+Infrastructure;Piping;TAP2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/TAP2_GLOBAL_MASK.edds
+Infrastructure;Piping;TAP2_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/TAP2_VFX.edds
+Infrastructure;Piping;Wellhead_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Wellhead_GLOBAL_MASK.edds
+Infrastructure;Piping;Wellhead_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Wellhead_VFX.edds
+Infrastructure;Piping;X1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/X1_GLOBAL_MASK.edds
+Infrastructure;Piping;Y1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Data/Y1_GLOBAL_MASK.edds
+Infrastructure;Piping;Armature_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Metal Frame/Data/Armature_01_GLOBAL_MASK.edds
+Infrastructure;Piping;Armature_01_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Metal Frame/Data/Armature_01_VFX.edds
+Infrastructure;Piping;Armature_02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Metal Frame/Data/Armature_02_GLOBAL_MASK.edds
+Infrastructure;Piping;Armature_02_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Infrastructure/Piping/Metal Frame/Data/Armature_02_VFX.edds
+Mur de soutenement;data;Soutenement_L2_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L2_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_L2_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L2_1_MCR.edds
+Mur de soutenement;data;Soutenement_L2_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L2_1_NMO.edds
+Mur de soutenement;data;Soutenement_L2_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L2_1_VFX.edds
+Mur de soutenement;data;Soutenement_L2_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L2_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_L_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_L_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_1_MCR.edds
+Mur de soutenement;data;Soutenement_L_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_1_NMO.edds
+Mur de soutenement;data;Soutenement_L_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_1_VFX.edds
+Mur de soutenement;data;Soutenement_L_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_L_2_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_L_2_MCR.edds
+Mur de soutenement;data;Soutenement_M_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_M_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_1_MCR.edds
+Mur de soutenement;data;Soutenement_M_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_1_NMO.edds
+Mur de soutenement;data;Soutenement_M_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_1_VFX.edds
+Mur de soutenement;data;Soutenement_M_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_M_2_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_M_2_MCR.edds
+Mur de soutenement;data;Soutenement_R2_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R2_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_R2_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R2_1_MCR.edds
+Mur de soutenement;data;Soutenement_R2_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R2_1_NMO.edds
+Mur de soutenement;data;Soutenement_R2_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R2_1_VFX.edds
+Mur de soutenement;data;Soutenement_R_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_1_MCR.edds
+Mur de soutenement;data;Soutenement_R_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_1_NMO.edds
+Mur de soutenement;data;Soutenement_R_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_1_VFX.edds
+Mur de soutenement;data;Soutenement_R_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_R_2_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_R_2_MCR.edds
+Mur de soutenement;data;Soutenement_S1_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S1_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_S1_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S1_1_MCR.edds
+Mur de soutenement;data;Soutenement_S1_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S1_1_NMO.edds
+Mur de soutenement;data;Soutenement_S1_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S1_1_VFX.edds
+Mur de soutenement;data;Soutenement_S1_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S1_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_S2_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S2_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_S2_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S2_1_MCR.edds
+Mur de soutenement;data;Soutenement_S2_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S2_1_NMO.edds
+Mur de soutenement;data;Soutenement_S2_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S2_1_VFX.edds
+Mur de soutenement;data;Soutenement_S2_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S2_2_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_S3_1_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S3_1_GLOBAL_MASK.edds
+Mur de soutenement;data;Soutenement_S3_1_MCR.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S3_1_MCR.edds
+Mur de soutenement;data;Soutenement_S3_1_NMO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S3_1_NMO.edds
+Mur de soutenement;data;Soutenement_S3_1_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S3_1_VFX.edds
+Mur de soutenement;data;Soutenement_S3_2_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Mur de soutenement/data/Soutenement_S3_2_GLOBAL_MASK.edds
+Prison;Data;Guard_Tower_Ext_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Ext_01_GLOBAL_MASK.edds
+Prison;Data;Guard_Tower_Ext_01_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Ext_01_VFX.edds
+Prison;Data;Guard_Tower_Int_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Int_01_GLOBAL_MASK.edds
+Prison;Data;Guard_Tower_Int_01_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Int_01_VFX.edds
+Prison;Data;Guard_Tower_Int_02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Int_02_GLOBAL_MASK.edds
+Prison;Data;Guard_Tower_Int_02_VFX.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Guard_Tower_Int_02_VFX.edds
+Prison;Data;Prison_02_Ext_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Prison_02_Ext_01_GLOBAL_MASK.edds
+Prison;Data;Prison_02_Int_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Prison_02_Int_01_GLOBAL_MASK.edds
+Prison;Data;Prison_02_Int_02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Prison_02_Int_02_GLOBAL_MASK.edds
+Prison;Data;Prison_03_INT_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Prison_03_INT_01_GLOBAL_MASK.edds
+Prison;Data;Prison_03_INT_02_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Prison/Data/Prison_03_INT_02_GLOBAL_MASK.edds
+Rails;Barier;model_reforger_MNO.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Rails/Barier/Data/model_reforger_MNO.edds
+Rails;C_Box;Cbox256_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Structures/Rails/C_Box/Data/Cbox256_BCR.edds
+Rails;Sign;sign04_BCR.edds;256x256;DXGI99;0.1;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign04_BCR.edds
+Services;Hospital;Helipad_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Services/Hospital/Data/Helipad_01_GLOBAL_MASK.edds
+Services;Hospital;Hospital_text_01_GLOBAL_MASK.edds;256x256;DXGI98;0.1;non;OK;/Assets/Structures/Services/Hospital/Data/Hospital_text_01_GLOBAL_MASK.edds
+Rails;BStop;baseColorBstopPanneau2.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/BStop/Data/textures/baseColorBstopPanneau2.edds
+Rails;BStop;BStop1.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/BStop/Data/textures/BStop1.edds
+Rails;BStop;bstopMask3.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/BStop/Data/textures/bstopMask3.edds
+Rails;FBridge;bridge2.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/FBridge/Data/texture/bridge2.edds
+Rails;FBridge;FBRIDGE2.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/FBridge/Data/texture/FBRIDGE2.edds
+Rails;FBridge;FBridgeM.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/FBridge/Data/texture/FBridgeM.edds
+Rails;FBridge;straight_MNO.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/FBridge/Data/texture/straight_MNO.edds
+Rails;FBridge;straigt19.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/FBridge/Data/texture/straigt19.edds
+Rails;LCross;lcross.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/LCross/Data/lcross.edds
+Rails;MBridge;Mb2 mask.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/MBridge/textures/Mb2 mask.edds
+Rails;MBridge;Mbridge.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/MBridge/textures/Mbridge.edds
+Rails;P_cross;pcross.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/P_cross/Data/pcross.edds
+Rails;Rail Tower;Railway_Tower_EXT01_GLOBAL_MASK.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_EXT01_GLOBAL_MASK.edds
+Rails;Rail Tower;Railway_Tower_EXT01_VFX.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_EXT01_VFX.edds
+Rails;Rail Tower;Railway_Tower_INT01_GLOBAL_MASK.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_INT01_GLOBAL_MASK.edds
+Rails;rails;curve.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/curve.edds
+Rails;rails;demicurve.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/demicurve.edds
+Rails;rails;double.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/double.edds
+Rails;rails;doubleL.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/doubleL.edds
+Rails;rails;doubleR.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/doubleR.edds
+Rails;rails;droit09.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/droit09.edds
+Rails;rails;droit19m.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/droit19m.edds
+Rails;rails;Mask straight.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/Mask straight.edds
+Rails;rails;mask04m.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/mask04m.edds
+Rails;rails;masl curveL.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/rails/Data/masl curveL.edds
+Rails;Sign;LTower_MNO.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Sign/Data/textures/LTower_MNO.edds
+Rails;Sign;sign01_MNO.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign01_MNO.edds
+Rails;Sign;sign02_BCR (2).edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign02_BCR (2).edds
+Rails;Sign;sign03_MNO.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign03_MNO.edds
+Rails;Sign;sign04_MNO.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/Sign/Data/textures/sign04_MNO.edds
+Rails;X_Cross;xcross.edds;128x128;DXGI98;0.0;non;OK;/Assets/Structures/Rails/X_Cross/Data/xcross.edds

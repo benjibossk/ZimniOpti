@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C51B4B29D49AEA42}Assets/Structures/Prison/Data/Prison_01_Int_04_VFX.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

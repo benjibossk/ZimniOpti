@@ -1,0 +1,112 @@
+PolylineShapeEntity {
+ coords 14163.05 50.875 11876.183
+ Points {
+  ShapePoint "{621B4CAF932662FD}" {
+   Position 0 0 0
+  }
+  ShapePoint "{621B4CAF93259741}" {
+   Position -16.624 -0.062 24.001
+  }
+  ShapePoint "{621B4CAE45FD4920}" {
+   Position -60.622 -0.062 -3.205
+  }
+  ShapePoint "{621B4CAE5F4DEFAA}" {
+   Position -42.989 0.018 -30.021
+  }
+ }
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{CC598445023EBC23}Prefabs/WEGenerators/Walls/Net/WG_NetFence_04.et" {
+   Flags 0x100003 0
+   coords 0 0 0
+   {
+    $grp SCR_DestructibleEntity : "{070A8554855B43A6}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_D.et" {
+     {
+      coords -4.554 -0.017 6.575
+      angles 0 -124.708 0
+     }
+     {
+      coords -40.388 -0.062 9.219
+      angles 0 -211.552 0
+     }
+     {
+      coords -44.682 -0.062 6.583
+      angles 0 -211.552 0
+     }
+     {
+      coords -51.971 -0.022 -16.65
+      angles 0 56.111 0
+     }
+    }
+    $grp SCR_DestructibleEntity : "{2591F1D52FD5DC65}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_8m.et" {
+     {
+      coords 0 0 0
+      angles 0 -124.708 0
+     }
+     {
+      coords -7.423 -0.028 10.717
+      angles 0 -124.708 0
+     }
+     {
+      coords -11.978 -0.045 17.293
+      angles 0 -124.708 0
+     }
+     {
+      coords -16.532 -0.062 23.868
+      angles 0 -211.552 0
+     }
+     {
+      coords -23.348 -0.062 19.683
+      angles 0 -211.552 0
+     }
+     {
+      coords -30.164 -0.062 15.497
+      angles 0 -211.552 0
+     }
+     {
+      coords -48.975 -0.062 3.947
+      angles 0 -211.552 0
+     }
+     {
+      coords -60.891 -0.062 -3.37
+      angles 0 56.111 0
+     }
+     {
+      coords -49.162 -0.01 -20.832
+      angles 0 56.111 0
+     }
+    }
+    SCR_DestructibleEntity : "{3C2E83667F3B45E3}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_Pole.et" {
+     coords -43.592 0.015 -29.124
+     angles 0 56.111 0
+    }
+    $grp SCR_DestructibleEntity : "{B4C746BF99B922B0}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_2m.et" {
+     {
+      coords -59.195 -0.062 -2.329
+      angles 0 -211.552 0
+     }
+     {
+      coords -44.702 0.01 -27.472
+      angles 0 56.111 0
+     }
+    }
+    SCR_DestructibleEntity : "{C40AD4660B9D7703}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_4m.et" {
+     coords -55.792 -0.062 -0.239
+     angles 0 -211.552 0
+    }
+    SCR_DestructibleEntity : "{DAB15C3D26A854FF}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_4m_D.et" {
+     coords -36.981 -0.062 11.312
+     angles 0 -211.552 0
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleEntity : "{2591F1D52FD5DC65}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_04_8m.et" {
+ coords 14108.668 -0.066 11863.133
+ angles 0 -122.118 0
+}
+StaticModelEntity : "{BD1C008EC2D79A2F}Prefabs/Structures/BuildingParts/Doors/DoorSet_MetalGate_01_Short.et" {
+ coords 14108.718 0.021 11863.132
+ angles 0 56.461 0
+}

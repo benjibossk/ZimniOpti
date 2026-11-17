@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B356610F2133F78F}Assets/Structures/Rails/Rail Tower/Data/Railway_Tower_02_etage_01_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

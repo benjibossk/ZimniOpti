@@ -1,0 +1,27 @@
+pack EXIT=0
+FIN connecte=True CSV=bench_1794360891.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_02-23-04
+VRAM ln_ref : moyenne 1947 Mo, pic 3513 Mo ; RAM privee pic 9013 Mo, fin 8364 Mo
+FINI
+-- client:
+02:25:48.852 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+02:34:31.617 SCRIPT       : [ZO] CHUNK purge initiale terminee en 522.765 s (supprimes=2292756, ignores Rpl=230478 sansPrefab=0, joueur=0) memMo=2832
+-- serveur:
+02:24:04.958 SCRIPT    (W): [ZO] STREAM pas de donnees (Stream/prefabs.json introuvable) : inactif
+B en place : calques 67M, tuiles 474
+pack EXIT=0
+FIN connecte=True CSV=bench_1794361165.csv SERVEUR_CSV=perf_2026-11-11.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-11_02-36-39
+VRAM ln_str : moyenne 2163 Mo, pic 4098 Mo ; RAM privee pic 8613 Mo, fin 4722 Mo
+FINI
+-- client:
+02:39:02.682 SCRIPT       : [ZO] STREAM actif : rayon 1300 m (tout=0), 1458 prefabs, dossier $profile:ZimniPerf/stream/, serveur=0
+02:39:05.316 SCRIPT       : [ZO] STREAM pret : 9 tuiles, crees=33292 retires=0 lectureMs=3 creationMs=475 memMo=2745
+02:39:28.152 SCRIPT       : [ZO] STREAM pret : 10 tuiles, crees=160446 retires=33292 lectureMs=18 creationMs=1796 memMo=2948
+02:39:58.814 SCRIPT       : [ZO] STREAM pret : 13 tuiles, crees=242099 retires=42278 lectureMs=25 creationMs=2313 memMo=3134
+02:40:31.251 SCRIPT       : [ZO] STREAM pret : 14 tuiles, crees=248070 retires=42278 lectureMs=26 creationMs=2375 memMo=3154
+-- serveur:
+02:37:31.986 SCRIPT       : [ZO] STREAM actif : rayon 100000 m (tout=1), 1458 prefabs, dossier $profile:ZimniPerf/stream/, serveur=1
+02:37:37.311 SCRIPT       : [ZO] STREAM tuiles=110 file=178 crees=562391 retires=0 lectureMs=119 creationMs=5078 memMo=3401
+02:37:42.608 SCRIPT       : [ZO] STREAM tuiles=165 file=123 crees=1124295 retires=0 lectureMs=182 creationMs=10212 memMo=3802
+02:37:47.890 SCRIPT       : [ZO] STREAM tuiles=229 file=59 crees=1630667 retires=0 lectureMs=244 creationMs=15354 memMo=4261
+remis : calques 274M, Stream absent: oui
+NUIT_FINIE

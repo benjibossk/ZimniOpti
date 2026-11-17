@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A5872C95F4BA099F}Assets/Structures/Military/Bunkers/Complex/Data/Casemate_01_INT_01_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

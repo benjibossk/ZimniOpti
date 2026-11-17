@@ -1,0 +1,2770 @@
+$grp GenericEntity {
+ Andruhanov_Millitary_Barracks {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Andruhanov Millitary Barracks"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Andruhanov  Millitary Barracks"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10798.531 61.406 8833.701
+ }
+ Dark_Forest {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Dark Forest"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.502 0.376 0 1
+    m_fSizeCoef 2
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Dark Forest"
+    MainType "Name Ridge"
+    Scale 0
+   }
+  }
+  coords 8749.952 32.447 7039.979
+ }
+ River1 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Drawna River"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 2
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Drawna River"
+    MainType "Name Sea Major"
+    Scale 0
+   }
+  }
+  coords 10627.349 0 1875.808
+ }
+ River2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Drawna River"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 2
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Drawna River"
+    MainType "Name Sea Major"
+    Scale 0
+   }
+  }
+  coords 6229.773 0 6721.713
+ }
+ River3 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Drawna River"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 2
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Drawna River"
+    MainType "Name Sea Major"
+    Scale 0
+   }
+  }
+  coords 8341.139 0 15314.553
+ }
+ Szarlota {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Szarlota"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Szarlota"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 13145.548 8.775 1770.39
+ }
+ Stereni {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Stereni"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Stereni"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 13810.821 24.798 2501.929
+ }
+ Glochy {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Glochy"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Glochy"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 15237.591 60.991 1519.83
+ }
+ Varpadany {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Varpadany"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Varpadany"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 15074.751 32.138 5068.349
+ }
+ Soperk {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Soperk"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Soperk"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 11727.192 30.844 11877.761
+ }
+ Sokyyiv {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sokyyiv"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sokyyiv"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 13753.871 21.202 15001.732
+ }
+ Gruwice_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10416.8 26.469 4703.896
+ }
+ Gruwice_Water_Treatment {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Water Treatment Station"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Water Treatment Station"
+    MainType "Water Pump"
+    Scale 0
+   }
+  }
+  coords 9710.78 10 4822.05
+ }
+ Old_Castle {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Old Castle"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Old Castle"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 16090.092 255.099 9557.681
+ }
+ Sartava_Electric_power_station {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava Electric Power Station"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava Electric Power Station"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8919.344 106.531 9147.313
+ }
+ Zimnitrita_Falls {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Zimnitrita Falls"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Zimnitrita Falls"
+    MainType "Name Ridge"
+    Scale 0
+   }
+  }
+  coords 9484.884 76.234 7157.162
+ }
+ Sartava_Sawmill {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava Sawmill"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava Sawmill"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10119.842 86.531 9372.943
+ }
+ Barachuk {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Barachuk"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Barachuk"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 9927.199 72.968 8129.688
+ }
+ Nienia {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Nienia"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Nienia"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 7045.515 32.938 7107.089
+ }
+ Gruwice_Harbour {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Harbour"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10031.758 0 4614.46
+ }
+ Valadim_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Valadim Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Valadim Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 15789.624 138.625 8791.149
+ }
+ Niscova {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Niscova"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Niscova"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 13873.365 39.875 9281.151
+ }
+ Gruwice_Train_Station {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Train Station"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.507
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Train Station"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10243.726 5.008 5058.293
+ }
+ Lac {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Dotsk Lake"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Dotsk Lake"
+    MainType "Name Water Minor"
+    Scale 0
+   }
+  }
+  coords 14600.046 44.686 9312.168
+ }
+ Cispova_Baye {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Cispova Baye"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Cispova Baye"
+    MainType "Name Water Minor"
+    Scale 0
+   }
+  }
+  coords 7662.318 2.23 6924.688
+ }
+ Lac2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vrana Lake"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vrana Lake"
+    MainType "Name Water Minor"
+    Scale 0
+   }
+  }
+  coords 8416.928 0 5027.214
+ }
+ Bridge {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kramadiansk Bridge"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kramadiansk Bridge"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 6602.644 7.812 6209.094
+ }
+ Gruwice_Electric_Relay {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Electric Relay"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Electric Relay"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10018.308 122.813 7079.181
+ }
+ Gruwice_Police_Station {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Police Station"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Police Station"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10418.87 20.687 5795.055
+ }
+ Lac3 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Detrany Lake"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 0.114 0.185 0.521 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Detrany Lake"
+    MainType "Name Water Minor"
+    Scale 0
+   }
+  }
+  coords 10121.129 0 3749.797
+ }
+ Nienia_Millitary_Base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Nienia Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Nienia Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 7509.234 58.063 5736.246
+ }
+ Valadim {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Valadim"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Valadim"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 15654.796 50.031 6626.265
+ }
+ Ajvan_Village {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Ajvan"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Ajvan"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 15761.501 50 14512.041
+ }
+ Sartava_Electric_Relai3 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava Electric Relay"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava Electric Relay"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9118.335 133.812 11059.275
+ }
+ Sartava {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 9472.82 7.5 10025.2
+ }
+ Kromzova {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 10358.987 5.125 14403.228
+ }
+ Vacation_camps {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vacation camp"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vacation camp"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  coords 9793.088 2.302 3532.61
+ }
+ Gruwice_Harbour_Electrical {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Harbour Electrical"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9615.354 76.219 4310.049
+ }
+ Vrana {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vrana"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vrana"
+    MainType "Name Settlement"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 9006.563 49.438 5344.46
+ }
+ Gruwice_Radio_Tower {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Radio Tower"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6192
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9315.446 69.428 5654.327
+ }
+ Gruwice_Electrical {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Electrical"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8519.866 108.998 6262.192
+ }
+ Sartava_Harbour {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava Harbour"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8340.417 5.448 10141.512
+ }
+ Zimnitrita_International_Airport {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Zimnitrita International Airport"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Zimnitrita International Airport"
+    MainType Airport
+    Scale 0
+   }
+  }
+  coords 14577.112 50.906 12289.82
+ }
+ Kromzova_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8719.033 91.938 13402.859
+ }
+ Szilis {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Szilis"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Szilis"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 11922.398 24.542 7324.052
+ }
+ Graveronto_Ropa {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Graveronto Ropa"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Graveronto Ropa"
+    MainType "Name Ridge"
+    Scale 0
+   }
+  }
+  coords 12668.046 194.729 4732.638
+ }
+ Zar_Shah {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Zar-Shah Fortress"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Zar-Shah Fortress"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11656.829 5.187 13771.941
+ }
+ Nova_Frusca {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Nova Frusca"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Nova Frusca"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 15711.683 46.875 408.855
+ }
+ Myslowa {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Myslowa"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Myslowa"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 11841.186 19.129 887.743
+ }
+ Basaraci {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Basaraci"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Basaraci"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 11219.431 8.986 3727.993
+ }
+ Berria {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Berria"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Berria"
+    MainType "Name Settlement"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 16237.753 16.094 11406.576
+ }
+ Csorgy {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Csorgy"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Csorgy"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 12046.146 19.781 12628.859
+ }
+ Motyka {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Motyka"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Motyka"
+    MainType "Name Village"
+   }
+  }
+  coords 12774.188 53.472 11494.66
+ }
+ Andruhanov {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Andruhanov"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 1.5
+    m_bBold 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Andruhanov"
+    MainType "Name City"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 12266.805 45.116 9869.084
+ }
+ Soperk_Castle {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Soperk Castle"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Soperk Castle"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12343.387 32.976 11755.445
+ }
+ Motyka_Logisitics {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Motyka Logistics"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Motyka Logistics"
+    MainType "Name Local"
+   }
+  }
+  coords 13303.482 50.625 12731.952
+ }
+ Zimnitrita_Military_Lifezone {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Zimnitrita Military Lifezone"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Zimnitrita Military Lifezone"
+    MainType "Name Local"
+   }
+  }
+  coords 14042.221 49.563 11184.395
+ }
+ Andru_St_Peter_Park {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Saint Peter Park"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Saint Peter Park"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12188.882 52.406 9610.444
+  angles -0.016 -1.571 -0.537
+ }
+ Andru_Police_Department {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Police Department"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Police Department"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12311.417 54.29 9487.026
+ }
+ Andru_Town_Hall {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Town Hall"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Town Hall"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12291.739 53.457 9835.031
+ }
+ Andru_St_Peter_Cemetery {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Saint Peter Cemetery"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Saint Peter Cemetery"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12186.83 47.369 9677.616
+ }
+ Andru_St_Peter_Church {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Saint Peter Church"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Saint Peter Church"
+    MainType "Name Local"
+    Scale 0
+    ForceGroupScale 1
+   }
+  }
+  coords 12334.991 60.403 9594.316
+ }
+ Andru_Pototsky_Park {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Pototsky Park"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Pototsky Park"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12494.819 41.053 9945.875
+ }
+ Andru_Isapostolos {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Isapostolos Church and Cloister"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Isapostolos Church and Cloister"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12307.849 41.624 9899.697
+ }
+ Andru_Pravda_Radio {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Pravda Radio Station"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Pravda Radio Station"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12232.587 41.625 9830.404
+ }
+ Andru_Old_West {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Old Andruhanov West District"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Old Andruhanov West District"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12132.194 29.719 10224.231
+ }
+ Andru_Old_East {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Old Andruhanov East District"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Old Andruhanov East District"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12430.033 33.029 10197.391
+ }
+ Andru_Old_Church {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Old Andruhanov Church"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Old Church"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12238.673 43.102 10277.937
+ }
+ Andru_Olympic_Stadium {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Olympic Stadium"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Olympic Stadium"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11736.341 53.906 9590.213
+ }
+ Andru_Regiment {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "1st Cavalry Regiment"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "1st Cavalry Regiment"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11989.313 41.625 9794.396
+ }
+ Zimnitrita_Civilian_Airport {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Civilian Airport"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Civilian Airport"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 14910.023 50.906 12145.278
+ }
+ Zimnitrita_International_Airport2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name " "
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Zimnitrita International Airport "
+    MainType "Name Town"
+    Scale 0
+   }
+  }
+  coords 14570.354 50.906 12290.484
+ }
+ Andru_RWS_West {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Railway Station West"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Railway Station West"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11672.14 35.5 10100.682
+ }
+ Andru_RWS_East {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Railway Station East"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Railway Station East"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12768.522 51.844 9735.241
+ }
+ Motyka_Cereals {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Motyka Cereals"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Motyka Cereals"
+    MainType "Name Local"
+   }
+  }
+  coords 12824.824 28.187 12166.514
+ }
+ Salici {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Salici"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Salici"
+    MainType "Name Settlement"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 7852.886 56.393 10725.267
+ }
+ Vrana_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vrana Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vrana Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8155.491 2.935 5089.864
+ }
+ Kromzova_Restaurant {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova restaurant"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova restaurant"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9329.802 5.281 14022.901
+ }
+ Kromzova_militaryradar {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova Military Radar"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova Military Radar"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9760.582 59.27 13543.485
+ }
+ Zar_Shah_Electric_Relay {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Zar-Shah Electric Relay"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Zar-Shah Electric Relay"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11378.718 16.429 14393.076
+ }
+ Myslowa_Logisitics {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Myslowa Logistics"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Myslowa Logistics"
+    MainType "Name Local"
+   }
+  }
+  coords 12644.113 10.844 471.411
+ }
+ Nova_Frusca_Construction {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Nova Frusca Construction"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Nova Frusca Construction"
+    MainType "Name Local"
+   }
+  }
+  coords 14096.876 27.969 459.178
+ }
+ Glochy_Logisitics {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Glochy Logistics"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Glochy Logistics"
+    MainType "Name Local"
+   }
+  }
+  coords 15653.178 64.531 1340.381
+ }
+ Glochy_Electric_Relay {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Glochy Electric Relay"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Glochy Electric Relay"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 15881.948 64.051 1090.5
+ }
+ Varpadany_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Varpadany Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Varpadany Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 15507.839 52.125 4493.047
+ }
+ Valadim_Logisitics {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Valadim Logistics"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Valadim Logistics"
+    MainType "Name Local"
+   }
+  }
+  coords 15582.8 49.969 7368.085
+ }
+ Sokyyiv_Harbour {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sokyyiv Harbour"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sokyyiv Harbour"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 13269.133 3 16199.964
+ }
+ Sokyyiv_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sokyyiv Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sokyyiv Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 11761.044 33.031 15889.156
+ }
+ Kromzova_Mine {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova mine"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova mine"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8346.229 3.469 13273.243
+ }
+ Sartava_militaryjunkyard {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sartava Military junkyard"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sartava Military junkyard"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8049.877 42.969 8364.004
+ }
+ Ajvan_Harbour {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Ajvan Harbour"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Ajvan Harbour"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  coords 15076.461 3.973 15414.058
+ }
+ Andru_Olympic_PG {
+  components {
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    MainType "Playing Field"
+    Scale 0
+   }
+  }
+  coords 11614.482 44.125 9586.169
+ }
+ Andru_Olympic_PG2 {
+  components {
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    MainType "Playing Field"
+    Scale 0
+   }
+  }
+  coords 11650.258 46.594 9759.638
+ }
+ Andru_Olympic_PG3 {
+  components {
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    MainType "Playing Field"
+    Scale 0
+   }
+  }
+  coords 11663.149 46.594 9836.995
+ }
+ Andru_Police2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Police Department"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Police Department"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 12233.09 41.563 9937.082
+ }
+ Motyka_Sawmill {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Motyka Sawmill"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Motyka Sawmill"
+    MainType "Name Local"
+   }
+  }
+  coords 13060.535 59.604 11705.731
+ }
+ Zimnitrita_Military_Airbase3 {
+  components {
+   SCR_EditableCommentComponent "{62BE9EBA63FB4694}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62BE9EBAFF1E4A95}" {
+     Name "Military Airbase "
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{62BE9EBA4FD05014}" {
+    DisplayName "Military Airbase"
+    MainType "Name Local"
+   }
+  }
+  coords 14216.099 50.868 11958.315
+ }
+ Kromzova_Castle {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Kromzova Castle"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Kromzova Castle"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10482.362 72.344 13815.266
+ }
+ Prison {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Samotnist Island"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Samotnist Island"
+    MainType "Name Town"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 10012.246 41.054 869.442
+ }
+ Ajvan_MillitaryBase {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Ajvan Millitary base"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Ajvan Military Base"
+    ShowTerrainElevation 1
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  coords 15190.522 50 14608.346
+ }
+ Grushevka {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Grushevka"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Grushevka"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 2630.542 216.806 10503.971
+ }
+ Parun {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Parun"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Parun"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 3622.01 108.454 11348.459
+ }
+ Truha {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Truha"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Truha"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 2902.65 231.451 11999.16
+ }
+ Monastery {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Monastery"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Monastery"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 1762.327 259.817 12270.847
+ }
+ Sladkodince {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sladkodince"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sladkodince"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 1127.104 247.933 12775.96
+ }
+ Sabihy {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sabihy"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sabihy"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 1409.64 6 13801.165
+ }
+ Ungru {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Ungru"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Ungru"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 1697.096 264.704 15080.388
+ }
+ Koclav {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Koclav"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Koclav"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 3640.039 109.781 15700.55
+ }
+ Truha_Millitary_base2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Truha Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Truha Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 3231.396 163.942 12404.833
+ }
+ Vyerhnyaryta {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vyerhnyaryta"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vyerhnyaryta"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 1925.571 189.488 11732.946
+ }
+ Stone_Quarry {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Stone Quarry"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Stone Quarry"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 3166.037 150 10528.385
+ }
+ Dam {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Dam"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Dam"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 2401.874 113.938 7030.298
+ }
+ Bardejov {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Bardejov"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Bardejov"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 2739.743 186.625 13226.578
+ }
+ Sladkodince_Millitary_base {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Sladkodince Millitary base"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Sladkodince Millitary base"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 1138.401 250.187 13139.377
+ }
+ Verkhnia_Kamyanka {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Verkhnia Kamyanka"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Verkhnia Kamyanka"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 2190.446 292.158 5412.484
+ }
+ ZFR_ZWC_memorial {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "ZFR & ZWC Memorial"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "ZFR & ZWC Memorial"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 8623.97 61.313 12006.278
+ }
+ Gruwice {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 1.5
+    m_bBold 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice"
+    MainType "Name City"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 10277.815 14.66 5627.854
+ }
+ Lenin_Place {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Lenin Place"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Lenin Place"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10228.963 19.781 5449.318
+ }
+ Gruwice_Fire_Station {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Fire Station"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Fire Station"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 10376.729 10 5217.402
+ }
+ Gruwice_Outskirt {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Gruwice Outskirt"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_sColor 1 0.845 0.012 1
+    m_fSizeCoef 0.5
+    m_bBold 1
+    m_bItalic 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Gruwice Outskirt"
+    MainType "Name Local"
+    Scale 0
+   }
+  }
+  coords 9919.424 3.625 5384.452
+ }
+ Vilersk {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vilersk"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 1.5
+    m_bBold 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vilersk"
+    MainType "Name City"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 4922.19 212.435 12748.194
+ }
+ Bojtin {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Bojtin"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Bojtin"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 4280.072 227.535 15126.303
+ }
+ Vilersk_Airfield {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name " "
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vilersk Airfield"
+    MainType "Name Town"
+   }
+  }
+  coords 4688.47 238.905 14668.518
+ }
+ Vilersk_Airfield_2 {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Vilersk Airfield"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Vilersk Airfield"
+    MainType Airport
+    Scale 0
+   }
+  }
+  coords 4695.229 238.905 14667.854
+ }
+ Antonievsk {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Antonievsk"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 1.5
+    m_bBold 1
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Antonievsk"
+    MainType "Name City"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 2741.178 76.223 1526.564
+ }
+ Jambon_le_haut {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Jambon-en-haut"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Jambon-en-haut"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 3307.182 216.835 8635.758
+ }
+ Jambon_le_bas {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Jambon-en-bas"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_fMaxDrawDistance 550
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Jambon-en-bas"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 3730.806 159.959 8264.061
+ }
+ Electrical_central {
+  components {
+   SCR_EditableCommentComponent "{59C8A09D50EA368F}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{59C8A09D4561B25C}" {
+     Name "Electrical Central"
+     Icon "{D03F58B327C582D0}UI/Textures/Editor/EditableEntities/Locations/EditableEntity_Location_Base.edds"
+    }
+    m_bAutoRegister ALWAYS
+    m_bStatic 1
+    m_Flags 6200
+    m_fSizeCoef 0.8
+   }
+   SCR_MapDescriptorComponent "{59BD009CA6E6E529}" {
+    DisplayName "Electrical Central"
+    MainType "Name Village"
+    Scale 0
+   }
+  }
+  Flags 0x403 0
+  coords 5483.941 0 9387.978
+ }
+}

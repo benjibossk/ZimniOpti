@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E851B760A00E3F09}Assets/Structures/Hotel/Data/hotel_01_INT_etage_toilet_VFX.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

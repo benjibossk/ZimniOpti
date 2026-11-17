@@ -1,0 +1,14 @@
+pack EXIT=0
+== ra_adapt (vol.txt mods= cap=1)
+FIN connecte=True CSV=bench_1794851185.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_18-43-27
+VRAM ra_adapt : moyenne 3526 Mo, pic 5141 Mo ; RAM privee pic 9501 Mo, fin 9267 Mo
+FINI
+18:46:10.843 SCRIPT       : [ZO] STREAM rayon 1300 -> 900 m (142 FPS, cible 105)
+18:46:30.866 SCRIPT       : [ZO] STREAM rayon 900 -> 800 m (44 FPS, cible 105)
+18:46:35.868 SCRIPT       : [ZO] STREAM rayon 800 -> 700 m (56 FPS, cible 105)
+18:46:40.882 SCRIPT       : [ZO] STREAM rayon 700 -> 600 m (81 FPS, cible 105)
+18:49:31.034 SCRIPT       : [ZO] STREAM rayon 600 -> 700 m (139 FPS, cible 105)
+18:50:01.051 SCRIPT       : [ZO] STREAM rayon 700 -> 800 m (137 FPS, cible 105)
+18:50:26.075 SCRIPT       : [ZO] STREAM rayon 800 -> 700 m (95 FPS, cible 105)
+18:50:36.080 SCRIPT       : [ZO] STREAM rayon 700 -> 600 m (97 FPS, cible 105)
+adapt n=97 fps=106.4 pire=53.6 >50ms=3 memJeu=3008

@@ -1,0 +1,129 @@
+StaticModelEntity : "{306AC2C47CCB2E47}Prefabs/Structures/Infrastructure/Pavements/ConcreteKerb_01/ConcreteKerb_01_8m_v2.et" {
+ coords 12773.607 0 11501.726
+ angles 0 -111.876 0
+}
+GenericEntity : "{44B0452B22B51743}Prefabs/Props/Furniture/ChairRecreation_01/ChairRecreation_01_base.et" {
+ coords 12768.039 54.196 11518.184
+ angles 0 138.89 0
+}
+SCR_DestructibleBuildingEntity : "{748640C90A664E29}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/House_Wooden_E_1I01_panels.et" {
+ coords 12774.604 -0.664 11517.783
+ angles 0 -111.257 0
+ {
+  GenericEntity : "{05368CD6D20E22BE}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/Furniture/House_Wooden_E_1I01_furniture_01.et" {
+   coords 0 2.651 0.001
+  }
+ }
+}
+GenericEntity : "{7AB0AFBE367A9FB7}Prefabs/Props/Furniture/Chair_01/Chair_01_red.et" {
+ coords 12769.031 54.211 11518.843
+ angles 0 -140.467 0
+}
+SCR_DestructibleBuildingEntity : "{8533568101A29BE3}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_Base.et" {
+ coords 12783.79 0 11509
+ angles 0 -111.876 0
+}
+$grp SCR_DestructibleEntity : "{935A7079755D467F}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_rect_long_begonia_white.et" {
+ {
+  coords 12781.947 53.628 11512.048
+  angles 0 -21.876 0
+ }
+ {
+  coords 12783.326 53.602 11512.603
+  angles 0 -21.876 0
+ }
+}
+$grp SCR_DestructibleEntity : "{98E2BC3984C32962}Prefabs/Structures/Walls/Wooden/WoodenWall_01/WoodenWall_01_weathered_4m.et" {
+ {
+  coords 12780.486 0 11504.289
+  angles 0 158.124 0
+ }
+ {
+  coords 12768.519 -0.001 11525.36
+  angles 0 -21.876 0
+ }
+ {
+  coords 12773.692 0.001 11501.714
+  angles 0 158.124 0
+ }
+ {
+  coords 12769.579 0 11525.789
+  angles 0 -21.876 0
+ }
+}
+StaticModelEntity : "{A92AE33D1BA3E0B9}Prefabs/Structures/BuildingParts/Doors/DoorSet_WoodenWall_01_Gate.et" {
+ coords 12773.309 0 11527.327
+ angles 0 -21.876 0
+}
+$grp SCR_DestructibleEntity : "{AE9E6F639440A51E}Prefabs/Structures/Walls/Wooden/WoodenWall_01/WoodenWall_01_8m.et" {
+ {
+  coords 12783.604 -0.001 11514.176
+  angles 0 68.124 0
+ }
+ {
+  coords 12780.609 0 11521.631
+  angles 0 68.124 0
+ }
+ {
+  coords 12761.1 0 11522.37
+  angles 0 -21.876 0
+ }
+ {
+  coords 12770.063 0 11500.189
+  angles 0 -111.876 0
+ }
+ {
+  coords 12767.092 0 11507.591
+  angles 0 -111.876 0
+ }
+ {
+  coords 12777.618 0 11529.082
+  angles 0 68.124 0
+ }
+ {
+  coords 12786.693 0.001 11506.798
+  angles 0 158.124 0
+ }
+ {
+  coords 12764.107 0 11515.019
+  angles 0 -111.876 0
+ }
+}
+StaticModelEntity : "{B44A06DD2002A115}Prefabs/Structures/BuildingParts/Doors/DoorSet_TinWall_01_Gate_Small.et" {
+ coords 12774.954 -0.001 11502.182
+ angles 0 157.496 0
+}
+SCR_DestructibleEntity : "{C8A5C92E74ABB5EA}Prefabs/Props/Civilian/PicnicTable/PicnicTable_01.et" {
+ coords 12769.105 54.061 11515.573
+ angles 0 -6.058 0
+}
+GenericEntity : "{D0FF7E066D18C383}Prefabs/Props/Furniture/Chair_01/Chair_01_white.et" {
+ coords 12770.287 54.159 11518.251
+ angles 0 -111.876 0
+}
+SCR_DestructibleEntity : "{E82F2EE016E77CD1}Prefabs/Structures/Walls/Wooden/WoodenWall_01/WoodenWall_01_weathered_2m.et" {
+ coords 12776.811 0 11502.826
+ angles 0 161.397 0
+}
+$grp StaticModelEntity : "{F40563E3C7B64027}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_B.et" {
+ {
+  coords 12778.94 0 11521.001
+  angles 0.078 -111.881 -3.404
+  placement none
+ }
+ {
+  coords 12777.454 0.001 11524.7
+  angles -0.172 -111.86 -5.222
+  placement none
+ }
+ {
+  coords 12780.442 0 11517.257
+  angles 0.245 -111.889 -2.99
+  placement none
+ }
+ {
+  coords 12781.941 0.001 11513.521
+  angles 0.993 -111.916 -2.328
+  placement none
+ }
+}

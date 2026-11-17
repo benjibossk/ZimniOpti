@@ -1,0 +1,10 @@
+pack EXIT=0
+VRAM pied_ref : moyenne 4739 Mo, pic 5673 Mo ; RAM privee pic 10498 Mo, fin 9342 Mo
+pied_ref n=260 fps=119.6 pire=84.4 >50ms=1 memJeu=3214
+pack EXIT=0
+VRAM pied_vue900 : moyenne 4696 Mo, pic 5607 Mo ; RAM privee pic 10166 Mo, fin 9737 Mo
+pied_vue900 n=260 fps=122.3 pire=46.7 >50ms=0 memJeu=3155
+pack EXIT=0
+VRAM pied_int30 : moyenne 4701 Mo, pic 5672 Mo ; RAM privee pic 10450 Mo, fin 6101 Mo
+pied_int30 n=260 fps=119.5 pire=92.8 >50ms=2 memJeu=3216
+PIED_FINI

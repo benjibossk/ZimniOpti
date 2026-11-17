@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{CC41DF53B74197A0}Assets/Structures/Infrastructure/Power Plant/Data/Nuclear_Power_Plant_03_GLOBAL_MASK.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

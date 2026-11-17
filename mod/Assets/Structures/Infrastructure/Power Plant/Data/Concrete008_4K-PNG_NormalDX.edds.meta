@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{22EBAB5E7E880E3D}Assets/Structures/Infrastructure/Power Plant/Data/Concrete008_4K-PNG_NormalDX.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

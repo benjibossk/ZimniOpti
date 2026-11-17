@@ -1,0 +1,3 @@
+touch "/c/Users/benbo/Documents/My Games/ZimniBench/profile/ZimniPerf/streamconsole"; TMIN=30 bash zimni_server_series.sh "chk_omb2:vol_sol.txt::1" 2>&1 | grep -E "pack|KICK"
+L=$(ls -dt "/c/Users/benbo/Documents/My Games/ZimniBench/logs"/logs_*/ | head -1); grep -h "OMBRES\|SCRIPT +(E)" "$L/console.log" | cut -c1-140 | head -6
+rm -f "/c/Users/benbo/Documents/My Games/ZimniBench/profile/ZimniPerf/streamconsole"; grep -n DistantShadows "/c/Users/benbo/Documents/My Games/ZimniBench/profile/.save/app1874880_user76561198099035293/settings/ReforgerEngineSettings.conf"; ls -l --time-style=+%H:%M "/c/Users/benbo/Documents/My Games/ZimniBench/profile/.save/app1874880_user76561198099035293/settings/ReforgerEngineSettings.conf" | awk '{print $6}'

@@ -1,0 +1,15 @@
+pack EXIT=0
+VRAM om_ref : moyenne 4633 Mo, pic 5740 Mo ; RAM privee pic 10232 Mo, fin 9507 Mo
+om_ref n=260 fps=112.2 pire=119.1 >50ms=2 memJeu=3223
+pack EXIT=0
+VRAM om_q0 : moyenne 4528 Mo, pic 5609 Mo ; RAM privee pic 10008 Mo, fin 9201 Mo
+08:19:31.956 SCRIPT       : [ZO] REGLAGES MOTEUR : ShadowQuality=3->0 
+om_q0 n=260 fps=116.1 pire=91.9 >50ms=3 memJeu=3177
+pack EXIT=0
+VRAM om_dist0 : moyenne 4659 Mo, pic 5608 Mo ; RAM privee pic 10303 Mo, fin 9496 Mo
+08:36:23.215 SCRIPT       : [ZO] REGLAGES MOTEUR : DistantShadowsQuality=2->0 
+om_dist0 n=260 fps=121.2 pire=111.9 >50ms=2 memJeu=3201
+pack EXIT=0
+VRAM om_ref2 : moyenne 4712 Mo, pic 5735 Mo ; RAM privee pic 10420 Mo, fin 10008 Mo
+om_ref2 n=260 fps=111.0 pire=200.0 >50ms=1 memJeu=3218
+OMBRES_FINI

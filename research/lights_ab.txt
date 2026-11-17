@@ -1,0 +1,19 @@
+VRAM li_count : moyenne 3407 Mo, pic 5140 Mo ; RAM privee pic 9716 Mo, fin 3444 Mo
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=0 (446 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=0 (538 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=0 (562 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=0 (563 ms)
+count n=97 fps=85.9 pire=200.0 >50ms=8 memJeu=3115
+VRAM li_noshadow : moyenne 285 Mo, pic 285 Mo ; RAM privee pic 1148 Mo, fin 1074 Mo
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=277 (449 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=277 (543 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=277 (552 ms)
+      1 LIGHTS total=277 allumees=277 ombres=277 dynamiques=0 modifiees=277 (553 ms)
+noshadow n=97 fps=87.1 pire=200.0 >50ms=6 memJeu=3121
+VRAM li_off : moyenne 3488 Mo, pic 5139 Mo ; RAM privee pic 9871 Mo, fin 9378 Mo
+      1 LIGHTS total=277 allumees=0 ombres=277 dynamiques=0 modifiees=0 (542 ms)
+      1 LIGHTS total=277 allumees=0 ombres=277 dynamiques=0 modifiees=0 (553 ms)
+      1 LIGHTS total=277 allumees=0 ombres=277 dynamiques=0 modifiees=0 (582 ms)
+      1 LIGHTS total=277 allumees=0 ombres=277 dynamiques=0 modifiees=0 (585 ms)
+off n=97 fps=86.8 pire=200.0 >50ms=8 memJeu=3121
+LIGHTS_FINI

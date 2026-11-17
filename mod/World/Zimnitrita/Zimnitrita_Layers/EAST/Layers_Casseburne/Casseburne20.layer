@@ -1,0 +1,588 @@
+$grp SCR_IndestructibleEnvironmentalEntity : "{038844285FEE0D7A}Prefabs/Rocks/Granite/GraniteStone_01.et" {
+ {
+  coords 12457.972 0 3165.577
+  angles 2.527 69.751 -29.118
+  scale 1.104
+ }
+ {
+  coords 12471.153 0 3154.813
+  angles -37.755 -0.182 -13.773
+  scale 1.244
+ }
+ {
+  coords 12504.183 0 3182.999
+  angles 12.326 -166.834 9.072
+  scale 2.068
+ }
+ {
+  coords 12507.923 0 3196.328
+  angles -0.595 -153.071 -0.804
+  scale 1.775
+ }
+ {
+  coords 12433.945 0 3186.908
+  angles -6.161 -144.884 -5.935
+  scale 1.836
+ }
+ {
+  coords 12597.331 0 3250.066
+  angles -11.364 4.338 -13.372
+  scale 2.101
+ }
+ {
+  coords 12723.147 0 3404.71
+  angles -11.152 -81.182 -3.05
+  scale 1.788
+ }
+ {
+  coords 12793.013 0 3409.352
+  angles -4.375 -17.816 -0.471
+  scale 1.953
+ }
+ {
+  coords 12787.403 0 3393.193
+  angles 2.221 -33.282 1.752
+  scale 1.898
+ }
+ {
+  coords 12895.912 0 3515.97
+  angles 12.766 -115.003 -5.884
+  scale 1.232
+ }
+ {
+  coords 13013.705 0 3554.881
+  angles -5.18 -76.274 21.922
+  scale 1.496
+ }
+ {
+  coords 13083.363 0 3580.515
+  angles -4.846 -7.376 -6.097
+  scale 1.67
+ }
+ {
+  coords 13075.979 0 3614.194
+  angles 1.52 -175.344 -2.12
+  scale 1.726
+ }
+ {
+  coords 13059.613 0 3653.513
+  angles -2.958 -69.617 -8.662
+  scale 1.764
+ }
+ {
+  coords 13091.622 0 3740.409
+  angles 0.135 60.519 -5.204
+  scale 1.702
+ }
+ {
+  coords 13065.795 0 3736.479
+  angles 2.614 53.373 -4.718
+  scale 2.148
+ }
+ {
+  coords 13058.044 0 3728.112
+  angles 10.151 177.67 9.64
+  scale 2.119
+ }
+ {
+  coords 13170.203 0 3863.741
+  angles -5.869 76.635 2.306
+  scale 2.055
+ }
+ {
+  coords 13157.189 0 3877.414
+  angles 13.528 7.46 23.588
+  scale 1.834
+ }
+ {
+  coords 13165.788 0 3886.089
+  angles -24.604 107.964 10.128
+  scale 1.992
+ }
+ {
+  coords 13185.247 0 3901.521
+  angles 22.148 -73.311 -9.873
+  scale 2.094
+ }
+ {
+  coords 13222.389 0 3936.428
+  angles 6.78 -16.628 4.004
+  scale 1.422
+ }
+ {
+  coords 13230.436 0 3902.36
+  angles -0.565 -71.862 0.286
+  scale 2.088
+ }
+ {
+  coords 13339.411 0 3923.855
+  angles 0 -56.147 0
+  scale 2.15
+ }
+ {
+  coords 13344.449 0 3976.309
+  angles -1.671 -163.319 0.9
+  scale 2.117
+ }
+ {
+  coords 13352.53 0 3941.051
+  angles -0.468 -110.384 -1.259
+  scale 1.556
+ }
+ {
+  coords 13422.702 0 3897.136
+  angles 13.916 116.93 2.612
+  scale 1.982
+ }
+ {
+  coords 13398.818 0 3864.277
+  angles 1.194 42.857 -1.944
+  scale 1.282
+ }
+ {
+  coords 13358.525 0 3880.513
+  angles 0 -174.474 0
+  scale 1.644
+ }
+ {
+  coords 13313.035 0 3891.773
+  angles -10.573 35.178 -4.172
+  scale 1.543
+ }
+ {
+  coords 13098.071 0 3620.352
+  angles -2.219 162.442 6.306
+  scale 2.152
+ }
+ {
+  coords 13085.192 0 3635.541
+  angles 7.248 47.632 0.018
+  scale 2.028
+ }
+ {
+  coords 12412.043 0 3176.162
+  angles -2.234 -34.149 -0.106
+  scale 1.251
+ }
+ {
+  coords 12295.168 0 3156.145
+  angles 29.01 20.937 10.512
+  scale 1.524
+ }
+ {
+  coords 12222.032 0 3149.575
+  angles -17.84 118.937 -21.743
+  scale 1.29
+ }
+ {
+  coords 12223.982 0 3120.87
+  angles 5.547 160.509 2.292
+  scale 1.579
+ }
+ {
+  coords 12262.879 0 3155.777
+  angles 20.367 -27.885 -6.254
+  scale 2.112
+ }
+}
+GenericEntity : "{24DE47095BD6BE7B}Prefabs/Props/Agriculture/Farm/HayBale_01_square_big.et" {
+ coords 14128.325 38.539 4003.007
+ angles 4.102 72.162 -0.381
+ scale 0.92
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{29EA7C7ADF66D388}Prefabs/Rocks/Granite/Granite_BeachCluster_02.et" {
+ {
+  coords 12414.276 0 3181.782
+  angles 8.588 -15.778 -14.947
+  scale 0.865
+ }
+ {
+  coords 12550.754 0 3246.966
+  angles 0.967 -166.232 -2.066
+  scale 0.882
+ }
+ {
+  coords 12628.334 0 3316.558
+  angles -7.282 -23.593 -13.07
+  scale 0.899
+ }
+ {
+  coords 12641.22 0 3330.788
+  angles 3.446 -144.352 18.315
+  scale 0.975
+ }
+ {
+  coords 12649.849 0 3356.331
+  angles 0.323 35.196 1.871
+  scale 0.89
+ }
+ {
+  coords 12664.52 0 3357.83
+  angles -0.023 10.742 -2.281
+  scale 0.846
+ }
+ {
+  coords 12684.58 0 3377.852
+  angles -0.305 40.395 -3.78
+  scale 0.983
+ }
+ {
+  coords 12696.495 0 3391.782
+  angles 3.404 -173.734 -2.322
+  scale 0.824
+ }
+ {
+  coords 12772.307 0 3412.551
+  angles 0.059 -84.511 -18.644
+  scale 0.806
+ }
+ {
+  coords 13073.714 0 3628.752
+  angles -0.273 -18.185 -2.265
+  scale 0.938
+ }
+ {
+  coords 13053.356 0 3665.926
+  angles 5.589 108.881 7.052
+  scale 0.869
+ }
+ {
+  coords 13078.236 0 3749.422
+  angles -8.405 -112.962 -25.811
+  scale 0.999
+ }
+ {
+  coords 13074.035 0 3727.229
+  angles 8.585 132.367 -4.768
+  scale 0.83
+ }
+ {
+  coords 13180.642 0 3792.374
+  angles -11.234 -54.277 -4.772
+  scale 0.911
+ }
+ {
+  coords 13236.837 0 3940.325
+  angles -5.236 -171.692 -1.214
+  scale 0.824
+ }
+ {
+  coords 13243.143 0 3924.015
+  angles 3.391 70.748 9.611
+  scale 0.864
+ }
+ {
+  coords 13223.157 0 3912.532
+  angles -6.53 172.654 -1.85
+  scale 0.971
+ }
+ {
+  coords 13208.896 0 3856.474
+  angles 10.368 81.083 -10.846
+  scale 0.917
+ }
+ {
+  coords 13203.373 0 3897.181
+  angles 1.556 -143.415 -10.969
+  scale 0.901
+ }
+ {
+  coords 13366.104 0 3975.901
+  angles -6.222 -124.405 -12.789
+  scale 0.927
+ }
+ {
+  coords 13335.225 0 3968.451
+  angles 4.422 45.555 0.043
+  scale 0.892
+ }
+ {
+  coords 13402.072 0 3967.252
+  angles 0.185 120.007 19.479
+  scale 0.902
+ }
+ {
+  coords 13419.033 0 3917.086
+  angles 2.813 25.039 -7.04
+  scale 0.852
+ }
+ {
+  coords 13430.729 0 3939.408
+  angles -15.245 -117.528 0.06
+  scale 0.962
+ }
+ {
+  coords 13382.521 0 3885.352
+  angles 0 62.695 0
+  scale 0.959
+ }
+ {
+  coords 13415.803 0 3875.221
+  angles 11.37 149.445 9.549
+  scale 0.976
+ }
+ {
+  coords 13307.895 0 3926.479
+  angles 0 8.213 0
+  scale 0.834
+ }
+ {
+  coords 13019.611 0 3683.025
+  angles -6.055 61.456 3.789
+  scale 0.909
+ }
+ {
+  coords 12325.563 0 3143.094
+  angles -25.428 -21.921 10.226
+  scale 0.913
+ }
+ {
+  coords 12252.382 0 3132.072
+  angles -13.543 27.491 -12.659
+  scale 0.95
+ }
+ {
+  coords 12218.723 0 3133.39
+  angles 0.268 73.466 -3.809
+  scale 0.953
+ }
+ {
+  coords 12185.915 0 3129.783
+  angles -25.5 10.021 -4.351
+  scale 0.824
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{45BE489A63A25CA6}Prefabs/Rocks/Granite/Granite_BeachCluster_01.et" {
+ {
+  coords 12534.728 0 3228.29
+  angles -1.191 86.806 2.754
+  scale 0.999
+ }
+ {
+  coords 12570.419 0 3229.578
+  angles -13.563 167.817 -2.44
+  scale 0.833
+ }
+ {
+  coords 12584.729 0 3237.448
+  angles -8.507 -109.105 16.947
+  scale 0.847
+ }
+ {
+  coords 12754.718 0 3409.614
+  angles 1.427 -26.097 -3.187
+  scale 1.191
+ }
+ {
+  coords 12892.855 0 3528.744
+  angles 9.462 -117.743 -2.956
+  scale 1.174
+ }
+ {
+  coords 12994.224 0 3561.889
+  angles -4.758 169.901 1.299
+  scale 0.839
+ }
+ {
+  coords 13093.074 0 3594.334
+  angles -2.841 -153.124 7.538
+  scale 0.952
+ }
+ {
+  coords 13077.693 0 3591.779
+  angles -4.753 145.101 -2.126
+  scale 1.186
+ }
+ {
+  coords 13040.156 0 3684.591
+  angles -2.376 173.145 20.531
+  scale 1.139
+ }
+ {
+  coords 13035.062 0 3668.245
+  angles -3.69 112.468 -3.936
+  scale 1.185
+ }
+ {
+  coords 13144.771 0 3778.292
+  angles 2.996 -124.92 -21.233
+  scale 1.006
+ }
+ {
+  coords 13119.98 0 3744.708
+  angles 0.717 78.837 -5.598
+  scale 0.866
+ }
+ {
+  coords 13180.231 0 3810.894
+  angles -18.929 110.397 -1.038
+  scale 1.183
+ }
+ {
+  coords 13156.888 0 3862.058
+  angles 27.254 -70.207 -2.398
+  scale 0.989
+ }
+ {
+  coords 13200.025 0 3912.38
+  angles -14.874 92.084 11.432
+  scale 0.837
+ }
+ {
+  coords 13213.265 0 3924.064
+  angles -13.714 130.804 -0.237
+  scale 1.119
+ }
+ {
+  coords 13217.148 0 3885.865
+  angles 0.195 154.138 0.403
+  scale 1.166
+ }
+ {
+  coords 13199.124 0 3874.069
+  angles -0.049 -83.779 0.445
+  scale 1.036
+ }
+ {
+  coords 13231.447 0 3887.683
+  angles 3.742 -176.498 4.693
+  scale 1.1
+ }
+ {
+  coords 13314.252 0 3967.481
+  angles -3.202 -174.488 0.589
+  scale 0.857
+ }
+ {
+  coords 13303.789 0 3954.975
+  angles 4.843 1.448 2.797
+  scale 0.918
+ }
+ {
+  coords 13326.467 0 3924.457
+  angles 0 6.488 0
+  scale 0.887
+ }
+ {
+  coords 13397.888 0 3947.834
+  angles 1.578 101.388 1.23
+  scale 0.83
+ }
+ {
+  coords 13379.44 0 3957.946
+  angles 0.723 -70.284 -0.692
+  scale 1.171
+ }
+ {
+  coords 13383.705 0 3986.002
+  angles 10.589 6.068 -3.302
+  scale 1.075
+ }
+ {
+  coords 13405.366 0 3935.491
+  angles 0.372 -27.909 -1.21
+  scale 1.009
+ }
+ {
+  coords 13345.11 0 3855.473
+  angles -15.444 63.11 -2.42
+  scale 1.016
+ }
+ {
+  coords 13338.494 0 3897.665
+  angles 0 -79.977 0
+  scale 1.142
+ }
+ {
+  coords 13332.486 0 3879.057
+  angles -11.534 69.007 -7.77
+  scale 1.035
+ }
+ {
+  coords 13028.613 0 3650.135
+  angles -3.731 93.636 -4.702
+  scale 0.913
+ }
+ {
+  coords 13105.095 0 3603.589
+  angles -0.454 38.94 -7.234
+  scale 1.156
+ }
+ {
+  coords 12401.15 0 3185.41
+  angles 12.311 3.908 0.834
+  scale 1.153
+ }
+ {
+  coords 12334.885 0 3157.427
+  angles 1.373 -152.108 1.233
+  scale 0.989
+ }
+ {
+  coords 12346.293 0 3170.239
+  angles 17.56 -58.511 -9.346
+  scale 0.822
+ }
+ {
+  coords 12232.934 0 3138.077
+  angles 2.008 -133.228 6.678
+  scale 0.843
+ }
+ {
+  coords 12261.645 0 3143.806
+  angles -14.512 -18.953 3.551
+  scale 0.972
+ }
+ {
+  coords 12168.179 0 3115.35
+  angles 6.712 47.177 -18.287
+  scale 1.076
+ }
+ {
+  coords 12192.705 0 3157.082
+  angles 5.081 52.231 5.08
+  scale 1.065
+ }
+ {
+  coords 13284.146 0 3935.165
+  angles -7.645 87.577 8.692
+  scale 1.027
+ }
+}
+GenericEntity : "{71ADC9C9161F818C}Prefabs/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01_red.et" {
+ coords 8889.024 0.535 12859.122
+ angles 4.714 29.567 1.645
+}
+GenericEntity : "{86909381FEDC8B93}Prefabs/Vegetation/Tree/Debris/T_trunk_debris_02.et" {
+ coords 14377.783 53.229 3971.94
+ angles 1.172 60.766 -0.656
+ scale 0.98
+}
+SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/DefaultLibrary/Rocks/Granite/GraniteCliff_02/GraniteCliff_02.et" {
+ coords 9035.86 60.322 6955.056
+ angles 75.922 -164.457 39.869
+ scale 3.798
+}
+GenericEntity : "{EAC4A761421804BD}Prefabs/Vegetation/Tree/Debris/T_trunk_debris_01.et" {
+ coords 14206.282 44.599 4060.594
+ angles 3.538 91.22 1.862
+ scale 0.994
+}
+$grp SCR_Bird : "{EB419793F72FCE41}Prefabs/Animals/Birds/Larus_argentatus/BirdFlock_Seagull.et" {
+ {
+  coords 9483.911 44.564 7191.199
+ }
+ {
+  coords 9576.088 38.551 7186.744
+ }
+}
+$grp GenericEntity : "{F513D99A28A5E5E3}Prefabs/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01_blue.et" {
+ {
+  coords 8883.711 0.061 12853.787
+  angles 4.022 -0.032 -0.449
+ }
+ {
+  coords 8879.144 0.086 12854.486
+  angles 3.22 -19.58 -1.619
+ }
+}

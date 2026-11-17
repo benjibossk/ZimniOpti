@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{66AC340EBF3BC9A3}Assets/Structures/Hotel/Data/hotel_01_INT_etage_room1_VFX.edds"
+ Configurations {
+  EDDSResourceClass PC {
+  }
+  EDDSResourceClass XBOX_ONE : PC {
+  }
+  EDDSResourceClass XBOX_SERIES : PC {
+  }
+  EDDSResourceClass PS4 : PC {
+  }
+  EDDSResourceClass PS5 : PC {
+  }
+  EDDSResourceClass HEADLESS : PC {
+  }
+ }
+}

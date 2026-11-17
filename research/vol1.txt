@@ -1,0 +1,5 @@
+pack EXIT=0
+== vol1 (vol.txt mods= cap=1)
+FIN connecte=True CSV=bench_1794837755.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-59-52
+VRAM vol1 : moyenne 3662 Mo, pic 5204 Mo ; RAM privee pic 9739 Mo, fin 9313 Mo
+FINI

@@ -1,0 +1,15 @@
+pack EXIT=0
+VRAM t1024_sites : moyenne 2662 Mo, pic 4355 Mo ; RAM privee pic 8588 Mo, fin 8095 Mo
+t1024_sites n=16 fps=115.8 memJeu=3013
+pack EXIT=0
+VRAM t1024_sol : moyenne 4635 Mo, pic 5606 Mo ; RAM privee pic 10371 Mo, fin 9416 Mo
+t1024_sol n=260 fps=114.4 memJeu=3209
+textures d'avant remises
+pack EXIT=0
+VRAM tcur_sites : moyenne 2694 Mo, pic 4290 Mo ; RAM privee pic 8629 Mo, fin 8082 Mo
+tcur_sites n=16 fps=117.8 memJeu=3015
+pack EXIT=0
+VRAM tcur_sol : moyenne 4759 Mo, pic 5609 Mo ; RAM privee pic 10390 Mo, fin 9277 Mo
+tcur_sol n=260 fps=120.8 memJeu=3217
+version 1024 remise: 228M
+TEX_FINI

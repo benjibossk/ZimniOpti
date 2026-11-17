@@ -1,0 +1,19 @@
+KICK group=1 'REPLICATION', reason=5 'FLOODED'' a 14:18:34.455
+FIN connecte=True CSV=bench_1794835024.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-12-47
+VRAM fl_def1 : moyenne 1725 Mo, pic 3384 Mo ; RAM privee pic 9199 Mo, fin 3296 Mo
+FINI
+   fl_def1 : mesures 5, points 2, flooded 1
+FIN connecte=True CSV=bench_1794835387.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-18-47
+VRAM fl_lim1 : moyenne 2433 Mo, pic 4355 Mo ; RAM privee pic 9995 Mo, fin 9441 Mo
+FINI
+   fl_lim1 : mesures 21, points 5, flooded 0
+KICK group=1 'REPLICATION', reason=5 'FLOODED'' a 14:33:01.340
+FIN connecte=True CSV=bench_1794835857.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-26-49
+VRAM fl_def2 : moyenne 2189 Mo, pic 3966 Mo ; RAM privee pic 9790 Mo, fin 3463 Mo
+FINI
+   fl_def2 : mesures 9, points 3, flooded 1
+FIN connecte=True CSV=bench_1794836288.csv SERVEUR_CSV=perf_2026-11-16.csv LOGSRV=C:\Users\benbo\Documents\My Games\ZimniBench\srvprofile\logs\logs_2026-11-16_14-33-14
+VRAM fl_lim2 : moyenne 2386 Mo, pic 4354 Mo ; RAM privee pic 10031 Mo, fin 9491 Mo
+FINI
+   fl_lim2 : mesures 21, points 5, flooded 0
+FLOOD_FINI

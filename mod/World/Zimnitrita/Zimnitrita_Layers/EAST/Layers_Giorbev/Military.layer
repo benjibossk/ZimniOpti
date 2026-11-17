@@ -1,0 +1,84 @@
+$grp StaticModelEntity : "{68FA4E56264168B7}PrefabLibrary/DefaultLibrary/Infrastructure/Towers/TransmitterTower_01_small.et" {
+ {
+  components {
+   ScriptedRadioComponent "{5CB8819A8A9586AD}" {
+    Transceivers {
+     RelayTransceiver "{5CB8819A87245351}" {
+      "Transmitting Range" 2000
+     }
+    }
+   }
+  }
+  coords 15766.003 138.625 8850.977
+  {
+   GenericEntity {
+    ID "5E0EE6168CAE86C7"
+    {
+     GenericEntity {
+      ID "5E0670C4B6BF785A"
+      {
+       GenericEntity {
+        ID "5A0882CA93C16A09"
+        coords 0.481 -20.984 -0.592
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   ScriptedRadioComponent "{5CB8819A8A9586AD}" {
+    Transceivers {
+     RelayTransceiver "{5CB8819A87245351}" {
+      "Transmitting Range" 2000
+     }
+    }
+   }
+  }
+  coords 15550.13 52.125 4556.095
+  angles 0 -5.469 0
+ }
+}
+$grp StaticModelEntity : "{91283BF99092C930}PrefabLibrary/DefaultLibrary/Infrastructure/Towers/TransmitterTower_01_medium.et" {
+ {
+  components {
+   ScriptedRadioComponent "{5CB8819ABF076BA3}" {
+    Transceivers {
+     RelayTransceiver "{5CB8819ABDEE5A44}" {
+      "Transmitting Range" 2000
+     }
+    }
+   }
+  }
+  coords 11639.41 16.219 16283.66
+ }
+ {
+  components {
+   ScriptedRadioComponent "{5CB8819ABF076BA3}" {
+    Transceivers {
+     RelayTransceiver "{5CB8819ABDEE5A44}" {
+      "Transmitting Range" 2000
+     }
+    }
+   }
+  }
+  coords 14079.766 79.998 3057.958
+ }
+ {
+  components {
+   ScriptedRadioComponent "{5CB8819ABF076BA3}" {
+    Transceivers {
+     RelayTransceiver "{5CB8819ABDEE5A44}" {
+      "Transmitting Range" 2000
+     }
+    }
+   }
+  }
+  coords 16161.944 68.786 14504.726
+ }
+}
+StaticModelEntity : "{DBCDEC45DB834E8A}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/TransmitterTower_01.et" {
+ coords 11209.248 70.656 14914.821
+}
