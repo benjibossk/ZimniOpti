@@ -13,6 +13,18 @@ This repo contains:
 
 ---
 
+## At a glance
+
+![Memory](docs/memory.svg)
+
+![Streaming](docs/streaming.svg)
+
+![Gains](docs/gains.svg)
+
+Full research log with every card: [research/README.md](research/README.md)
+
+---
+
 ## TL;DR: the main finding
 
 **Consoles don't run slowly on Zimnitrita. They run out of memory and crash.**
@@ -71,6 +83,7 @@ All of these stayed within the benchmark noise (about ±5 %) or gave no useful m
 - Zimnitrita's own building textures total **2.8 GB** at source size: hotel 916 MB, power plant 554 MB, bunkers 366 MB, prison 198 MB. A big Bohemia building uses 34–64 MB. Prefer 2048 textures, and share materials between buildings.
 - A texture override with the same path and the same GUID is loaded only once. Overriding a base-game texture does not double the memory.
 - Map-specific prefabs have no LOD and no occluder. A prefab override can add a max draw distance, but we tested it: hiding the most numerous ones (4,412 rails) or all small props beyond 250 m gave 0 to +3 % (F4, F29), and hidden objects still use memory. Real LODs and occluders are made in the 3D model (Blender), so this is mapper-side work, mainly useful for big unique buildings.
+- **Fewer trees, placed with intent**: 2.42 M trees against 0.85 M on Kolguev. Turning parts of the dense forests into logging clearings, young plantations or tree nurseries (Everon has some) cuts thousands of trees per zone. Done in the map itself, it is identical on every machine and stays destructible. It is the most effective change left for console memory.
 - Fewer unique models means less resident memory: 4,891 distinct models, against 1,665 for Kolguev.
 - Per-platform texture settings (`.meta` configurations for XBOX_SERIES and PS5) are the clean way to keep full quality on PC and reduced textures on console. They need the source images, so this has to be done on the map side.
 

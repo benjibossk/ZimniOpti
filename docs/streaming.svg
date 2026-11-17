@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" font-family="Segoe UI,Arial,sans-serif">
+<rect width="720" height="340" rx="14" fill="#14181f"/>
+<text x="24" y="38" fill="#e8ecf2" font-size="20" font-weight="700">How the streaming works · Comment marche le streaming</text>
+<g stroke="#2a3140">
+<g fill="#1d2430">
+<rect x="40" y="70" width="60" height="60"/><rect x="100" y="70" width="60" height="60"/><rect x="160" y="70" width="60" height="60"/><rect x="220" y="70" width="60" height="60"/><rect x="280" y="70" width="60" height="60"/>
+<rect x="40" y="130" width="60" height="60"/><rect x="280" y="130" width="60" height="60"/>
+<rect x="40" y="190" width="60" height="60"/><rect x="280" y="190" width="60" height="60"/>
+<rect x="40" y="250" width="60" height="60"/><rect x="100" y="250" width="60" height="60"/><rect x="160" y="250" width="60" height="60"/><rect x="220" y="250" width="60" height="60"/><rect x="280" y="250" width="60" height="60"/></g>
+<g fill="#2f6b4c"><rect x="100" y="130" width="60" height="60"/><rect x="160" y="130" width="60" height="60"/><rect x="220" y="130" width="60" height="60"/><rect x="100" y="190" width="60" height="60"/><rect x="160" y="190" width="60" height="60"/><rect x="220" y="190" width="60" height="60"/></g></g>
+<circle cx="190" cy="190" r="95" fill="none" stroke="#7fd1a4" stroke-width="2" stroke-dasharray="6 5"/>
+<circle cx="190" cy="190" r="7" fill="#ffd166"/>
+<text x="200" y="186" fill="#ffd166" font-size="12">camera</text>
+<g font-size="14" fill="#e8ecf2">
+<text x="370" y="86">• Map split into 1 km tiles (236 tiles,</text>
+<text x="382" y="106">~2.6 M trees, bushes, small props)</text>
+<text x="370" y="140" fill="#7fd1a4">• Console: tiles created only inside the radius</text>
+<text x="382" y="160" fill="#9aa4b2">1 300 m (Series S/PS4) · 1 700 m (X/PS5)</text>
+<text x="370" y="194">• Never-created object = 0 memory</text>
+<text x="382" y="214" fill="#9aa4b2">(deleting later does NOT give memory back)</text>
+<text x="370" y="248">• PC &amp; server: whole map created</text>
+<text x="382" y="268" fill="#9aa4b2">AI, bullets, collisions unchanged</text>
+<text x="370" y="302">• Walls/fences stay in the map (destructible)</text>
+</g>
+</svg>
