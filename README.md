@@ -1,6 +1,8 @@
 # ZimniOpti: making Zimnitrita playable on console
 
 ZimniOpti is an Arma Reforger add-on that optimizes the **Zimnitrita** map so it stops crashing and runs smoother on **Xbox Series S/X and PS5**.
+🇫🇷 [Version française](README.fr.md)
+
 Workshop GUID: `6ACEAD5654BD416A`.
 
 This repo contains:
@@ -8,7 +10,6 @@ This repo contains:
 - the benchmark and data tools used to measure everything (`tools/`);
 - the complete research log with every measurement (`research/OPTI_MEMOIRE.md`, in French, one card per finding F1–F36).
 
-> *En français : le journal de recherche complet est `research/OPTI_MEMOIRE.md`. Ce README en est le résumé, en anglais pour pouvoir le partager.*
 
 ---
 
