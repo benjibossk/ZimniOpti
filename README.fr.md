@@ -69,7 +69,7 @@ Tous ces tests sont restés dans la variation normale du banc (environ ±5 %) ou
 
 - Les textures des bâtiments propres à Zimnitrita pèsent **2,8 Go** en taille d'origine : hôtel 916 Mo, centrale 554 Mo, bunkers 366 Mo, prison 198 Mo. Un gros bâtiment Bohemia, c'est 34 à 64 Mo. Préférer des textures en 2048 et partager les matériaux entre bâtiments.
 - Une texture remplacée avec le même chemin et le même identifiant n'est chargée qu'une fois. Remplacer une texture du jeu de base ne double pas la mémoire.
-- Les modèles propres à la carte n'ont ni niveaux de détail, ni objet d'occlusion, ni distance d'affichage maximale. Les ajouter est le plus gros gain qui reste côté carte (F4).
+- Les modèles propres à la carte n'ont ni niveaux de détail, ni objet d'occlusion. Un override de prefab peut ajouter une distance d'affichage maximale, mais on l'a testé : cacher les plus nombreux (4 412 rails) ou tous les petits objets au-delà de 250 m a donné 0 à +3 % (F4, F29), et un objet caché occupe toujours la mémoire. Les vrais niveaux de détail et objets d'occlusion se font dans le modèle 3D (Blender) : c'est un travail côté carte, surtout utile pour les gros bâtiments uniques.
 - Moins de modèles différents, c'est moins de mémoire occupée en permanence : Zimnitrita en a 4 891, contre 1 665 pour Kolguev.
 - Le réglage de texture par plateforme (configurations XBOX_SERIES et PS5 dans les `.meta`) est la façon propre de garder la pleine qualité sur PC et des textures réduites sur console. Il faut les images sources, donc ça se fait côté carte.
 
