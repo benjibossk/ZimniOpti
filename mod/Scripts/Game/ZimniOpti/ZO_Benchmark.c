@@ -17,6 +17,11 @@ class ZO_BenchMissionHeader : SCR_MissionHeader
 {
 }
 
+// Variante « Combat » : même parcours + IA qui se battent, véhicules et bâtiments détruits autour de la ville.
+class ZO_BenchWarMissionHeader : ZO_BenchMissionHeader
+{
+}
+
 class ZO_Benchmark
 {
 	protected static const string POINTS_FILE = "$profile:ZimniPerf/bench_points.txt";
@@ -75,6 +80,24 @@ class ZO_Benchmark
 		m_fFlySpeed = 40;
 		m_fFlyH = 30;
 		m_fFlyWait = 25;
+		Print("[ZO] BENCH entete = " + GetGame().GetMissionHeader().Type().ToString());
+		if (ZO_BenchWarMissionHeader.Cast(GetGame().GetMissionHeader()))
+		{
+			// 6 escouades par camp, 4 véhicules, une explosion toutes les 6 s, centrées sur le 1er point
+			m_iWarSquads = 6;
+			m_iWarVeh = 4;
+			m_iWarBoom = 6;
+			m_iWarAt = 0;
+			m_fFlyWait = 40;
+			AddPoint("Combat", 12329, 10275);
+			for (int t = 0; t < 2; t++)
+			{
+				AddPoint("Combat N", 12329, 10025);
+				AddPoint("Combat E", 12579, 10275);
+				AddPoint("Combat S", 12329, 10525);
+				AddPoint("Combat O", 12079, 10275);
+			}
+		}
 		AddPoint("Ville", 12329, 10275);
 		AddPoint("Nord-Ouest", 11500, 9500);
 		AddPoint("Nord-Est", 12500, 9500);

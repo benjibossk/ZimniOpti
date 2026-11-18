@@ -5,6 +5,7 @@
 class ZO_War
 {
 	protected static const ResourceName WAR_US = "{DDF3799FA1387848}Prefabs/Groups/BLUFOR/Group_US_RifleSquad.et";
+	protected static const ResourceName WAR_WP = "{B3E7B8DC2BAB8ACC}Prefabs/AI/Waypoints/AIWaypoint_SearchAndDestroy.et";
 	protected static const ResourceName WAR_RU = "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et";
 
 	protected static ResourceName Veh(int i)
@@ -62,9 +63,9 @@ class ZO_War
 
 		for (int i = 0; i < squads; i++)
 		{
-			float dz = (i - squads * 0.5) * 40;
-			SpawnGroup(WAR_US, Vector(center[0] - 150, 0, center[2] + dz), world);
-			SpawnGroup(WAR_RU, Vector(center[0] + 150, 0, center[2] + dz), world);
+			float dz = (i - squads * 0.5) * 25;
+			SpawnGroup(WAR_US, Vector(center[0] - 50, 0, center[2] + dz), world);
+			SpawnGroup(WAR_RU, Vector(center[0] + 50, 0, center[2] + dz), world);
 		}
 		Print(string.Format("[ZO] GUERRE : %1 escouades/camp, %2 vehicules, boom %3 s a %4", squads, s_aVeh.Count(), boomS, center));
 	}
@@ -73,8 +74,14 @@ class ZO_War
 	protected static void SpawnGroup(ResourceName prefab, vector pos, BaseWorld world)
 	{
 		IEntity g = Spawn(prefab, pos, world);
-		if (g)
-			s_aGroups.Insert(g);
+		if (!g)
+			return;
+		s_aGroups.Insert(g);
+		// ordre « chercher et détruire » au centre : les deux camps vont au contact
+		AIGroup ag = AIGroup.Cast(g);
+		AIWaypoint wp = AIWaypoint.Cast(Spawn(WAR_WP, s_vCenter, world));
+		if (ag && wp)
+			ag.AddWaypoint(wp);
 	}
 
 	protected static IEntity Spawn(ResourceName prefab, vector pos, BaseWorld world)
@@ -94,7 +101,7 @@ class ZO_War
 		{
 			IEntity v = s_aVeh[Math.Mod(s_iBoomIdx + i, s_aVeh.Count())];
 			SCR_DamageManagerComponent dm = SCR_DamageManagerComponent.GetDamageManager(v);
-			if (dm && !dm.GetState() == EDamageState.DESTROYED)
+			if (dm && dm.GetState() != EDamageState.DESTROYED)
 			{
 				dm.Kill(Instigator.CreateInstigator(null));
 				s_iBoomIdx += i + 1;

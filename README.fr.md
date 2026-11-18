@@ -43,7 +43,7 @@ Le moteur **ne rend pas la mémoire** d'un objet supprimé après sa création (
 | **Distance de vue plafonnée** (`ZO_ConsoleViewCap.c`) | 1 200 m sur Series S, One et PS4 ; 1 600 m sur Series X et PS5. | +13 % de FPS en moyenne, jusqu'à +50 % sur les pires points (F5). |
 | **Ombres lointaines au minimum** (console, sur Zimnitrita seulement) | Le réglage du joueur est remis en quittant, car le jeu enregistre les réglages à la sortie. | +8,6 % de FPS à pied (F32). |
 | **Textures 4096 réduites en 2048** | Le plus grand niveau de détail de la texture est retiré, sans recompression, avec le même identifiant que l'original, qui est donc remplacé. | −716 Mo de mémoire vidéo là où ces bâtiments sont visibles : hôtel, prison, centrale (F1). |
-| **Scénario de benchmark intégré** | « ZimniOpti - Benchmark » : la caméra suit un parcours fixe et le résultat s'affiche à la fin, pour que les testeurs le prennent en photo. | — |
+| **Scénarios de benchmark intégrés** | « ZimniOpti - Benchmark » : la caméra suit un parcours fixe et le résultat s'affiche à la fin, pour que les testeurs le prennent en photo. « ZimniOpti - Benchmark Combat » : même parcours, plus 6 escouades d'IA par camp (environ 90 soldats) qui se battent en ville, 4 véhicules, et un véhicule ou un bâtiment détruit toutes les 6 s. | PC en console simulée : 74,4 FPS en combat, contre 88,9 avec deux fois moins de charge. |
 
 **Côté serveur (pas dans le mod) :** lancer le serveur dédié avec `-streamingBudget 200 -streamsDelta 20`. Avec les valeurs par défaut, les joueurs étaient expulsés (« REPLICATION FLOODED ») après une téléportation, 2 fois sur 2. Avec ces valeurs, 0 fois sur 2 (F23).
 

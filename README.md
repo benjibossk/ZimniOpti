@@ -44,7 +44,7 @@ The engine does **not give memory back** when an object is deleted after being c
 | **View distance cap** (`ZO_ConsoleViewCap.c`) | 1,200 m on Series S / One / PS4, 1,600 m on Series X / PS5. | +13 % FPS on average, up to +50 % on the worst spots (F5). |
 | **Distant shadows at minimum** (console, Zimnitrita only) | The player's own setting is restored on exit, because the game saves engine settings when it quits. | +8.6 % FPS on foot (F32). |
 | **4096 textures reduced to 2048** | The top mip level is dropped without recompression, with the same GUID so the mod's version replaces the original. | −716 MB of VRAM where those buildings are visible (hotel, prison, power plant) (F1). |
-| **Built-in benchmark scenario** | "ZimniOpti - Benchmark": the camera flies a fixed route and the result shows on screen at the end, so testers can photograph it. | — |
+| **Built-in benchmark scenarios** | "ZimniOpti - Benchmark": the camera flies a fixed route and the result shows on screen at the end, so testers can photograph it. "ZimniOpti - Benchmark Combat": same route, plus 6 AI squads per side (~90 soldiers) fighting in the town, 4 vehicles, and a vehicle or building destroyed every 6 s. | PC with simulated console: 74.4 FPS in combat against 88.9 with half the load. |
 
 **Server side (not in the mod):** start the dedicated server with `-streamingBudget 200 -streamsDelta 20`. With the defaults, clients got kicked with `REPLICATION FLOODED` after a teleport in 2 runs out of 2; with these values, 0 out of 2 (F23).
 
