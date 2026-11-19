@@ -21,7 +21,7 @@ This repo contains:
 
 ![Gains](docs/gains.svg)
 
-Full research log with every card: [research/README.md](research/README.md)
+Full research log with every card: [research/README.md](research/README.md) · Map budget rules (Everon = safe, original Zimnitrita = danger): [research/REGLES.md](research/REGLES.md)
 
 ---
 

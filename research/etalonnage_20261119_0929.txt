@@ -1,0 +1,34 @@
+== eden_vol
+[ZO] BENCH ville la plus dense : <4892.62, 0, 7150> (90 batiments)
+FPS moyens : 133.2 | FPS mini (3 s) : 73.5
+Pire image : 35 ms
+Saccades > 50 ms : 0 | > 100 ms : 0
+Memoire jeu max : 1657 Mo
+VRAM moy 2875 Mo pic 3440 Mo ; RAM privee pic 5917 Mo
+== eden_combat
+[ZO] BENCH ville la plus dense : <4892.62, 0, 7150> (90 batiments)
+FPS moyens : 100.0 | FPS mini (3 s) : 43.9
+Pire image : 62 ms
+Saccades > 50 ms : 2 | > 100 ms : 0
+Memoire jeu max : 1773 Mo
+VRAM moy 3427 Mo pic 4091 Mo ; RAM privee pic 6738 Mo
+== arland_vol
+[ZO] BENCH ville la plus dense : <3370.25, 0, 2587.67> (39 batiments)
+FPS moyens : 143.6 | FPS mini (3 s) : 138.3
+Pire image : 18 ms
+Saccades > 50 ms : 0 | > 100 ms : 0
+Memoire jeu max : 1010 Mo
+VRAM moy 2165 Mo pic 2363 Mo ; RAM privee pic 4012 Mo
+== arland_combat
+[ZO] BENCH ville la plus dense : <3370.25, 0, 2587.67> (39 batiments)
+FPS moyens : 117.8 | FPS mini (3 s) : 41.3
+Pire image : 51 ms
+Saccades > 50 ms : 1 | > 100 ms : 0
+Memoire jeu max : 1141 Mo
+VRAM moy 2674 Mo pic 2949 Mo ; RAM privee pic 4792 Mo
+== zopti_vol
+FPS moyens : 96.1 | FPS mini (3 s) : 43.6
+Pire image : 85 ms
+Saccades > 50 ms : 6 | > 100 ms : 0
+Memoire jeu max : 3101 Mo
+VRAM moy 3378 Mo pic 5140 Mo ; RAM privee pic 9650 Mo

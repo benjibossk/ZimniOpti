@@ -8,7 +8,7 @@ S="C:/Users/benbo/tools/PakTools/staging/publish_hors_mod"
 case "$1" in
   avant)
     mkdir -p "$S"
-    for f in Missions/ZO_Bench.conf Missions/ZO_Bench.conf.meta; do
+    for f in Missions/ZO_Bench.conf Missions/ZO_Bench.conf.meta Missions/ZO_Benchmark_Eden.conf Missions/ZO_Benchmark_Eden.conf.meta Missions/ZO_BenchmarkCombat_Eden.conf Missions/ZO_BenchmarkCombat_Eden.conf.meta Missions/ZO_Benchmark_Arland.conf Missions/ZO_Benchmark_Arland.conf.meta Missions/ZO_BenchmarkCombat_Arland.conf Missions/ZO_BenchmarkCombat_Arland.conf.meta; do
       [ -f "$M/$f" ] && mv "$M/$f" "$S/" && echo "sorti : $f"
     done
     [ -d "$M/Scripts/WorkbenchGame" ] && echo "ATTENTION : Scripts/WorkbenchGame est revenu dans le mod (outil MCP) - a retirer"
@@ -16,7 +16,7 @@ case "$1" in
     echo "Pret a publier. Apres publication : bash zimni_publish_prep.sh apres"
     ;;
   apres)
-    for f in ZO_Bench.conf ZO_Bench.conf.meta; do
+    for f in ZO_Bench.conf ZO_Bench.conf.meta ZO_Benchmark_Eden.conf ZO_Benchmark_Eden.conf.meta ZO_BenchmarkCombat_Eden.conf ZO_BenchmarkCombat_Eden.conf.meta ZO_Benchmark_Arland.conf ZO_Benchmark_Arland.conf.meta ZO_BenchmarkCombat_Arland.conf ZO_BenchmarkCombat_Arland.conf.meta; do
       [ -f "$S/$f" ] && mv "$S/$f" "$M/Missions/" && echo "remis : Missions/$f"
     done
     ;;

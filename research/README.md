@@ -7,6 +7,8 @@ Chaque trouvaille est une fiche de [OPTI_MEMOIRE.md](OPTI_MEMOIRE.md) : constat,
 
 **Legend · Légende** : ✅ applied / appliqué · ❌ no gain / sans gain · ⚠️ pitfall / piège · ⭐ key finding / découverte clé · 🔎 investigation / analyse
 
+**Map budget rules · Règles chiffrées : [REGLES.md](REGLES.md)**
+
 | Card | | Title (FR) |
 |---|---|---|
 | F1 | ✅ | Les textures 4096 pèsent ~2,4 Gio de VRAM — appliqué, −0,7 Go VRAM mesuré (rendu en jeu à confirmer) |
@@ -50,6 +52,7 @@ Chaque trouvaille est une fiche de [OPTI_MEMOIRE.md](OPTI_MEMOIRE.md) : constat,
 | F34 | 🔎 | Journal inondé par les objets cassables créés par le streamer (2026-11-17) — piste |
 | F35 | ❌ | Tuiles terrain (couleur + relief) 512 → 256 — (2026-11-17) |
 | F36 | ⚠️ | Les objets créés par le streamer sont INCASSABLES (version publiée) (2026-11-17) |
+| F37 | ⭐ | Étalonnage Phase 0 : Arland / Everon / Zimnitrita, survol + combat (2026-11-19) |
 
 Raw benchmark outputs (`*.txt`, `*.csv`, heatmaps `*.png`) are in this folder, one file per A/B test.
 Les résultats bruts du banc (`*.txt`, `*.csv`, cartes de chaleur `*.png`) sont dans ce dossier, un fichier par test A/B.

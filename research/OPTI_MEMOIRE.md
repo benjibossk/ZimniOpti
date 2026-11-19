@@ -445,3 +445,27 @@ Points Ungru (1697, 15080) ↔ Ajvan (15761, 14512), 1 min par étape, VRAM = co
 - **Faire apparaître un objet cassable ?** La voie moteur = prefab à composant `SCR_DestructionMultiPhaseComponent` (dégâts par composant) + `RplComponent`, créé PAR LE SERVEUR et répliqué. Mais c'est justement le coût réseau/CPU qu'on veut éviter (F23 : flood) et il faudrait refaire chaque prefab de mur. Pour 22 k objets éparpillés : pas rentable. Pour les arbres : pas de solution simple (même problème × 430 k).
 - **Correctif retenu (A)** : murs, clôtures, panneaux, poteaux (431 prefabs, 63 676 objets = 2 % du streaming) laissés dans la carte → redeviennent cassables. Arbres/buissons restent streamés (incassables, gain perf gardé). Outil : `zimni_stream_build.py --keep analyses/keep_destructibles.txt` → staging/World_stream_v3, Stream_data_v3, Stream_conf_v3.
 - ✅ Test banc v3 (2026-11-17) : 0 mur créé en cours de partie (contre ~22 000), arbres inchangés (~470 000), 0 erreur ZO. Sol 103,5 FPS, mem 3 277 Mo (réfs sol 107-120 FPS, ~3 210 Mo) ; vol 110,1 FPS, 3 097 Mo (réf 106,2, 3 042). Coût ≈ +60 Mo, FPS dans le bruit. Reste : contrôle en jeu (un mur casse, rien en double). Version publiable remise dans le mod après le test.
+
+## F37 — ⭐ Étalonnage Phase 0 : Arland / Everon / Zimnitrita, survol + combat (2026-11-19)
+- **Constat** : il fallait des repères « sûr » et « danger » mesurés dans le même scénario, pour le projet de règles avec Giorbev.
+- **Test** : scénarios « Benchmark » et « Benchmark Combat » sur chaque carte. Le parcours est le même partout (12 km, à 40 m/s et 30 m de haut), calé sur la ville la plus dense de chaque carte. Le combat met 6 escouades par camp (environ 90 IA), 4 véhicules, et une destruction de véhicule ou de bâtiment toutes les 6 s. Vue à 1 200 m partout. Un passage par cas (`zimni_etalonnage.sh`, `analyses/etalonnage_*.txt`).
+
+| | Arland | Everon | Zimni + Opti | Zimni d'origine |
+|---|---|---|---|---|
+| Survol : mémoire du jeu (pic) | 1,01 Go | 1,66 Go | 3,10 Go | 4,13 Go |
+| Combat : mémoire du jeu (pic) | 1,14 Go | 1,77 Go | 3,44 Go | 4,36 Go |
+| Combat : RAM privée (pic) | 4,8 Go | 6,7 Go | 9,8 Go | 11,2 Go |
+| Combat : VRAM (pic) | 2,9 Go | 4,1 Go | 5,2 Go | 5,4 Go |
+| Survol : FPS moyens / mini | 144 / 138 | 133 / 74 | 96 / 44 | 111 / 60 |
+| Combat : FPS moyens / mini | 118 / 41 | 100 / 44 | 85 / 41 | 90 / 21 |
+| Combat : saccades > 50 / > 100 ms | 1 / 0 | 2 / 0 | 28 / 2 | 102 / 14 |
+
+Pour Zimnitrita d'origine en survol, la mesure VRAM/RAM est invalide : l'outil a mesuré le mauvais processus.
+
+- **Résultat** :
+  - **Repère « sûr »** (Everon) : environ 1,8 Go de mémoire de jeu et 7 Go de RAM en combat.
+  - **Repère « danger »** (Zimnitrita d'origine) : 4,1 à 4,4 Go de mémoire de jeu et 11 Go de RAM.
+  - **ZimniOpti** fait gagner environ 1 Go de mémoire de jeu et divise par 4 les saccades en combat. La carte reste environ 2 fois plus lourde qu'Everon.
+  - **La mémoire dépend de la carte, les FPS de la charge** : le combat ajoute 0,1 à 0,3 Go, mais coûte 15 à 25 % de FPS.
+  - **Point négatif** : en survol, ZimniOpti fait perdre des FPS sur PC (96 contre 111), à cause du coût de création des objets au fil du vol. À vérifier sur console.
+- **Limites** : un seul passage par cas (bruit d'environ ±5 %). Mesures sur PC uniquement. Les vrais seuils demandent une photo Series S sur Everon et une sur Zimnitrita.

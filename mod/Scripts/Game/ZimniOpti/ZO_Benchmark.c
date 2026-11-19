@@ -80,7 +80,12 @@ class ZO_Benchmark
 		m_fFlySpeed = 40;
 		m_fFlyH = 30;
 		m_fFlyWait = 25;
-		Print("[ZO] BENCH entete = " + GetGame().GetMissionHeader().Type().ToString());
+		// Ville de référence : fixe sur Zimnitrita, sinon la plus dense en bâtiments (même trajet relatif sur toutes les cartes)
+		vector town = Vector(12329, 0, 10275);
+		if (!GetGame().GetWorldFile().Contains("Zimnitrita"))
+			town = FindDenseTown();
+		m_vTown = town;
+		Print("[ZO] BENCH entete = " + GetGame().GetMissionHeader().Type().ToString() + " ville=" + town);
 		if (ZO_BenchWarMissionHeader.Cast(GetGame().GetMissionHeader()))
 		{
 			// 6 escouades par camp, 4 véhicules, une explosion toutes les 6 s, centrées sur le 1er point
@@ -89,20 +94,73 @@ class ZO_Benchmark
 			m_iWarBoom = 6;
 			m_iWarAt = 0;
 			m_fFlyWait = 40;
-			AddPoint("Combat", 12329, 10275);
+			AddPointRel("Combat", 0, 0);
 			for (int t = 0; t < 2; t++)
 			{
-				AddPoint("Combat N", 12329, 10025);
-				AddPoint("Combat E", 12579, 10275);
-				AddPoint("Combat S", 12329, 10525);
-				AddPoint("Combat O", 12079, 10275);
+				AddPointRel("Combat N", 0, -250);
+				AddPointRel("Combat E", 250, 0);
+				AddPointRel("Combat S", 0, 250);
+				AddPointRel("Combat O", -250, 0);
 			}
 		}
-		AddPoint("Ville", 12329, 10275);
-		AddPoint("Nord-Ouest", 11500, 9500);
-		AddPoint("Nord-Est", 12500, 9500);
-		AddPoint("Sud", 10500, 5500);
-		AddPoint("Retour", 12329, 10275);
+		AddPointRel("Ville", 0, 0);
+		AddPointRel("Nord-Ouest", -829, -775);
+		AddPointRel("Nord-Est", 171, -775);
+		AddPointRel("Sud", -1829, -4775);
+		AddPointRel("Retour", 0, 0);
+	}
+
+	protected vector m_vTown;
+	protected static int s_iDense;
+
+	// Point relatif à la ville ; si on sort de la terre, on renvoie le décalage de l'autre côté
+	protected void AddPointRel(string label, float dx, float dz)
+	{
+		BaseWorld w = GetGame().GetWorld();
+		vector mn, mx;
+		w.GetBoundBox(mn, mx);
+		float x = m_vTown[0] + dx;
+		float z = m_vTown[2] + dz;
+		if (x < mn[0] + 300 || x > mx[0] - 300 || w.GetSurfaceY(x, z) < 1)
+			x = m_vTown[0] - dx;
+		if (z < mn[2] + 300 || z > mx[2] - 300 || w.GetSurfaceY(x, z) < 1)
+			z = m_vTown[2] - dz;
+		AddPoint(label, x, z);
+	}
+
+	// Cherche la zone la plus dense en bâtiments destructibles (grille de 750 m, rayon 300 m)
+	protected vector FindDenseTown()
+	{
+		BaseWorld w = GetGame().GetWorld();
+		vector mn, mx;
+		w.GetBoundBox(mn, mx);
+		vector best = Vector((mn[0] + mx[0]) * 0.5, 0, (mn[2] + mx[2]) * 0.5);
+		int bestN = -1;
+		for (float x = mn[0] + 500; x < mx[0] - 500; x += 750)
+		{
+			for (float z = mn[2] + 500; z < mx[2] - 500; z += 750)
+			{
+				if (w.GetSurfaceY(x, z) < 1)
+					continue;
+				s_iDense = 0;
+				vector c = Vector(x, 0, z);
+				w.QueryEntitiesBySphere(c, 300, CountDense, null, EQueryEntitiesFlags.STATIC);
+				if (s_iDense > bestN)
+				{
+					bestN = s_iDense;
+					best = c;
+				}
+			}
+		}
+		Print("[ZO] BENCH ville la plus dense : " + best + " (" + bestN + " batiments)");
+		return best;
+	}
+
+	protected static bool CountDense(IEntity e)
+	{
+		if (e.FindComponent(SCR_DestructibleBuildingComponent))
+			s_iDense++;
+		return true;
 	}
 
 	protected void AddPoint(string label, float x, float z)
@@ -641,7 +699,7 @@ modded class ArmaReforgerScripted
 
 		if (!m_ZO_Bench)
 		{
-			if (!ZO_Benchmark.ShouldRun() || (!GetWorldFile().Contains("Zimnitrita") && !GetWorldFile().Contains("GM_Eden")))
+			if (!ZO_Benchmark.ShouldRun() || (!GetWorldFile().Contains("Zimnitrita") && !GetWorldFile().Contains("GM_Eden") && !GetWorldFile().Contains("GM_Arland")))
 				return;
 
 			// Attend un monde chargé + une caméra ou un personnage, puis 20 s de streaming

@@ -20,7 +20,7 @@ Ce dépôt contient :
 
 ![Gains](docs/gains.svg)
 
-Le détail de chaque recherche : [research/README.md](research/README.md)
+Le détail de chaque recherche : [research/README.md](research/README.md) · Règles chiffrées (Everon = sûr, Zimnitrita d'origine = danger) : [research/REGLES.md](research/REGLES.md)
 
 ---
 
